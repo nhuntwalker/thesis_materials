@@ -1,0 +1,7 @@
+\begin{thebibliography}{1}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{{Iben} \& {Renzini}(1983)}]{1983ARA&A..21..271I}
+{Iben}, Jr., I., \& {Renzini}, A. 1983, \araa, 21, 271
+
+\end{thebibliography}

@@ -1,0 +1,28 @@
+% This file was created with JabRef 2.8.1.
+% Encoding: MacRoman
+
+@ARTICLE{1983ARA&A..21..271I,
+  author = {{Iben}, Jr., I. and {Renzini}, A.},
+  title = {{Asymptotic giant branch evolution and beyond}},
+  journal = {\araa},
+  year = {1983},
+  volume = {21},
+  pages = {271-342},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/1983ARA%26A..21..271I},
+  doi = {10.1146/annurev.aa.21.090183.001415},
+  keywords = {Asymptotic Giant Branch Stars, Giant Stars, Stellar Evolution, Stellar
+	Mass Ejection, Supernovae, White Dwarf Stars, Abundance, Pulsed Radiation,
+	Star Clusters, Stellar Spectrophotometry, Thermal Radiation}
+}
+
+@comment{jabref-meta: selector_review:}
+
+@comment{jabref-meta: selector_publisher:}
+
+@comment{jabref-meta: selector_author:}
+
+@comment{jabref-meta: selector_journal:}
+
+@comment{jabref-meta: selector_keywords:}
+
