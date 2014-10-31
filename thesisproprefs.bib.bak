@@ -1,6 +1,1208 @@
 % This file was created with JabRef 2.8.1.
 % Encoding: MacRoman
 
+@ARTICLE{2003MNRAS.341.1205V,
+  author = {{van Loon}, J.~T. and {Marshall}, J.~R. and {Matsuura}, M. and {Zijlstra},
+	A.~A.},
+  title = {{The superwind mass-loss rate of the metal-poor carbon star LI-LMC
+	1813 in the LMC cluster KMHK 1603}},
+  journal = {\mnras},
+  year = {2003},
+  volume = {341},
+  pages = {1205-1216},
+  month = jun,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2003MNRAS.341.1205V},
+  doi = {10.1046/j.1365-8711.2003.06483.x},
+  eprint = {arXiv:astro-ph/0302083},
+  keywords = {stars: AGB and post-AGB, stars: carbon, stars: evolution, stars: mass-loss,
+	Magellanic Clouds, infrared: stars},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2011ARA&A..49..301V,
+  author = {{van der Kruit}, P.~C. and {Freeman}, K.~C.},
+  title = {{Galaxy Disks}},
+  journal = {\araa},
+  year = {2011},
+  volume = {49},
+  pages = {301-371},
+  month = sep,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2011ARA%26A..49..301V},
+  archiveprefix = {arXiv},
+  doi = {10.1146/annurev-astro-083109-153241},
+  eprint = {1101.1771},
+  owner = {Nick},
+  primaryclass = {astro-ph.GA},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2011ApJS..193...29A,
+  author = {{Aihara}, H. and {Allende Prieto}, C. and {An}, D. and {Anderson},
+	S.~F. and {Aubourg}, {\'E}. and {Balbinot}, E. and {Beers}, T.~C.
+	and {Berlind}, A.~A. and {Bickerton}, S.~J. and {Bizyaev}, D. and
+	{Blanton}, M.~R. and {Bochanski}, J.~J. and {Bolton}, A.~S. and {Bovy},
+	J. and {Brandt}, W.~N. and {Brinkmann}, J. and {Brown}, P.~J. and
+	{Brownstein}, J.~R. and {Busca}, N.~G. and {Campbell}, H. and {Carr},
+	M.~A. and {Chen}, Y. and {Chiappini}, C. and {Comparat}, J. and {Connolly},
+	N. and {Cortes}, M. and {Croft}, R.~A.~C. and {Cuesta}, A.~J. and
+	{da Costa}, L.~N. and {Davenport}, J.~R.~A. and {Dawson}, K. and
+	{Dhital}, S. and {Ealet}, A. and {Ebelke}, G.~L. and {Edmondson},
+	E.~M. and {Eisenstein}, D.~J. and {Escoffier}, S. and {Esposito},
+	M. and {Evans}, M.~L. and {Fan}, X. and {Femen{\'{\i}}a Castell{\'a}},
+	B. and {Font-Ribera}, A. and {Frinchaboy}, P.~M. and {Ge}, J. and
+	{Gillespie}, B.~A. and {Gilmore}, G. and {Gonz{\'a}lez Hern{\'a}ndez},
+	J.~I. and {Gott}, J.~R. and {Gould}, A. and {Grebel}, E.~K. and {Gunn},
+	J.~E. and {Hamilton}, J.-C. and {Harding}, P. and {Harris}, D.~W.
+	and {Hawley}, S.~L. and {Hearty}, F.~R. and {Ho}, S. and {Hogg},
+	D.~W. and {Holtzman}, J.~A. and {Honscheid}, K. and {Inada}, N. and
+	{Ivans}, I.~I. and {Jiang}, L. and {Johnson}, J.~A. and {Jordan},
+	C. and {Jordan}, W.~P. and {Kazin}, E.~A. and {Kirkby}, D. and {Klaene},
+	M.~A. and {Knapp}, G.~R. and {Kneib}, J.-P. and {Kochanek}, C.~S.
+	and {Koesterke}, L. and {Kollmeier}, J.~A. and {Kron}, R.~G. and
+	{Lampeitl}, H. and {Lang}, D. and {Le Goff}, J.-M. and {Lee}, Y.~S.
+	and {Lin}, Y.-T. and {Long}, D.~C. and {Loomis}, C.~P. and {Lucatello},
+	S. and {Lundgren}, B. and {Lupton}, R.~H. and {Ma}, Z. and {MacDonald},
+	N. and {Mahadevan}, S. and {Maia}, M.~A.~G. and {Makler}, M. and
+	{Malanushenko}, E. and {Malanushenko}, V. and {Mandelbaum}, R. and
+	{Maraston}, C. and {Margala}, D. and {Masters}, K.~L. and {McBride},
+	C.~K. and {McGehee}, P.~M. and {McGreer}, I.~D. and {M{\'e}nard},
+	B. and {Miralda-Escud{\'e}}, J. and {Morrison}, H.~L. and {Mullally},
+	F. and {Muna}, D. and {Munn}, J.~A. and {Murayama}, H. and {Myers},
+	A.~D. and {Naugle}, T. and {Neto}, A.~F. and {Nguyen}, D.~C. and
+	{Nichol}, R.~C. and {O'Connell}, R.~W. and {Ogando}, R.~L.~C. and
+	{Olmstead}, M.~D. and {Oravetz}, D.~J. and {Padmanabhan}, N. and
+	{Palanque-Delabrouille}, N. and {Pan}, K. and {Pandey}, P. and {P{\^a}ris},
+	I. and {Percival}, W.~J. and {Petitjean}, P. and {Pfaffenberger},
+	R. and {Pforr}, J. and {Phleps}, S. and {Pichon}, C. and {Pieri},
+	M.~M. and {Prada}, F. and {Price-Whelan}, A.~M. and {Raddick}, M.~J.
+	and {Ramos}, B.~H.~F. and {Reyl{\'e}}, C. and {Rich}, J. and {Richards},
+	G.~T. and {Rix}, H.-W. and {Robin}, A.~C. and {Rocha-Pinto}, H.~J.
+	and {Rockosi}, C.~M. and {Roe}, N.~A. and {Rollinde}, E. and {Ross},
+	A.~J. and {Ross}, N.~P. and {Rossetto}, B.~M. and {S{\'a}nchez},
+	A.~G. and {Sayres}, C. and {Schlegel}, D.~J. and {Schlesinger}, K.~J.
+	and {Schmidt}, S.~J. and {Schneider}, D.~P. and {Sheldon}, E. and
+	{Shu}, Y. and {Simmerer}, J. and {Simmons}, A.~E. and {Sivarani},
+	T. and {Snedden}, S.~A. and {Sobeck}, J.~S. and {Steinmetz}, M. and
+	{Strauss}, M.~A. and {Szalay}, A.~S. and {Tanaka}, M. and {Thakar},
+	A.~R. and {Thomas}, D. and {Tinker}, J.~L. and {Tofflemire}, B.~M.
+	and {Tojeiro}, R. and {Tremonti}, C.~A. and {Vandenberg}, J. and
+	{Vargas Maga{\~n}a}, M. and {Verde}, L. and {Vogt}, N.~P. and {Wake},
+	D.~A. and {Wang}, J. and {Weaver}, B.~A. and {Weinberg}, D.~H. and
+	{White}, M. and {White}, S.~D.~M. and {Yanny}, B. and {Yasuda}, N.
+	and {Yeche}, C. and {Zehavi}, I. },
+  title = {{The Eighth Data Release of the Sloan Digital Sky Survey: First Data
+	from SDSS-III}},
+  journal = {\apjs},
+  year = {2011},
+  volume = {193},
+  pages = {29},
+  month = apr,
+  eid = {29},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2011ApJS..193...29A},
+  archiveprefix = {arXiv},
+  doi = {10.1088/0067-0049/193/2/29},
+  eprint = {1101.1559},
+  keywords = {atlases, catalogs, surveys},
+  owner = {Nick},
+  primaryclass = {astro-ph.IM},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2001ApJ...550L.169A,
+  author = {{Alcock}, C. and {Allsman}, R.~A. and {Alves}, D.~R. and {Axelrod},
+	T.~S. and {Becker}, A.~C. and {Bennett}, D.~P. and {Cook}, K.~H.
+	and {Dalal}, N. and {Drake}, A.~J. and {Freeman}, K.~C. and {Geha},
+	M. and {Griest}, K. and {Lehner}, M.~J. and {Marshall}, S.~L. and
+	{Minniti}, D. and {Nelson}, C.~A. and {Peterson}, B.~A. and {Popowski},
+	P. and {Pratt}, M.~R. and {Quinn}, P.~J. and {Stubbs}, C.~W. and
+	{Sutherland}, W. and {Tomaney}, A.~B. and {Vandehei}, T. and {Welch},
+	D.~L.},
+  title = {{MACHO Project Limits on Black Hole Dark Matter in the 1-30 M$_{solar}$
+	Range}},
+  journal = {\apjl},
+  year = {2001},
+  volume = {550},
+  pages = {L169-L172},
+  month = apr,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2001ApJ...550L.169A},
+  doi = {10.1086/319636},
+  eprint = {arXiv:astro-ph/0011506},
+  keywords = {Black Hole Physics, Cosmology: Dark Matter, Galaxy: Halo, Galaxy:
+	Structure, Cosmology: Gravitational Lensing},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{1984ApJ...284L..35B,
+  author = {{Bahcall}, J.~N. and {Casertano}, S.},
+  title = {{Velocity dispersions of disk stars in spiral galaxies}},
+  journal = {\apjl},
+  year = {1984},
+  volume = {284},
+  pages = {L35-L38},
+  month = sep,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/1984ApJ...284L..35B},
+  doi = {10.1086/184347},
+  keywords = {DISK GALAXIES, SPIRAL GALAXIES, STELLAR MOTIONS, VELOCITY DISTRIBUTION,
+	ASTRONOMICAL PHOTOMETRY, GALACTIC STRUCTURE, MASS DISTRIBUTION},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{1980ApJS...44...73B,
+  author = {{Bahcall}, J.~N. and {Soneira}, R.~M.},
+  title = {{The universe at faint magnitudes. I - Models for the galaxy and
+	the predicted star counts}},
+  journal = {\apjs},
+  year = {1980},
+  volume = {44},
+  pages = {73-110},
+  month = sep,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/1980ApJS...44...73B},
+  doi = {10.1086/190685},
+  keywords = {ASTRONOMICAL MODELS, GALACTIC STRUCTURE, MILKY WAY GALAXY, STAR DISTRIBUTION,
+	STELLAR MAGNITUDE, COSMOLOGY, GALACTIC NUCLEI, QUASARS, UNIVERSE},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@INPROCEEDINGS{2011ASPC..445..479B,
+  author = {{Battinelli}, P. and {Demers}, S.},
+  title = {{The Elusive AGB Population in Galaxies}},
+  booktitle = {Why Galaxies Care about AGB Stars II: Shining Examples and Common
+	Inhabitants},
+  year = {2011},
+  editor = {{Kerschbaum}, F. and {Lebzelter}, T. and {Wing}, R.~F.},
+  volume = {445},
+  series = {Astronomical Society of the Pacific Conference Series},
+  pages = {479},
+  month = sep,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2011ASPC..445..479B},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2012A&A...544A..10B,
+  author = {{Battinelli}, P. and {Demers}, S.},
+  title = {{Variability of halo carbon stars}},
+  journal = {\aap},
+  year = {2012},
+  volume = {544},
+  pages = {A10},
+  month = aug,
+  eid = {A10},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2012A%26A...544A..10B},
+  doi = {10.1051/0004-6361/201219108},
+  keywords = {stars: AGB and post-AGB, stars: carbon, stars: variables: general,
+	Galaxy: halo},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@PHDTHESIS{2000PhDT.......258B,
+  author = {{Becker}, A.~C.},
+  title = {{Exotic gravitational microlensing effects as a probe of stellar
+	and galactic structure}},
+  school = {University of Washington},
+  year = {2000},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2000PhDT.......258B},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2004ApJ...611..418B,
+  author = {{Becker}, A.~C. and {Wittman}, D.~M. and {Boeshaar}, P.~C. and {Clocchiatti},
+	A. and {Dell'Antonio}, I.~P. and {Frail}, D.~A. and {Halpern}, J.
+	and {Margoniner}, V.~E. and {Norman}, D. and {Tyson}, J.~A. and {Schommer},
+	R.~A.},
+  title = {{The Deep Lens Survey Transient Search. I. Short Timescale and Astrometric
+	Variability}},
+  journal = {\apj},
+  year = {2004},
+  volume = {611},
+  pages = {418-433},
+  month = aug,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2004ApJ...611..418B},
+  doi = {10.1086/421994},
+  eprint = {arXiv:astro-ph/0404416},
+  keywords = {Gamma Rays: Bursts, Minor Planets, Asteroids, Stars: Variables: Other,
+	Stars: Supernovae: General, Surveys},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2006ApJ...642L.137B,
+  author = {{Belokurov}, V. and {Zucker}, D.~B. and {Evans}, N.~W. and {Gilmore},
+	G. and {Vidrih}, S. and {Bramich}, D.~M. and {Newberg}, H.~J. and
+	{Wyse}, R.~F.~G. and {Irwin}, M.~J. and {Fellhauer}, M. and {Hewett},
+	P.~C. and {Walton}, N.~A. and {Wilkinson}, M.~I. and {Cole}, N. and
+	{Yanny}, B. and {Rockosi}, C.~M. and {Beers}, T.~C. and {Bell}, E.~F.
+	and {Brinkmann}, J. and {Ivezi{\'c}}, {\v Z}. and {Lupton}, R.},
+  title = {{The Field of Streams: Sagittarius and Its Siblings}},
+  journal = {\apjl},
+  year = {2006},
+  volume = {642},
+  pages = {L137-L140},
+  month = may,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2006ApJ...642L.137B},
+  doi = {10.1086/504797},
+  eprint = {arXiv:astro-ph/0605025},
+  keywords = {Galaxies: Individual: Name: Sagittarius dSph, Galaxies: Kinematics
+	and Dynamics, Galaxies: Structure, Galaxy: Halo, Galaxies: Local
+	Group},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2003PASP..115..953B,
+  author = {{Benjamin}, R.~A. and {Churchwell}, E. and {Babler}, B.~L. and {Bania},
+	T.~M. and {Clemens}, D.~P. and {Cohen}, M. and {Dickey}, J.~M. and
+	{Indebetouw}, R. and {Jackson}, J.~M. and {Kobulnicky}, H.~A. and
+	{Lazarian}, A. and {Marston}, A.~P. and {Mathis}, J.~S. and {Meade},
+	M.~R. and {Seager}, S. and {Stolovy}, S.~R. and {Watson}, C. and
+	{Whitney}, B.~A. and {Wolff}, M.~J. and {Wolfire}, M.~G.},
+  title = {{GLIMPSE. I. An SIRTF Legacy Project to Map the Inner Galaxy}},
+  journal = {\pasp},
+  year = {2003},
+  volume = {115},
+  pages = {953-964},
+  month = aug,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2003PASP..115..953B},
+  doi = {10.1086/376696},
+  eprint = {astro-ph/0306274},
+  keywords = {Galaxy: Stellar Content, Galaxy: Structure, infrared: general, infrared:
+	stars, ISM: General, Surveys, Stars: General}
+}
+
+@ARTICLE{2004A&A...421..969B,
+  author = {{Bensby}, T. and {Feltzing}, S. and {Lundstr{\"o}m}, I.},
+  title = {{A possible age-metallicity relation in the Galactic thick disk?}},
+  journal = {\aap},
+  year = {2004},
+  volume = {421},
+  pages = {969-976},
+  month = jul,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2004A%26A...421..969B},
+  doi = {10.1051/0004-6361:20035957},
+  eprint = {arXiv:astro-ph/0403591},
+  keywords = {stars: Hertzsprung-Russell (HR) and C-M diagrams, stars: kinematics,
+	Galaxy: disk, Galaxy: kinematics and dynamics, Galaxy: solar neighbourhood,
+	Galaxy: formation},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2012ApJ...757..166B,
+  author = {{Berry}, M. and {Ivezi{\'c}}, {\v Z}. and {Sesar}, B. and {Juri{\'c}},
+	M. and {Schlafly}, E.~F. and {Bellovary}, J. and {Finkbeiner}, D.
+	and {Vrbanec}, D. and {Beers}, T.~C. and {Brooks}, K.~J. and {Schneider},
+	D.~P. and {Gibson}, R.~R. and {Kimball}, A. and {Jones}, L. and {Yoachim},
+	P. and {Krughoff}, S. and {Connolly}, A.~J. and {Loebman}, S. and
+	{Bond}, N.~A. and {Schlegel}, D. and {Dalcanton}, J. and {Yanny},
+	B. and {Majewski}, S.~R. and {Knapp}, G.~R. and {Gunn}, J.~E. and
+	{Allyn Smith}, J. and {Fukugita}, M. and {Kent}, S. and {Barentine},
+	J. and {Krzesinski}, J. and {Long}, D. },
+  title = {{The Milky Way Tomography with Sloan Digital Sky Survey. IV. Dissecting
+	Dust}},
+  journal = {\apj},
+  year = {2012},
+  volume = {757},
+  pages = {166},
+  month = oct,
+  eid = {166},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2012ApJ...757..166B},
+  doi = {10.1088/0004-637X/757/2/166},
+  keywords = {catalogs, dust, extinction, stars: statistics, surveys},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2005AJ....129.2562B,
+  author = {{Blanton}, M.~R. and {Schlegel}, D.~J. and {Strauss}, M.~A. and {Brinkmann},
+	J. and {Finkbeiner}, D. and {Fukugita}, M. and {Gunn}, J.~E. and
+	{Hogg}, D.~W. and {Ivezi{\'c}}, {\v Z}. and {Knapp}, G.~R. and {Lupton},
+	R.~H. and {Munn}, J.~A. and {Schneider}, D.~P. and {Tegmark}, M.
+	and {Zehavi}, I.},
+  title = {{New York University Value-Added Galaxy Catalog: A Galaxy Catalog
+	Based on New Public Surveys}},
+  journal = {\aj},
+  year = {2005},
+  volume = {129},
+  pages = {2562-2578},
+  month = jun,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2005AJ....129.2562B},
+  doi = {10.1086/429803},
+  eprint = {arXiv:astro-ph/0410166},
+  keywords = {Galaxies: Distances and Redshifts, Galaxies: Photometry, Galaxies:
+	Statistics},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2010ApJ...716....1B,
+  author = {{Bond}, N.~A. and {Ivezi{\'c}}, {\v Z}. and {Sesar}, B. and {Juri{\'c}},
+	M. and {Munn}, J.~A. and {Kowalski}, A. and {Loebman}, S. and {Ro{\v
+	s}kar}, R. and {Beers}, T.~C. and {Dalcanton}, J. and {Rockosi},
+	C.~M. and {Yanny}, B. and {Newberg}, H.~J. and {Allende Prieto},
+	C. and {Wilhelm}, R. and {Lee}, Y.~S. and {Sivarani}, T. and {Majewski},
+	S.~R. and {Norris}, J.~E. and {Bailer-Jones}, C.~A.~L. and {Re Fiorentin},
+	P. and {Schlegel}, D. and {Uomoto}, A. and {Lupton}, R.~H. and {Knapp},
+	G.~R. and {Gunn}, J.~E. and {Covey}, K.~R. and {Allyn Smith}, J.
+	and {Miknaitis}, G. and {Doi}, M. and {Tanaka}, M. and {Fukugita},
+	M. and {Kent}, S. and {Finkbeiner}, D. and {Quinn}, T.~R. and {Hawley},
+	S. and {Anderson}, S. and {Kiuchi}, F. and {Chen}, A. and {Bushong},
+	J. and {Sohi}, H. and {Haggard}, D. and {Kimball}, A. and {McGurk},
+	R. and {Barentine}, J. and {Brewington}, H. and {Harvanek}, M. and
+	{Kleinman}, S. and {Krzesinski}, J. and {Long}, D. and {Nitta}, A.
+	and {Snedden}, S. and {Lee}, B. and {Pier}, J.~R. and {Harris}, H.
+	and {Brinkmann}, J. and {Schneider}, D.~P. },
+  title = {{The Milky Way Tomography with SDSS. III. Stellar Kinematics}},
+  journal = {\apj},
+  year = {2010},
+  volume = {716},
+  pages = {1-29},
+  month = jun,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2010ApJ...716....1B},
+  archiveprefix = {arXiv},
+  doi = {10.1088/0004-637X/716/1/1},
+  eprint = {0909.0013},
+  keywords = {Galaxy: disk, Galaxy: halo, Galaxy: kinematics and dynamics, Galaxy:
+	stellar content, Galaxy: structure, methods: data analysis, stars:
+	statistics},
+  owner = {Nick},
+  primaryclass = {astro-ph.GA},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2010Sci...327..977B,
+  author = {{Borucki}, W.~J. and {Koch}, D. and {Basri}, G. and {Batalha}, N.
+	and {Brown}, T. and {Caldwell}, D. and {Caldwell}, J. and {Christensen-Dalsgaard},
+	J. and {Cochran}, W.~D. and {DeVore}, E. and {Dunham}, E.~W. and
+	{Dupree}, A.~K. and {Gautier}, T.~N. and {Geary}, J.~C. and {Gilliland},
+	R. and {Gould}, A. and {Howell}, S.~B. and {Jenkins}, J.~M. and {Kondo},
+	Y. and {Latham}, D.~W. and {Marcy}, G.~W. and {Meibom}, S. and {Kjeldsen},
+	H. and {Lissauer}, J.~J. and {Monet}, D.~G. and {Morrison}, D. and
+	{Sasselov}, D. and {Tarter}, J. and {Boss}, A. and {Brownlee}, D.
+	and {Owen}, T. and {Buzasi}, D. and {Charbonneau}, D. and {Doyle},
+	L. and {Fortney}, J. and {Ford}, E.~B. and {Holman}, M.~J. and {Seager},
+	S. and {Steffen}, J.~H. and {Welsh}, W.~F. and {Rowe}, J. and {Anderson},
+	H. and {Buchhave}, L. and {Ciardi}, D. and {Walkowicz}, L. and {Sherry},
+	W. and {Horch}, E. and {Isaacson}, H. and {Everett}, M.~E. and {Fischer},
+	D. and {Torres}, G. and {Johnson}, J.~A. and {Endl}, M. and {MacQueen},
+	P. and {Bryson}, S.~T. and {Dotson}, J. and {Haas}, M. and {Kolodziejczak},
+	J. and {Van Cleve}, J. and {Chandrasekaran}, H. and {Twicken}, J.~D.
+	and {Quintana}, E.~V. and {Clarke}, B.~D. and {Allen}, C. and {Li},
+	J. and {Wu}, H. and {Tenenbaum}, P. and {Verner}, E. and {Bruhweiler},
+	F. and {Barnes}, J. and {Prsa}, A.},
+  title = {{Kepler Planet-Detection Mission: Introduction and First Results}},
+  journal = {Science},
+  year = {2010},
+  volume = {327},
+  pages = {977-},
+  month = feb,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2010Sci...327..977B},
+  doi = {10.1126/science.1185402},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2009ApJ...700.1794B,
+  author = {{Bovy}, J. and {Hogg}, D.~W. and {Roweis}, S.~T.},
+  title = {{The Velocity Distribution of Nearby Stars from Hipparcos Data. I.
+	The Significance of the Moving Groups}},
+  journal = {\apj},
+  year = {2009},
+  volume = {700},
+  pages = {1794-1819},
+  month = aug,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2009ApJ...700.1794B},
+  archiveprefix = {arXiv},
+  doi = {10.1088/0004-637X/700/2/1794},
+  eprint = {0905.2980},
+  keywords = {Galaxy: kinematics and dynamics, Galaxy: structure, methods: statistical,
+	solar neighborhood, stars: kinematics, techniques: radial velocities},
+  owner = {Nick},
+  primaryclass = {astro-ph.GA},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2012ApJ...751..131B,
+  author = {{Bovy}, J. and {Rix}, H.-W. and {Hogg}, D.~W.},
+  title = {{The Milky Way Has No Distinct Thick Disk}},
+  journal = {\apj},
+  year = {2012},
+  volume = {751},
+  pages = {131},
+  month = jun,
+  eid = {131},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2012ApJ...751..131B},
+  archiveprefix = {arXiv},
+  doi = {10.1088/0004-637X/751/2/131},
+  eprint = {1111.6585},
+  keywords = {Galaxy: abundances, Galaxy: disk, Galaxy: evolution, Galaxy: formation,
+	Galaxy: fundamental parameters, Galaxy: structure},
+  owner = {Nick},
+  primaryclass = {astro-ph.GA},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2012ApJ...753..148B,
+  author = {{Bovy}, J. and {Rix}, H.-W. and {Liu}, C. and {Hogg}, D.~W. and {Beers},
+	T.~C. and {Lee}, Y.~S.},
+  title = {{The Spatial Structure of Mono-abundance Sub-populations of the Milky
+	Way Disk}},
+  journal = {\apj},
+  year = {2012},
+  volume = {753},
+  pages = {148},
+  month = jul,
+  eid = {148},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2012ApJ...753..148B},
+  archiveprefix = {arXiv},
+  doi = {10.1088/0004-637X/753/2/148},
+  eprint = {1111.1724},
+  keywords = {Galaxy: abundances, Galaxy: disk, Galaxy: evolution, Galaxy: formation,
+	Galaxy: fundamental parameters, Galaxy: structure},
+  owner = {Nick},
+  primaryclass = {astro-ph.GA},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2011AJ....142..103B,
+  author = {{Boyer}, M.~L. and {Srinivasan}, S. and {van Loon}, J.~T. and {McDonald},
+	I. and {Meixner}, M. and {Zaritsky}, D. and {Gordon}, K.~D. and {Kemper},
+	F. and {Babler}, B. and {Block}, M. and {Bracker}, S. and {Engelbracht},
+	C.~W. and {Hora}, J. and {Indebetouw}, R. and {Meade}, M. and {Misselt},
+	K. and {Robitaille}, T. and {Sewi{\l}o}, M. and {Shiao}, B. and {Whitney},
+	B.},
+  title = {{Surveying the Agents of Galaxy Evolution in the Tidally Stripped,
+	Low Metallicity Small Magellanic Cloud (SAGE-SMC). II. Cool Evolved
+	Stars}},
+  journal = {\aj},
+  year = {2011},
+  volume = {142},
+  pages = {103},
+  month = oct,
+  eid = {103},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2011AJ....142..103B},
+  archiveprefix = {arXiv},
+  doi = {10.1088/0004-6256/142/4/103},
+  eprint = {1106.5026},
+  keywords = {circumstellar matter, Magellanic Clouds, stars: AGB and post-AGB,
+	stars: carbon, stars: mass-loss, supergiants},
+  owner = {Nick},
+  primaryclass = {astro-ph.SR},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2007ApJ...658...60B,
+  author = {{Brook}, C. and {Richard}, S. and {Kawata}, D. and {Martel}, H. and
+	{Gibson}, B.~K.},
+  title = {{Two Disk Components from a Gas-Rich Disk-Disk Merger}},
+  journal = {\apj},
+  year = {2007},
+  volume = {658},
+  pages = {60-64},
+  month = mar,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2007ApJ...658...60B},
+  doi = {10.1086/511056},
+  eprint = {arXiv:astro-ph/0611748},
+  keywords = {Galaxies: Evolution, Galaxies: Formation, Galaxies: Interactions,
+	Galaxies: Structure},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2009AJ....138.1597B,
+  author = {{Buchanan}, C.~L. and {Kastner}, J.~H. and {Hrivnak}, B.~J. and {Sahai},
+	R.},
+  title = {{Spitzer IRS Spectra of Luminous 8 {$\mu$}m Sources in the Large
+	Magellanic Cloud: Testing Color-based Classifications}},
+  journal = {\aj},
+  year = {2009},
+  volume = {138},
+  pages = {1597-1608},
+  month = dec,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2009AJ....138.1597B},
+  archiveprefix = {arXiv},
+  doi = {10.1088/0004-6256/138/6/1597},
+  eprint = {0909.4986},
+  keywords = {circumstellar matter, infrared: stars, Magellanic Clouds, stars: AGB
+	and post-AGB, stars: mass loss},
+  owner = {Nick},
+  primaryclass = {astro-ph.SR},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2011A&A...532A.113B,
+  author = {{Burnett}, B. and {Binney}, J. and {Sharma}, S. and {Williams}, M.
+	and {Zwitter}, T. and {Bienaym{\'e}}, O. and {Bland-Hawthorn}, J.
+	and {Freeman}, K.~C. and {Fulbright}, J. and {Gibson}, B. and {Gilmore},
+	G. and {Grebel}, E.~K. and {Helmi}, A. and {Munari}, U. and {Navarro},
+	J.~F. and {Parker}, Q.~A. and {Seabroke}, G.~M. and {Siebert}, A.
+	and {Siviero}, A. and {Steinmetz}, M. and {Watson}, F.~G. and {Wyse},
+	R.~F.~G. },
+  title = {{Distance determination for RAVE stars using stellar models. III.
+	The nature of the RAVE survey and Milky Way chemistry}},
+  journal = {\aap},
+  year = {2011},
+  volume = {532},
+  pages = {A113},
+  month = aug,
+  eid = {A113},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2011A%26A...532A.113B},
+  archiveprefix = {arXiv},
+  doi = {10.1051/0004-6361/201116715},
+  eprint = {1107.1256},
+  keywords = {stars: distances, stars: fundamental parameters, Galaxy: abundances,
+	Galaxy: disk, Galaxy: stellar content, Galaxy: structure},
+  owner = {Nick},
+  primaryclass = {astro-ph.GA},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2011ApJ...728....7C,
+  author = {{Casetti-Dinescu}, D.~I. and {Girard}, T.~M. and {Korchagin}, V.~I.
+	and {van Altena}, W.~F.},
+  title = {{The Three-dimensional Velocity Structure of the Thick Disk from
+	SPM4 and RAVE DR2}},
+  journal = {\apj},
+  year = {2011},
+  volume = {728},
+  pages = {7},
+  month = feb,
+  eid = {7},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2011ApJ...728....7C},
+  archiveprefix = {arXiv},
+  doi = {10.1088/0004-637X/728/1/7},
+  eprint = {1011.6253},
+  keywords = {Galaxy: kinematics and dynamics, Galaxy: structure},
+  owner = {Nick},
+  primaryclass = {astro-ph.GA},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{1973MNRAS.164P..11C,
+  author = {{Catchpole}, R.~M. and {Feast}, M.~W.},
+  title = {{A carbon star in NGC 2477.}},
+  journal = {\mnras},
+  year = {1973},
+  volume = {164},
+  pages = {11P-13P},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/1973MNRAS.164P..11C},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2000AJ....119.2843C,
+  author = {{Chiba}, M. and {Beers}, T.~C.},
+  title = {{Kinematics of Metal-poor Stars in the Galaxy. III. Formation of
+	the Stellar Halo and Thick Disk as Revealed from a Large Sample of
+	Nonkinematically Selected Stars}},
+  journal = {\aj},
+  year = {2000},
+  volume = {119},
+  pages = {2843-2865},
+  month = jun,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2000AJ....119.2843C},
+  doi = {10.1086/301409},
+  eprint = {arXiv:astro-ph/0003087},
+  keywords = {Galaxy: Abundances, Galaxy: Evolution, Galaxy: Halo, Stars: Population
+	II},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2009PASP..121..213C,
+  author = {{Churchwell}, E. and {Babler}, B.~L. and {Meade}, M.~R. and {Whitney},
+	B.~A. and {Benjamin}, R. and {Indebetouw}, R. and {Cyganowski}, C.
+	and {Robitaille}, T.~P. and {Povich}, M. and {Watson}, C. and {Bracker},
+	S.},
+  title = {{The Spitzer/GLIMPSE Surveys: A New View of the Milky Way}},
+  journal = {\pasp},
+  year = {2009},
+  volume = {121},
+  pages = {213-230},
+  month = mar,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2009PASP..121..213C},
+  doi = {10.1086/597811},
+  keywords = {IYA Review}
+}
+
+@ARTICLE{2009A&A...506.1137C,
+  author = {{Cioni}, M.-R.~L.},
+  title = {{The metallicity gradient as a tracer of history and structure: the
+	Magellanic Clouds and M33 galaxies}},
+  journal = {\aap},
+  year = {2009},
+  volume = {506},
+  pages = {1137-1146},
+  month = nov,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2009A%26A...506.1137C},
+  archiveprefix = {arXiv},
+  doi = {10.1051/0004-6361/200912138},
+  eprint = {0904.3136},
+  keywords = {galaxies: abundances, Magellanic Clouds, Local Group, stars: AGB and
+	post-AGB, galaxies: stellar content, galaxies: individual: M33},
+  owner = {Nick},
+  primaryclass = {astro-ph.CO},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2003A&A...402..133C,
+  author = {{Cioni}, M.-R.~L. and {Habing}, H.~J.},
+  title = {{AGB stars in the Magellanic Clouds. I. The C/M ratio}},
+  journal = {\aap},
+  year = {2003},
+  volume = {402},
+  pages = {133-140},
+  month = apr,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2003A%26A...402..133C},
+  doi = {10.1051/0004-6361:20030226},
+  eprint = {arXiv:astro-ph/0302051},
+  keywords = {galaxies: Magellanic Clouds, stars: AGB and post-AGB},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@TECHREPORT{2012wise.rept....1C,
+  author = {{Cutri}, R.~M. and {Wright}, E.~L. and {Conrow}, T. and {Bauer},
+	J. and {Benford}, D. and {Brandenburg}, H. and {Dailey}, J. and {Eisenhardt},
+	P.~R.~M. and {Evans}, T. and {Fajardo-Acosta}, S. and {Fowler}, J.
+	and {Gelino}, C. and {Grillmair}, C. and {Harbut}, M. and {Hoffman},
+	D. and {Jarrett}, T. and {Kirkpatrick}, J.~D. and {Leisawitz}, D.
+	and {Liu}, W. and {Mainzer}, A. and {Marsh}, K. and {Masci}, F. and
+	{McCallon}, H. and {Padgett}, D. and {Ressler}, M.~E. and {Royer},
+	D. and {Skrutskie}, M.~F. and {Stanford}, S.~A. and {Wyatt}, P.~L.
+	and {Tholen}, D. and {Tsai}, C.~W. and {Wachter}, S. and {Wheelock},
+	S.~L. and {Yan}, L. and {Alles}, R. and {Beck}, R. and {Grav}, T.
+	and {Masiero}, J. and {McCollum}, B. and {McGehee}, P. and {Papin},
+	M. and {Wittman}, M.},
+  title = {{Explanatory Supplement to the WISE All-Sky Data Release Products}},
+  year = {2012},
+  month = mar,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2012wise.rept....1C},
+  booktitle = {Explanatory Supplement to the WISE All-Sky Data Release Products},
+  keywords = {Infrared Astronomy, Infrared Sources, Catalogs, Space Observatories,
+	Manuals },
+  owner = {Nick},
+  pages = {1},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2012ApJS..198....6D,
+  author = {{Dalcanton}, J.~J. and {Williams}, B.~F. and {Melbourne}, J.~L. and
+	{Girardi}, L. and {Dolphin}, A. and {Rosenfield}, P.~A. and {Boyer},
+	M.~L. and {de Jong}, R.~S. and {Gilbert}, K. and {Marigo}, P. and
+	{Olsen}, K. and {Seth}, A.~C. and {Skillman}, E.},
+  title = {{Resolved Near-infrared Stellar Populations in Nearby Galaxies}},
+  journal = {\apjs},
+  year = {2012},
+  volume = {198},
+  pages = {6},
+  month = jan,
+  eid = {6},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2012ApJS..198....6D},
+  archiveprefix = {arXiv},
+  doi = {10.1088/0067-0049/198/1/6},
+  eprint = {1109.6893},
+  keywords = {galaxies: abundances, galaxies: distances and redshifts, galaxies:
+	dwarf, galaxies: irregular, galaxies: stellar content, infrared:
+	stars, stars: AGB and post-AGB, stars: carbon},
+  owner = {Nick},
+  primaryclass = {astro-ph.CO},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2013MNRAS.tmp.2237D,
+  author = {{Dambis}, A.~K. and {Berdnikov}, L.~N. and {Kniazev}, A.~Y. and {Kravtsov},
+	V.~V. and {Rastorguev}, A.~S. and {Sefako}, R. and {Vozyakova}, O.~V.},
+  title = {{RR Lyrae variables: visual and infrared luminosities, intrinsic
+	colours and kinematics}},
+  journal = {\mnras},
+  year = {2013},
+  month = sep,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2013MNRAS.tmp.2237D},
+  archiveprefix = {arXiv},
+  doi = {10.1093/mnras/stt1514},
+  eprint = {1308.4727},
+  keywords = {stars: distances, stars: kinematics and dynamics, stars: variables:
+	RR Lyrae, Local Group, distance scale},
+  owner = {Nick},
+  primaryclass = {astro-ph.GA},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2014MNRAS.440.3430D,
+  author = {{Davenport}, J.~R.~A. and {Ivezi{\'c}}, {\v Z}. and {Becker}, A.~C.
+	and {Ruan}, J.~J. and {Hunt-Walker}, N.~M. and {Covey}, K.~R. and
+	{Lewis}, A.~R. and {AlSayyad}, Y. and {Anderson}, L.~M.},
+  title = {{The SDSS-2MASS-WISE 10-dimensional stellar colour locus}},
+  journal = {\mnras},
+  year = {2014},
+  volume = {440},
+  pages = {3430-3438},
+  month = jun,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2014MNRAS.440.3430D},
+  archiveprefix = {arXiv},
+  doi = {10.1093/mnras/stu466},
+  eprint = {1403.1875},
+  keywords = {surveys, stars: fundamental parameters, stars: general, dust, extinction},
+  owner = {Nick},
+  primaryclass = {astro-ph.SR},
+  timestamp = {2014.10.21}
+}
+
+@ARTICLE{2010ApJ...725L.186D,
+  author = {{Dierickx}, M. and {Klement}, R. and {Rix}, H.-W. and {Liu}, C. },
+  title = {{Observational Evidence from SDSS for a Merger Origin of the Milky
+	Way's Thick Disk}},
+  journal = {\apjl},
+  year = {2010},
+  volume = {725},
+  pages = {L186-L190},
+  month = dec,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2010ApJ...725L.186D},
+  archiveprefix = {arXiv},
+  doi = {10.1088/2041-8205/725/2/L186},
+  eprint = {1009.1616},
+  keywords = {galaxies: individual: Milky Way, Galaxy: evolution, Galaxy: kinematics
+	and dynamics, Galaxy: structure},
+  owner = {Nick},
+  primaryclass = {astro-ph.GA},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2011A&A...525L...3D,
+  author = {{Di Matteo}, P. and {Lehnert}, M.~D. and {Qu}, Y. and {van Driel},
+	W. },
+  title = {{The formation of a thick disk through the heating of a thin disk:
+	Agreement with orbital eccentricities of stars in the solar neighborhood}},
+  journal = {\aap},
+  year = {2011},
+  volume = {525},
+  pages = {L3},
+  month = jan,
+  eid = {L3},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2011A%26A...525L...3D},
+  archiveprefix = {arXiv},
+  doi = {10.1051/0004-6361/201015822},
+  eprint = {1011.3825},
+  keywords = {Galaxy: formation, Galaxy: evolution, Galaxy: structure, Galaxy: kinematics
+	and dynamics, solar neighborhood},
+  owner = {Nick},
+  primaryclass = {astro-ph.CO},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2001MNRAS.327..403E,
+  author = {{Elitzur}, M. and {Ivezi{\'c}}, {\v Z}.},
+  title = {{Dusty winds - I. Self-similar solutions}},
+  journal = {\mnras},
+  year = {2001},
+  volume = {327},
+  pages = {403-421},
+  month = oct,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2001MNRAS.327..403E},
+  doi = {10.1046/j.1365-8711.2001.04706.x},
+  eprint = {arXiv:astro-ph/0106096},
+  keywords = {STARS: AGB AND POST-AGB, CIRCUMSTELLAR MATTER, STARS: LATE-TYPE, STARS:
+	WINDS, OUTFLOWS, DUST, EXTINCTION, INFRARED: STARS},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@INPROCEEDINGS{2009asrp.proc...48F,
+  author = {{Feast}, M.~W.},
+  title = {{The Ages, Masses, Evolution and Kinematics of Mira Variables}},
+  booktitle = {AGB Stars and Related Phenomena},
+  year = {2009},
+  editor = {{Ueta}, T. and {Matsunaga}, N. and {Ita}, Y.},
+  pages = {48},
+  month = jan,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2009asrp.proc...48F},
+  archiveprefix = {arXiv},
+  eprint = {0812.0250},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2000MNRAS.317..460F,
+  author = {{Feast}, M.~W. and {Whitelock}, P.~A.},
+  title = {{Mira kinematics from Hipparcos data: a Galactic bar to beyond the
+	Solar circle}},
+  journal = {\mnras},
+  year = {2000},
+  volume = {317},
+  pages = {460-487},
+  month = sep,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2000MNRAS.317..460F},
+  doi = {10.1046/j.1365-8711.2000.03629.x},
+  eprint = {arXiv:astro-ph/0004107},
+  keywords = {CATALOGUES, STARS: VARIABLES: OTHER, GALAXY: KINEMATICS AND DYNAMICS,
+	GALAXY: STRUCTURE},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2006MmSAI..77.1103F,
+  author = {{Feltzing}, S.},
+  title = {{Abundance structure of the Galactic disk .}},
+  journal = {\memsai},
+  year = {2006},
+  volume = {77},
+  pages = {1103},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2006MmSAI..77.1103F},
+  eprint = {arXiv:astro-ph/0609264},
+  keywords = {Stars: abundances, Stars: late type, Stars: Galaxy: abundances: Galaxy,
+	disk: Galaxy, solar neighbourhood: Galaxy, structure},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@PHDTHESIS{2008PhDT.........6F,
+  author = {{Fraser}, O.~J.},
+  title = {{Properties of long-period variables from the MACHO Project}},
+  school = {University of Washington},
+  year = {2008},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2008PhDT.........6F},
+  keywords = {Long-period variables, MACHO Project, Large Magellanic Cloud},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2008AJ....136.1242F,
+  author = {{Fraser}, O.~J. and {Hawley}, S.~L. and {Cook}, K.~H.},
+  title = {{The Properties of Long-Period Variables in the Large Magellanic
+	Cloud from MACHO}},
+  journal = {\aj},
+  year = {2008},
+  volume = {136},
+  pages = {1242-1258},
+  month = sep,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2008AJ....136.1242F},
+  archiveprefix = {arXiv},
+  doi = {10.1088/0004-6256/136/3/1242},
+  eprint = {0808.1737},
+  keywords = {galaxies: individual: LMC, stars: AGB and post-AGB, stars: variables:
+	other},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2005AJ....129..768F,
+  author = {{Fraser}, O.~J. and {Hawley}, S.~L. and {Cook}, K.~H. and {Keller},
+	S.~C. },
+  title = {{Long-Period Variables in the Large Magellanic Cloud: Results from
+	MACHO and 2MASS}},
+  journal = {\aj},
+  year = {2005},
+  volume = {129},
+  pages = {768-775},
+  month = feb,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2005AJ....129..768F},
+  doi = {10.1086/426749},
+  eprint = {arXiv:astro-ph/0410398},
+  keywords = {Galaxies: Individual: Name: Large Magellanic Cloud, Stars: AGB and
+	Post-AGB, Stars: Variables: Other},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2008AJ....135..338F,
+  author = {{Frieman}, J.~A. and {Bassett}, B. and {Becker}, A. and {Choi}, C.
+	and {Cinabro}, D. and {DeJongh}, F. and {Depoy}, D.~L. and {Dilday},
+	B. and {Doi}, M. and {Garnavich}, P.~M. and {Hogan}, C.~J. and {Holtzman},
+	J. and {Im}, M. and {Jha}, S. and {Kessler}, R. and {Konishi}, K.
+	and {Lampeitl}, H. and {Marriner}, J. and {Marshall}, J.~L. and {McGinnis},
+	D. and {Miknaitis}, G. and {Nichol}, R.~C. and {Prieto}, J.~L. and
+	{Riess}, A.~G. and {Richmond}, M.~W. and {Romani}, R. and {Sako},
+	M. and {Schneider}, D.~P. and {Smith}, M. and {Takanashi}, N. and
+	{Tokita}, K. and {van der Heyden}, K. and {Yasuda}, N. and {Zheng},
+	C. and {Adelman-McCarthy}, J. and {Annis}, J. and {Assef}, R.~J.
+	and {Barentine}, J. and {Bender}, R. and {Blandford}, R.~D. and {Boroski},
+	W.~N. and {Bremer}, M. and {Brewington}, H. and {Collins}, C.~A.
+	and {Crotts}, A. and {Dembicky}, J. and {Eastman}, J. and {Edge},
+	A. and {Edmondson}, E. and {Elson}, E. and {Eyler}, M.~E. and {Filippenko},
+	A.~V. and {Foley}, R.~J. and {Frank}, S. and {Goobar}, A. and {Gueth},
+	T. and {Gunn}, J.~E. and {Harvanek}, M. and {Hopp}, U. and {Ihara},
+	Y. and {Ivezi{\'c}}, {\v Z}. and {Kahn}, S. and {Kaplan}, J. and
+	{Kent}, S. and {Ketzeback}, W. and {Kleinman}, S.~J. and {Kollatschny},
+	W. and {Kron}, R.~G. and {Krzesi{\'n}ski}, J. and {Lamenti}, D. and
+	{Leloudas}, G. and {Lin}, H. and {Long}, D.~C. and {Lucey}, J. and
+	{Lupton}, R.~H. and {Malanushenko}, E. and {Malanushenko}, V. and
+	{McMillan}, R.~J. and {Mendez}, J. and {Morgan}, C.~W. and {Morokuma},
+	T. and {Nitta}, A. and {Ostman}, L. and {Pan}, K. and {Rockosi},
+	C.~M. and {Romer}, A.~K. and {Ruiz-Lapuente}, P. and {Saurage}, G.
+	and {Schlesinger}, K. and {Snedden}, S.~A. and {Sollerman}, J. and
+	{Stoughton}, C. and {Stritzinger}, M. and {Subba Rao}, M. and {Tucker},
+	D. and {Vaisanen}, P. and {Watson}, L.~C. and {Watters}, S. and {Wheeler},
+	J.~C. and {Yanny}, B. and {York}, D.},
+  title = {{The Sloan Digital Sky Survey-II Supernova Survey: Technical Summary}},
+  journal = {\aj},
+  year = {2008},
+  volume = {135},
+  pages = {338-347},
+  month = jan,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2008AJ....135..338F},
+  archiveprefix = {arXiv},
+  doi = {10.1088/0004-6256/135/1/338},
+  eprint = {0708.2749},
+  keywords = {supernovae: general, surveys},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2004AN....325....3F,
+  author = {{Fuhrmann}, K.},
+  title = {{Nearby stars of the Galactic disk and halo. III.}},
+  journal = {Astronomische Nachrichten},
+  year = {2004},
+  volume = {325},
+  pages = {3-80},
+  month = jan,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2004AN....325....3F},
+  doi = {10.1002/asna.200310173},
+  keywords = {stars: fundamental parameters, Galaxy: formation, Galaxy: stellar
+	content, Galaxy: evolution},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{1983MNRAS.202.1025G,
+  author = {{Gilmore}, G. and {Reid}, N.},
+  title = {{New light on faint stars. III - Galactic structure towards the South
+	Pole and the Galactic thick disc}},
+  journal = {\mnras},
+  year = {1983},
+  volume = {202},
+  pages = {1025-1047},
+  month = mar,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/1983MNRAS.202.1025G},
+  keywords = {GALACTIC STRUCTURE, SOUTHERN SKY, STELLAR LUMINOSITY, STELLAR MASS,
+	STELLAR STRUCTURE, ASTRONOMICAL PHOTOMETRY, DENSITY DISTRIBUTION,
+	METALLICITY, STAR DISTRIBUTION},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{1989ARA&A..27..555G,
+  author = {{Gilmore}, G. and {Wyse}, R.~F.~G. and {Kuijken}, K.},
+  title = {{Kinematics, chemistry, and structure of the Galaxy}},
+  journal = {\araa},
+  year = {1989},
+  volume = {27},
+  pages = {555-627},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/1989ARA%26A..27..555G},
+  doi = {10.1146/annurev.aa.27.090189.003011},
+  keywords = {GALACTIC STRUCTURE, INTERSTELLAR CHEMISTRY, KINEMATICS, CHEMICAL EVOLUTION,
+	COLOR-MAGNITUDE DIAGRAM, DISK GALAXIES, LATE STARS, METALLICITY,
+	MILKY WAY GALAXY},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@INPROCEEDINGS{2007ASPC..378...20G,
+  author = {{Girardi}, L. and {Marigo}, P.},
+  title = {{Towards Simulating the Photometry, Chemistry, Mass Loss and Pulsational
+	Properties of AGB Star Populations in Resolved Galaxies}},
+  booktitle = {Why Galaxies Care About AGB Stars: Their Importance as Actors and
+	Probes},
+  year = {2007},
+  editor = {{Kerschbaum}, F. and {Charbonnel}, C. and {Wing}, R.~F.},
+  volume = {378},
+  series = {Astronomical Society of the Pacific Conference Series},
+  pages = {20},
+  month = nov,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2007ASPC..378...20G},
+  eprint = {arXiv:astro-ph/0701533},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2010ApJ...724.1030G,
+  author = {{Girardi}, L. and {Williams}, B.~F. and {Gilbert}, K.~M. and {Rosenfield},
+	P. and {Dalcanton}, J.~J. and {Marigo}, P. and {Boyer}, M.~L. and
+	{Dolphin}, A. and {Weisz}, D.~R. and {Melbourne}, J. and {Olsen},
+	K.~A.~G. and {Seth}, A.~C. and {Skillman}, E.},
+  title = {{The ACS Nearby Galaxy Survey Treasury. IX. Constraining Asymptotic
+	Giant Branch Evolution with Old Metal-poor Galaxies}},
+  journal = {\apj},
+  year = {2010},
+  volume = {724},
+  pages = {1030-1043},
+  month = dec,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2010ApJ...724.1030G},
+  archiveprefix = {arXiv},
+  doi = {10.1088/0004-637X/724/2/1030},
+  eprint = {1009.4618},
+  keywords = {stars: general},
+  owner = {Nick},
+  primaryclass = {astro-ph.SR},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2006ApJ...651L..29G,
+  author = {{Grillmair}, C.~J.},
+  title = {{Substructure in Tidal Streams: Tributaries in the Anticenter Stream}},
+  journal = {\apjl},
+  year = {2006},
+  volume = {651},
+  pages = {L29-L32},
+  month = nov,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2006ApJ...651L..29G},
+  doi = {10.1086/509255},
+  eprint = {arXiv:astro-ph/0609449},
+  keywords = {Galaxy: Halo, Galaxy: Structure},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2013A&A...555A.120G,
+  author = {{Guandalini}, R. and {Cristallo}, S.},
+  title = {{Luminosities of carbon-rich asymptotic giant branch stars in the
+	Milky Way}},
+  journal = {\aap},
+  year = {2013},
+  volume = {555},
+  pages = {A120},
+  month = jul,
+  eid = {A120},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2013A%26A...555A.120G},
+  archiveprefix = {arXiv},
+  doi = {10.1051/0004-6361/201321225},
+  eprint = {1305.4203},
+  keywords = {stars: luminosity function, mass function, stars: AGB and post-AGB,
+	stars: carbon, infrared: stars},
+  owner = {Nick},
+  primaryclass = {astro-ph.SR},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{1985A&A...152L...1H,
+  author = {{Habing}, H.~J. and {Olnon}, F.~M. and {Chester}, T. and {Gillett},
+	F. and {Rowan-Robinson}, M.},
+  title = {{Stars in the bulge of our Galaxy detected by IRAS}},
+  journal = {\aap},
+  year = {1985},
+  volume = {152},
+  pages = {L1-L4},
+  month = nov,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/1985A%26A...152L...1H},
+  keywords = {Galactic Bulge, Galactic Structure, Infrared Astronomy Satellite,
+	Infrared Stars, Milky Way Galaxy, Star Distribution, Histograms,
+	M Stars, Radiant Flux Density, Sky Surveys (Astronomy), Stellar Color}
+}
+
+@ARTICLE{2012AJ....143...48H,
+  author = {{Haschke}, R. and {Grebel}, E.~K. and {Duffau}, S. and {Jin}, S.
+	},
+  title = {{Metallicity Distribution Functions of the Old Populations of the
+	Magellanic Clouds from RR Lyrae Stars}},
+  journal = {\aj},
+  year = {2012},
+  volume = {143},
+  pages = {48},
+  month = feb,
+  eid = {48},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2012AJ....143...48H},
+  archiveprefix = {arXiv},
+  doi = {10.1088/0004-6256/143/2/48},
+  eprint = {1111.6586},
+  keywords = {Magellanic Clouds, stars: abundances, stars: variables: RR Lyrae},
+  owner = {Nick},
+  primaryclass = {astro-ph.GA},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2005ARA&A..43..435H,
+  author = {{Herwig}, F.},
+  title = {{Evolution of Asymptotic Giant Branch Stars}},
+  journal = {\araa},
+  year = {2005},
+  volume = {43},
+  pages = {435-479},
+  month = sep,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2005ARA%26A..43..435H},
+  doi = {10.1146/annurev.astro.43.072103.150600},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2008AJ....136.1067H,
+  author = {{Hoffman}, D.~I. and {Harrison}, T.~E. and {Coughlin}, J.~L. and
+	{McNamara}, B.~J. and {Holtzman}, J.~A. and {Taylor}, G.~E. and {Vestrand},
+	W.~T.},
+  title = {{New {$\beta$} Lyrae and Algol Candidates from the Northern Sky Variability
+	Survey}},
+  journal = {\aj},
+  year = {2008},
+  volume = {136},
+  pages = {1067-1078},
+  month = sep,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2008AJ....136.1067H},
+  doi = {10.1088/0004-6256/136/3/1067},
+  keywords = {binaries: eclipsing},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
 @ARTICLE{1983ARA&A..21..271I,
   author = {{Iben}, Jr., I. and {Renzini}, A.},
   title = {{Asymptotic giant branch evolution and beyond}},
@@ -14,6 +1216,1576 @@
   keywords = {Asymptotic Giant Branch Stars, Giant Stars, Stellar Evolution, Stellar
 	Mass Ejection, Supernovae, White Dwarf Stars, Abundance, Pulsed Radiation,
 	Star Clusters, Stellar Spectrophotometry, Thermal Radiation}
+}
+
+@ARTICLE{Iben1983,
+  author = {{Iben}, Jr., I. and {Renzini}, A.},
+  title = {{Asymptotic giant branch evolution and beyond}},
+  journal = {\araa},
+  year = {1983},
+  volume = {21},
+  pages = {271-342},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/1983ARA%26A..21..271I},
+  doi = {10.1146/annurev.aa.21.090183.001415},
+  keywords = {ASYMPTOTIC GIANT BRANCH STARS, GIANT STARS, STELLAR EVOLUTION, STELLAR
+	MASS EJECTION, SUPERNOVAE, WHITE DWARF STARS, ABUNDANCE, PULSED RADIATION,
+	STAR CLUSTERS, STELLAR SPECTROPHOTOMETRY, THERMAL RADIATION},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2011A&A...534A..79I,
+  author = {{Ishihara}, D. and {Kaneda}, H. and {Onaka}, T. and {Ita}, Y. and
+	{Matsuura}, M. and {Matsunaga}, N.},
+  title = {{Galactic distributions of carbon- and oxygen-rich AGB stars revealed
+	by the AKARI mid-infrared all-sky survey}},
+  journal = {\aap},
+  year = {2011},
+  volume = {534},
+  pages = {A79},
+  month = oct,
+  eid = {A79},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2011A%26A...534A..79I},
+  archiveprefix = {arXiv},
+  doi = {10.1051/0004-6361/201117626},
+  eprint = {1108.6161},
+  keywords = {stars: AGB and post-AGB, infrared: ISM, stars: mass-loss, infrared:
+	stars, Galaxy: structure},
+  owner = {Nick},
+  primaryclass = {astro-ph.GA},
+  timestamp = {2014.05.06}
+}
+
+@BOOK{2013sdmm.book.....I,
+  title = {{Statistics, Data Mining, and Machine Learning in Astronomy}},
+  year = {2013},
+  author = {{Ivezi{\'c}}, {\.Z}. and {Connolly}, A. and {VanderPlas}, J. and
+	{Gray}, A.},
+  month = may,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2013sdmm.book.....I},
+  booktitle = {Statistics, Data Mining, and Machine Learning in Astronomy, by {\.Z}.~Ivezi{\'c}
+	et al.~Princeton University Press, 2013},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2012ARA&A..50..251I,
+  author = {{Ivezi{\'c}}, {\v Z}. and {Beers}, T.~C. and {Juri{\'c}}, M. },
+  title = {{Galactic Stellar Populations in the Era of the Sloan Digital Sky
+	Survey and Other Large Surveys}},
+  journal = {\araa},
+  year = {2012},
+  volume = {50},
+  pages = {251-304},
+  month = sep,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2012ARA%26A..50..251I},
+  doi = {10.1146/annurev-astro-081811-125504},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2010MNRAS.404.1415I,
+  author = {{Ivezi{\'c}}, {\v Z}. and {Elitzur}, M.},
+  title = {{Dusty winds - II. Observational implications}},
+  journal = {\mnras},
+  year = {2010},
+  volume = {404},
+  pages = {1415-1424},
+  month = may,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2010MNRAS.404.1415I},
+  archiveprefix = {arXiv},
+  doi = {10.1111/j.1365-2966.2010.16348.x},
+  eprint = {1001.4579},
+  keywords = {stars: AGB and post-AGB, stars: late-type, stars: mass-loss, winds,
+	outflows, dust, extinction, infrared: stars},
+  owner = {Nick},
+  primaryclass = {astro-ph.SR},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2000AJ....120..963I,
+  author = {{Ivezi{\'c}}, {\v Z}. and {Goldston}, J. and {Finlator}, K. and {Knapp},
+	G.~R. and {Yanny}, B. and {McKay}, T.~A. and {Amrose}, S. and {Krisciunas},
+	K. and {Willman}, B. and {Anderson}, S. and {Schaber}, C. and {Erb},
+	D. and {Logan}, C. and {Stubbs}, C. and {Chen}, B. and {Neilsen},
+	E. and {Uomoto}, A. and {Pier}, J.~R. and {Fan}, X. and {Gunn}, J.~E.
+	and {Lupton}, R.~H. and {Rockosi}, C.~M. and {Schlegel}, D. and {Strauss},
+	M.~A. and {Annis}, J. and {Brinkmann}, J. and {Csabai}, I. and {Doi},
+	M. and {Fukugita}, M. and {Hennessy}, G.~S. and {Hindsley}, R.~B.
+	and {Margon}, B. and {Munn}, J.~A. and {Newberg}, H.~J. and {Schneider},
+	D.~P. and {Smith}, J.~A. and {Szokoly}, G.~P. and {Thakar}, A.~R.
+	and {Vogeley}, M.~S. and {Waddell}, P. and {Yasuda}, N. and {York},
+	D.~G. and {SDSS Collaboration}},
+  title = {{Candidate RR Lyrae Stars Found in Sloan Digital Sky Survey Commissioning
+	Data}},
+  journal = {\aj},
+  year = {2000},
+  volume = {120},
+  pages = {963-977},
+  month = aug,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2000AJ....120..963I},
+  doi = {10.1086/301455},
+  eprint = {arXiv:astro-ph/0004130},
+  keywords = {Galaxy: Halo, Galaxy: Stellar Content, Galaxy: Structure, Stars: Variables:
+	RR Lyrae Variable},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2008ApJ...684..287I,
+  author = {{Ivezi{\'c}}, {\v Z}. and {Sesar}, B. and {Juri{\'c}}, M. and {Bond},
+	N. and {Dalcanton}, J. and {Rockosi}, C.~M. and {Yanny}, B. and {Newberg},
+	H.~J. and {Beers}, T.~C. and {Allende Prieto}, C. and {Wilhelm},
+	R. and {Lee}, Y.~S. and {Sivarani}, T. and {Norris}, J.~E. and {Bailer-Jones},
+	C.~A.~L. and {Re Fiorentin}, P. and {Schlegel}, D. and {Uomoto},
+	A. and {Lupton}, R.~H. and {Knapp}, G.~R. and {Gunn}, J.~E. and {Covey},
+	K.~R. and {Smith}, J.~A. and {Miknaitis}, G. and {Doi}, M. and {Tanaka},
+	M. and {Fukugita}, M. and {Kent}, S. and {Finkbeiner}, D. and {Munn},
+	J.~A. and {Pier}, J.~R. and {Quinn}, T. and {Hawley}, S. and {Anderson},
+	S. and {Kiuchi}, F. and {Chen}, A. and {Bushong}, J. and {Sohi},
+	H. and {Haggard}, D. and {Kimball}, A. and {Barentine}, J. and {Brewington},
+	H. and {Harvanek}, M. and {Kleinman}, S. and {Krzesinski}, J. and
+	{Long}, D. and {Nitta}, A. and {Snedden}, S. and {Lee}, B. and {Harris},
+	H. and {Brinkmann}, J. and {Schneider}, D.~P. and {York}, D.~G.},
+  title = {{The Milky Way Tomography with SDSS. II. Stellar Metallicity}},
+  journal = {\apj},
+  year = {2008},
+  volume = {684},
+  pages = {287-325},
+  month = sep,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2008ApJ...684..287I},
+  archiveprefix = {arXiv},
+  doi = {10.1086/589678},
+  eprint = {0804.3850},
+  keywords = {Galaxy: Halo, Galaxy: Kinematics and Dynamics, Galaxy: Stellar Content,
+	Galaxy: Structure, Methods: Data Analysis, Stars: Statistics},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{1996MNRAS.279.1011I,
+  author = {{Ivezi{\'c}}, Z. and {Elitzur}, M.},
+  title = {{Infrared imaging of late-type stars.}},
+  journal = {\mnras},
+  year = {1996},
+  volume = {279},
+  pages = {1011-1018},
+  month = apr,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/1996MNRAS.279.1011I},
+  eprint = {arXiv:astro-ph/9512154},
+  keywords = {circumstellar matter -- stars: late-type -- dust, extinction -- infrared:
+	stars, Stellar Winds: Infrared Radiation, Stellar Winds: Late-Type
+	Stars, Stellar Winds: Dust, Infrared Images: Stellar Winds, Infrared
+	Images: Late-Type Stars},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{1995ApJ...445..415I,
+  author = {{Ivezi{\'c}}, Z. and {Elitzur}, M.},
+  title = {{Infrared emission and dynamics of outlfows in late-type stars}},
+  journal = {\apj},
+  year = {1995},
+  volume = {445},
+  pages = {415-432},
+  month = may,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/1995ApJ...445..415I},
+  doi = {10.1086/175707},
+  keywords = {ABUNDANCE, INFRARED SIGNATURES, LATE STARS, MASS FLOW, RADIATION PRESSURE,
+	RADIATIVE TRANSFER, STELLAR ENVELOPES, STELLAR WINDS, ABSORPTIVITY,
+	DENSITY DISTRIBUTION, FLUX DENSITY, OPTICAL THICKNESS, STELLAR MODELS,
+	STELLAR SPECTRA},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{1999astro.ph.10475I,
+  author = {{Ivezi{\'c}}, Z. and {Nenkova}, M. and {Elitzur}, M.},
+  title = {{User Manual for DUSTY}},
+  journal = {ArXiv Astrophysics e-prints},
+  year = {1999},
+  month = oct,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/1999astro.ph.10475I},
+  eprint = {arXiv:astro-ph/9910475},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2002MNRAS.337..749J,
+  author = {{Jackson}, T. and {Ivezi{\'c}}, {\v Z}. and {Knapp}, G.~R.},
+  title = {{The Galactic distribution of asymptotic giant branch stars}},
+  journal = {\mnras},
+  year = {2002},
+  volume = {337},
+  pages = {749-767},
+  month = dec,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2002MNRAS.337..749J},
+  doi = {10.1046/j.1365-8711.2002.05980.x},
+  eprint = {arXiv:astro-ph/0202407},
+  keywords = {stars: AGB and post-AGB, stars: evolution, stars: mass-loss},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2008ApJ...673..864J,
+  author = {{Juri{\'c}}, M. and {Ivezi{\'c}}, {\v Z}. and {Brooks}, A. and {Lupton},
+	R.~H. and {Schlegel}, D. and {Finkbeiner}, D. and {Padmanabhan},
+	N. and {Bond}, N. and {Sesar}, B. and {Rockosi}, C.~M. and {Knapp},
+	G.~R. and {Gunn}, J.~E. and {Sumi}, T. and {Schneider}, D.~P. and
+	{Barentine}, J.~C. and {Brewington}, H.~J. and {Brinkmann}, J. and
+	{Fukugita}, M. and {Harvanek}, M. and {Kleinman}, S.~J. and {Krzesinski},
+	J. and {Long}, D. and {Neilsen}, Jr., E.~H. and {Nitta}, A. and {Snedden},
+	S.~A. and {York}, D.~G.},
+  title = {{The Milky Way Tomography with SDSS. I. Stellar Number Density Distribution}},
+  journal = {\apj},
+  year = {2008},
+  volume = {673},
+  pages = {864-914},
+  month = feb,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2008ApJ...673..864J},
+  doi = {10.1086/523619},
+  eprint = {arXiv:astro-ph/0510520},
+  keywords = {Galaxy: Disk, Galaxy: Fundamental Parameters, Galaxy: Halo, Galaxy:
+	Structure},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2010MNRAS.408..522K,
+  author = {{Kamath}, D. and {Wood}, P.~R. and {Soszy{\'n}ski}, I. and {Lebzelter},
+	T. },
+  title = {{The pulsation of AGB stars in the Magellanic Cloud clusters NGC1978
+	and 419}},
+  journal = {\mnras},
+  year = {2010},
+  volume = {408},
+  pages = {522-534},
+  month = oct,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2010MNRAS.408..522K},
+  archiveprefix = {arXiv},
+  doi = {10.1111/j.1365-2966.2010.17137.x},
+  eprint = {1006.3121},
+  keywords = {stars: AGB and post-AGB, stars: mass-loss, stars: variables: general,
+	Magellanic Clouds, galaxies: star clusters: individual: NGC1978,
+	galaxies: star clusters: individual: NGC419},
+  owner = {Nick},
+  primaryclass = {astro-ph.SR},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2010ApJ...710.1444K,
+  author = {{Kazin}, E.~A. and {Blanton}, M.~R. and {Scoccimarro}, R. and {McBride},
+	C.~K. and {Berlind}, A.~A. and {Bahcall}, N.~A. and {Brinkmann},
+	J. and {Czarapata}, P. and {Frieman}, J.~A. and {Kent}, S.~M. and
+	{Schneider}, D.~P. and {Szalay}, A.~S.},
+  title = {{The Baryonic Acoustic Feature and Large-Scale Clustering in the
+	Sloan Digital Sky Survey Luminous Red Galaxy Sample}},
+  journal = {\apj},
+  year = {2010},
+  volume = {710},
+  pages = {1444-1461},
+  month = feb,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2010ApJ...710.1444K},
+  archiveprefix = {arXiv},
+  doi = {10.1088/0004-637X/710/2/1444},
+  eprint = {0908.2598},
+  keywords = {cosmology: observations, distance scale, galaxies: elliptical and
+	lenticular, cD, large-scale structure of universe},
+  owner = {Nick},
+  primaryclass = {astro-ph.CO},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2009ApJS..185...32K,
+  author = {{Kessler}, R. and {Becker}, A.~C. and {Cinabro}, D. and {Vanderplas},
+	J. and {Frieman}, J.~A. and {Marriner}, J. and {Davis}, T.~M. and
+	{Dilday}, B. and {Holtzman}, J. and {Jha}, S.~W. and {Lampeitl},
+	H. and {Sako}, M. and {Smith}, M. and {Zheng}, C. and {Nichol}, R.~C.
+	and {Bassett}, B. and {Bender}, R. and {Depoy}, D.~L. and {Doi},
+	M. and {Elson}, E. and {Filippenko}, A.~V. and {Foley}, R.~J. and
+	{Garnavich}, P.~M. and {Hopp}, U. and {Ihara}, Y. and {Ketzeback},
+	W. and {Kollatschny}, W. and {Konishi}, K. and {Marshall}, J.~L.
+	and {McMillan}, R.~J. and {Miknaitis}, G. and {Morokuma}, T. and
+	{M{\"o}rtsell}, E. and {Pan}, K. and {Prieto}, J.~L. and {Richmond},
+	M.~W. and {Riess}, A.~G. and {Romani}, R. and {Schneider}, D.~P.
+	and {Sollerman}, J. and {Takanashi}, N. and {Tokita}, K. and {van
+	der Heyden}, K. and {Wheeler}, J.~C. and {Yasuda}, N. and {York},
+	D.},
+  title = {{First-Year Sloan Digital Sky Survey-II Supernova Results: Hubble
+	Diagram and Cosmological Parameters}},
+  journal = {\apjs},
+  year = {2009},
+  volume = {185},
+  pages = {32-84},
+  month = nov,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2009ApJS..185...32K},
+  archiveprefix = {arXiv},
+  doi = {10.1088/0067-0049/185/1/32},
+  eprint = {0908.4274},
+  keywords = {cosmological parameters, cosmology: observations, distance scale,
+	methods: data analysis, supernovae: general, surveys},
+  owner = {Nick},
+  primaryclass = {astro-ph.CO},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2008AJ....136..684K,
+  author = {{Kimball}, A.~E. and {Ivezi{\'c}}, {\v Z}.},
+  title = {{A Unified Catalog of Radio Objects Detected by NVSS, First, WENSS,
+	GB6, and SDSS}},
+  journal = {\aj},
+  year = {2008},
+  volume = {136},
+  pages = {684-712},
+  month = aug,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2008AJ....136..684K},
+  archiveprefix = {arXiv},
+  doi = {10.1088/0004-6256/136/2/684},
+  eprint = {0806.0650},
+  keywords = {catalogs, galaxies: active, radio continuum: general},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2011AJ....141..182K,
+  author = {{Kimball}, A.~E. and {Ivezi{\'c}}, {\v Z}. and {Wiita}, P.~J. and
+	{Schneider}, D.~P.},
+  title = {{Correlations of Quasar Optical Spectra with Radio Morphology}},
+  journal = {\aj},
+  year = {2011},
+  volume = {141},
+  pages = {182},
+  month = jun,
+  eid = {182},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2011AJ....141..182K},
+  archiveprefix = {arXiv},
+  doi = {10.1088/0004-6256/141/6/182},
+  eprint = {1103.4791},
+  keywords = {quasars: emission lines, quasars: general},
+  owner = {Nick},
+  primaryclass = {astro-ph.CO},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2009ApJ...701..535K,
+  author = {{Kimball}, A.~E. and {Knapp}, G.~R. and {Ivezi{\'c}}, {\v Z}. and
+	{West}, A.~A. and {Bochanski}, J.~J. and {Plotkin}, R.~M. and {Gordon},
+	M.~S.},
+  title = {{A Sample of Candidate Radio Stars in First and SDSS}},
+  journal = {\apj},
+  year = {2009},
+  volume = {701},
+  pages = {535-546},
+  month = aug,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2009ApJ...701..535K},
+  archiveprefix = {arXiv},
+  doi = {10.1088/0004-637X/701/1/535},
+  eprint = {0906.3030},
+  keywords = {radio continuum: stars, stars: statistics, surveys},
+  owner = {Nick},
+  primaryclass = {astro-ph.SR},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2001ApJ...552..787K,
+  author = {{Knauer}, T.~G. and {Ivezi{\'c}}, {\v Z}. and {Knapp}, G.~R. },
+  title = {{Analysis of Stars Common to the IRAS and Hipparcos Surveys}},
+  journal = {\apj},
+  year = {2001},
+  volume = {552},
+  pages = {787-792},
+  month = may,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2001ApJ...552..787K},
+  doi = {10.1086/320584},
+  eprint = {arXiv:astro-ph/0102216},
+  keywords = {Stars: Circumstellar Matter, Infrared: Stars, Stars: AGB and Post-AGB,
+	Stars: Fundamental Parameters, Stars: Mass Loss, Surveys},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2000A&A...360L...1K,
+  author = {{Kov{\'a}cs}, G.},
+  title = {{The distance modulus of the Small Magellanic Cloud based on double-mode
+	Cepheids}},
+  journal = {\aap},
+  year = {2000},
+  volume = {360},
+  pages = {L1-L4},
+  month = aug,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2000A%26A...360L...1K},
+  eprint = {arXiv:astro-ph/0007271},
+  keywords = {STARS: FUNDAMENTAL PARAMETERS, STARS: DISTANCES, STARS: VARIABLES:
+	CEPHEIDS, STARS: OSCILLATIONS, GALAXIES: MAGELLANIC CLOUDS},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{1984SSRv...39....1K,
+  author = {{Kovalevsky}, J.},
+  title = {{Prospects for space stellar astrometry}},
+  journal = {\ssr},
+  year = {1984},
+  volume = {39},
+  pages = {1-63},
+  month = oct,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/1984SSRv...39....1K},
+  doi = {10.1007/BF00173669},
+  keywords = {Astrometry, Spaceborne Astronomy, Technological Forecasting, Atmospheric
+	Effects, Grids, Hipparcos Satellite, Hubble Space Telescope, Satellite-Borne
+	Instruments, Very Long Base Interferometry}
+}
+
+@ARTICLE{2011AJ....141...90L,
+  author = {{Lee}, Y.~S. and {Beers}, T.~C. and {Allende Prieto}, C. and {Lai},
+	D.~K. and {Rockosi}, C.~M. and {Morrison}, H.~L. and {Johnson}, J.~A.
+	and {An}, D. and {Sivarani}, T. and {Yanny}, B. },
+  title = {{The SEGUE Stellar Parameter Pipeline. V. Estimation of Alpha-element
+	Abundance Ratios from Low-resolution SDSS/SEGUE Stellar Spectra}},
+  journal = {\aj},
+  year = {2011},
+  volume = {141},
+  pages = {90},
+  month = mar,
+  eid = {90},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2011AJ....141...90L},
+  archiveprefix = {arXiv},
+  doi = {10.1088/0004-6256/141/3/90},
+  eprint = {1010.2934},
+  keywords = {methods: data analysis, stars: abundances, stars: fundamental parameters,
+	surveys, techniques: imaging spectroscopy},
+  owner = {Nick},
+  primaryclass = {astro-ph.IM},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2011ApJ...738..187L,
+  author = {{Lee}, Y.~S. and {Beers}, T.~C. and {An}, D. and {Ivezi{\'c}}, {\v
+	Z}. and {Just}, A. and {Rockosi}, C.~M. and {Morrison}, H.~L. and
+	{Johnson}, J.~A. and {Sch{\"o}nrich}, R. and {Bird}, J. and {Yanny},
+	B. and {Harding}, P. and {Rocha-Pinto}, H.~J.},
+  title = {{Formation and Evolution of the Disk System of the Milky Way: [{$\alpha$}/Fe]
+	Ratios and Kinematics of the SEGUE G-dwarf Sample}},
+  journal = {\apj},
+  year = {2011},
+  volume = {738},
+  pages = {187},
+  month = sep,
+  eid = {187},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2011ApJ...738..187L},
+  archiveprefix = {arXiv},
+  doi = {10.1088/0004-637X/738/2/187},
+  eprint = {1104.3114},
+  keywords = {Galaxy: disk, Galaxy: formation, Galaxy: kinematics and dynamics,
+	Galaxy: structure},
+  owner = {Nick},
+  primaryclass = {astro-ph.GA},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2011ApJ...737....8L,
+  author = {{Loebman}, S.~R. and {Ro{\v s}kar}, R. and {Debattista}, V.~P. and
+	{Ivezi{\'c}}, {\v Z}. and {Quinn}, T.~R. and {Wadsley}, J.},
+  title = {{The Genesis of the Milky Way's Thick Disk Via Stellar Migration}},
+  journal = {\apj},
+  year = {2011},
+  volume = {737},
+  pages = {8},
+  month = aug,
+  eid = {8},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2011ApJ...737....8L},
+  archiveprefix = {arXiv},
+  doi = {10.1088/0004-637X/737/1/8},
+  eprint = {1009.5997},
+  keywords = {galaxies: spiral, Galaxy: evolution, Galaxy: kinematics and dynamics,
+	Galaxy: stellar content, Galaxy: structure, solar neighborhood},
+  owner = {Nick},
+  primaryclass = {astro-ph.GA},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2011ApJ...728...26M,
+  author = {{MacLeod}, C.~L. and {Brooks}, K. and {Ivezi{\'c}}, {\v Z}. and {Kochanek},
+	C.~S. and {Gibson}, R. and {Meisner}, A. and {Koz{\l}owski}, S. and
+	{Sesar}, B. and {Becker}, A.~C. and {de Vries}, W.~H.},
+  title = {{Quasar Selection Based on Photometric Variability}},
+  journal = {\apj},
+  year = {2011},
+  volume = {728},
+  pages = {26},
+  month = feb,
+  eid = {26},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2011ApJ...728...26M},
+  archiveprefix = {arXiv},
+  doi = {10.1088/0004-637X/728/1/26},
+  eprint = {1009.2081},
+  keywords = {quasars: general},
+  owner = {Nick},
+  primaryclass = {astro-ph.CO},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2010ApJ...721.1014M,
+  author = {{MacLeod}, C.~L. and {Ivezi{\'c}}, {\v Z}. and {Kochanek}, C.~S.
+	and {Koz{\l}owski}, S. and {Kelly}, B. and {Bullock}, E. and {Kimball},
+	A. and {Sesar}, B. and {Westman}, D. and {Brooks}, K. and {Gibson},
+	R. and {Becker}, A.~C. and {de Vries}, W.~H.},
+  title = {{Modeling the Time Variability of SDSS Stripe 82 Quasars as a Damped
+	Random Walk}},
+  journal = {\apj},
+  year = {2010},
+  volume = {721},
+  pages = {1014-1033},
+  month = oct,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2010ApJ...721.1014M},
+  archiveprefix = {arXiv},
+  doi = {10.1088/0004-637X/721/2/1014},
+  eprint = {1004.0276},
+  keywords = {quasars: general},
+  owner = {Nick},
+  primaryclass = {astro-ph.CO},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{1993ARA&A..31..575M,
+  author = {{Majewski}, S.~R.},
+  title = {{Galactic structure surveys and the evolution of the Milky Way}},
+  journal = {\araa},
+  year = {1993},
+  volume = {31},
+  pages = {575-638},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/1993ARA%26A..31..575M},
+  doi = {10.1146/annurev.aa.31.090193.003043},
+  keywords = {GALACTIC EVOLUTION, GALACTIC STRUCTURE, MILKY WAY GALAXY, STELLAR
+	COMPOSITION, ASTROMETRY, STELLAR EVOLUTION, STELLAR MOTIONS},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2003ApJ...599.1082M,
+  author = {{Majewski}, S.~R. and {Skrutskie}, M.~F. and {Weinberg}, M.~D. and
+	{Ostheimer}, J.~C.},
+  title = {{A Two Micron All Sky Survey View of the Sagittarius Dwarf Galaxy.
+	I. Morphology of the Sagittarius Core and Tidal Arms}},
+  journal = {\apj},
+  year = {2003},
+  volume = {599},
+  pages = {1082-1115},
+  month = dec,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2003ApJ...599.1082M},
+  doi = {10.1086/379504},
+  eprint = {arXiv:astro-ph/0304198},
+  keywords = {Galaxies: Individual: Name: Sagittarius Dwarf, Galaxies: Stellar Content,
+	Galaxy: Halo, Galaxy: Kinematics and Dynamics, Galaxy: Structure,
+	Galaxies: Local Group},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2009MNRAS.394L.107M,
+  author = {{Maraston}, C. and {Str{\"o}mb{\"a}ck}, G. and {Thomas}, D. and {Wake},
+	D.~A. and {Nichol}, R.~C.},
+  title = {{Modelling the colour evolution of luminous red galaxies - improvements
+	with empirical stellar spectra}},
+  journal = {\mnras},
+  year = {2009},
+  volume = {394},
+  pages = {L107-L111},
+  month = mar,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2009MNRAS.394L.107M},
+  archiveprefix = {arXiv},
+  doi = {10.1111/j.1745-3933.2009.00621.x},
+  eprint = {0809.1867},
+  keywords = {galaxies: evolution, galaxies: high-redshift, galaxies: stellar content,
+	cosmology: observations},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2009MNRAS.399.1709M,
+  author = {{Matsunaga}, N. and {Kawadu}, T. and {Nishiyama}, S. and {Nagayama},
+	T. and {Hatano}, H. and {Tamura}, M. and {Glass}, I.~S. and {Nagata},
+	T. },
+  title = {{A near-infrared survey of Miras and the distance to the Galactic
+	Centre}},
+  journal = {\mnras},
+  year = {2009},
+  volume = {399},
+  pages = {1709-1729},
+  month = nov,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2009MNRAS.399.1709M},
+  archiveprefix = {arXiv},
+  doi = {10.1111/j.1365-2966.2009.15393.x},
+  eprint = {0907.2761},
+  keywords = {stars: AGB and post-AGB , stars: variables: other , dust, extinction
+	, Galaxy: centre , Galaxy: structure , infrared: stars},
+  owner = {Nick},
+  primaryclass = {astro-ph.SR},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2009MNRAS.396..918M,
+  author = {{Matsuura}, M. and {Barlow}, M.~J. and {Zijlstra}, A.~A. and {Whitelock},
+	P.~A. and {Cioni}, M.-R.~L. and {Groenewegen}, M.~A.~T. and {Volk},
+	K. and {Kemper}, F. and {Kodama}, T. and {Lagadec}, E. and {Meixner},
+	M. and {Sloan}, G.~C. and {Srinivasan}, S.},
+  title = {{The global gas and dust budget of the Large Magellanic Cloud: AGB
+	stars and supernovae, and the impact on the ISM evolution}},
+  journal = {\mnras},
+  year = {2009},
+  volume = {396},
+  pages = {918-934},
+  month = jun,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2009MNRAS.396..918M},
+  archiveprefix = {arXiv},
+  doi = {10.1111/j.1365-2966.2009.14743.x},
+  eprint = {0903.1123},
+  keywords = {stars: AGB and post-AGB , stars: mass-loss , supernovae: general ,
+	dust, extinction , galaxies: evolution , galaxies: individual: the
+	Magellanic Clouds},
+  owner = {Nick},
+  primaryclass = {astro-ph.GA},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2006AJ....132.2268M,
+  author = {{Meixner}, M. and {Gordon}, K.~D. and {Indebetouw}, R. and {Hora},
+	J.~L. and {Whitney}, B. and {Blum}, R. and {Reach}, W. and {Bernard},
+	J.-P. and {Meade}, M. and {Babler}, B. and {Engelbracht}, C.~W. and
+	{For}, B.-Q. and {Misselt}, K. and {Vijh}, U. and {Leitherer}, C.
+	and {Cohen}, M. and {Churchwell}, E.~B. and {Boulanger}, F. and {Frogel},
+	J.~A. and {Fukui}, Y. and {Gallagher}, J. and {Gorjian}, V. and {Harris},
+	J. and {Kelly}, D. and {Kawamura}, A. and {Kim}, S. and {Latter},
+	W.~B. and {Madden}, S. and {Markwick-Kemper}, C. and {Mizuno}, A.
+	and {Mizuno}, N. and {Mould}, J. and {Nota}, A. and {Oey}, M.~S.
+	and {Olsen}, K. and {Onishi}, T. and {Paladini}, R. and {Panagia},
+	N. and {Perez-Gonzalez}, P. and {Shibai}, H. and {Sato}, S. and {Smith},
+	L. and {Staveley-Smith}, L. and {Tielens}, A.~G.~G.~M. and {Ueta},
+	T. and {van Dyk}, S. and {Volk}, K. and {Werner}, M. and {Zaritsky},
+	D. },
+  title = {{Spitzer Survey of the Large Magellanic Cloud: Surveying the Agents
+	of a Galaxy's Evolution (SAGE). I. Overview and Initial Results}},
+  journal = {\aj},
+  year = {2006},
+  volume = {132},
+  pages = {2268-2288},
+  month = dec,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2006AJ....132.2268M},
+  doi = {10.1086/508185},
+  eprint = {arXiv:astro-ph/0606356},
+  keywords = {ISM: Dust, Extinction, ISM: General, Galaxies: Magellanic Clouds,
+	Stars: AGB and Post-AGB, Stars: Formation, Stars: Mass Loss, Stars:
+	Supergiants, Surveys},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2010ApJ...722..112M,
+  author = {{Minchev}, I. and {Famaey}, B.},
+  title = {{A New Mechanism for Radial Migration in Galactic Disks: Spiral-Bar
+	Resonance Overlap}},
+  journal = {\apj},
+  year = {2010},
+  volume = {722},
+  pages = {112-121},
+  month = oct,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2010ApJ...722..112M},
+  archiveprefix = {arXiv},
+  doi = {10.1088/0004-637X/722/1/112},
+  eprint = {0911.1794},
+  keywords = {galaxies: abundances, galaxies: evolution, galaxies: kinematics and
+	dynamics, galaxies: spiral, solar neighborhood},
+  owner = {Nick},
+  primaryclass = {astro-ph.GA},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2002ApJ...569..245N,
+  author = {{Newberg}, H.~J. and {Yanny}, B. and {Rockosi}, C. and {Grebel},
+	E.~K. and {Rix}, H.-W. and {Brinkmann}, J. and {Csabai}, I. and {Hennessy},
+	G. and {Hindsley}, R.~B. and {Ibata}, R. and {Ivezi{\'c}}, Z. and
+	{Lamb}, D. and {Nash}, E.~T. and {Odenkirchen}, M. and {Rave}, H.~A.
+	and {Schneider}, D.~P. and {Smith}, J.~A. and {Stolte}, A. and {York},
+	D.~G.},
+  title = {{The Ghost of Sagittarius and Lumps in the Halo of the Milky Way}},
+  journal = {\apj},
+  year = {2002},
+  volume = {569},
+  pages = {245-274},
+  month = apr,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2002ApJ...569..245N},
+  doi = {10.1086/338983},
+  eprint = {arXiv:astro-ph/0111095},
+  keywords = {Galaxy: Halo, Galaxy: Structure},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2000ApJ...542..804N,
+  author = {{Nikolaev}, S. and {Weinberg}, M.~D.},
+  title = {{Stellar Populations in the Large Magellanic Cloud from 2MASS}},
+  journal = {\apj},
+  year = {2000},
+  volume = {542},
+  pages = {804-818},
+  month = oct,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2000ApJ...542..804N},
+  doi = {10.1086/317048},
+  eprint = {arXiv:astro-ph/0003012},
+  keywords = {Galaxies: Stellar Content, Infrared: Stars, Galaxies: Magellanic Clouds,
+	Stars: Luminosity Function, Mass Function, Surveys},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{1997ApJ...487..885N,
+  author = {{Nikolaev}, S. and {Weinberg}, M.~D.},
+  title = {{A Rigorous Reanalysis of the IRAS Variable Population: Scale Lengths,
+	Asymmetries, and Microlensing}},
+  journal = {\apj},
+  year = {1997},
+  volume = {487},
+  pages = {885},
+  month = oct,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/1997ApJ...487..885N},
+  doi = {10.1086/304639},
+  keywords = {GALAXY: STRUCTURE, INFRARED: STARS, METHODS: STATISTICAL, STARS: STATISTICS},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2014MNRAS.442.3361N,
+  author = {{Nikutta}, R. and {Hunt-Walker}, N. and {Nenkova}, M. and {Ivezi{\'c}},
+	{\v Z}. and {Elitzur}, M.},
+  title = {{The meaning of WISE colours - I. The Galaxy and its satellites}},
+  journal = {\mnras},
+  year = {2014},
+  volume = {442},
+  pages = {3361-3379},
+  month = aug,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2014MNRAS.442.3361N},
+  archiveprefix = {arXiv},
+  doi = {10.1093/mnras/stu1087},
+  eprint = {1405.7966},
+  keywords = {radiative transfer, stars: AGB and post-AGB, Galaxy: structure, Magellanic
+	Clouds, infrared: general, infrared: stars},
+  owner = {Nick},
+  timestamp = {2014.10.20}
+}
+
+@ARTICLE{2000MNRAS.313..136N,
+  author = {{Nishida}, S. and {Tanab{\'e}}, T. and {Nakada}, Y. and {Matsumoto},
+	S. and {Sekiguchi}, K. and {Glass}, I.~S.},
+  title = {{The variability of Magellanic cluster infrared stars}},
+  journal = {\mnras},
+  year = {2000},
+  volume = {313},
+  pages = {136-140},
+  month = mar,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2000MNRAS.313..136N},
+  doi = {10.1046/j.1365-8711.2000.03189.x},
+  keywords = {STARS: AGB AND POST-AGB, CIRCUMSTELLAR MATTER, STARS: MASS-LOSS, STARS:
+	VARIABLES: OTHER, INFRARED: STARS},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2004A&A...418..989N,
+  author = {{Nordstr{\"o}m}, B. and {Mayor}, M. and {Andersen}, J. and {Holmberg},
+	J. and {Pont}, F. and {J{\o}rgensen}, B.~R. and {Olsen}, E.~H. and
+	{Udry}, S. and {Mowlavi}, N.},
+  title = {{The Geneva-Copenhagen survey of the Solar neighbourhood. Ages, metallicities,
+	and kinematic properties of {\tilde}14 000 F and G dwarfs}},
+  journal = {\aap},
+  year = {2004},
+  volume = {418},
+  pages = {989-1019},
+  month = may,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2004A%26A...418..989N},
+  doi = {10.1051/0004-6361:20035959},
+  eprint = {arXiv:astro-ph/0405198},
+  keywords = {Galaxy: disk, Galaxy: solar neighbourhood, Galaxy: stellar content,
+	Galaxy: kinematics and dynamics, Galaxy: evolution, stars: fundamental
+	parameters},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2004MNRAS.351..487P,
+  author = {{Pont}, F. and {Eyer}, L.},
+  title = {{Isochrone ages for field dwarfs: method and application to the age-metallicity
+	relation}},
+  journal = {\mnras},
+  year = {2004},
+  volume = {351},
+  pages = {487-504},
+  month = jun,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2004MNRAS.351..487P},
+  doi = {10.1111/j.1365-2966.2004.07780.x},
+  eprint = {arXiv:astro-ph/0401418},
+  keywords = {methods: statistical, stars: evolution, stars: fundamental parameters,
+	Hertzsprung-Russell (HR) diagram, Galaxy: evolution},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2007A&A...465..271R,
+  author = {{Ram{\'{\i}}rez}, I. and {Allende Prieto}, C. and {Lambert}, D.~L.
+	},
+  title = {{Oxygen abundances in nearby stars. Clues to the formation and evolution
+	of the Galactic disk}},
+  journal = {\aap},
+  year = {2007},
+  volume = {465},
+  pages = {271-289},
+  month = apr,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2007A%26A...465..271R},
+  doi = {10.1051/0004-6361:20066619},
+  eprint = {arXiv:astro-ph/0701362},
+  keywords = {stars: abundances, stars: atmospheres, stars: fundamental parameters,
+	Galaxy: disk},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2006MNRAS.367.1329R,
+  author = {{Reddy}, B.~E. and {Lambert}, D.~L. and {Allende Prieto}, C. },
+  title = {{Elemental abundance survey of the Galactic thick disc}},
+  journal = {\mnras},
+  year = {2006},
+  volume = {367},
+  pages = {1329-1366},
+  month = apr,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2006MNRAS.367.1329R},
+  doi = {10.1111/j.1365-2966.2006.10148.x},
+  eprint = {arXiv:astro-ph/0512505},
+  keywords = {stars: abundances, stars: kinematics, Galaxy: abundances, Galaxy:
+	evolution},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2004A&A...413..903R,
+  author = {{Rejkuba}, M.},
+  title = {{The distance to the giant elliptical galaxy NGC 5128}},
+  journal = {\aap},
+  year = {2004},
+  volume = {413},
+  pages = {903-912},
+  month = jan,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2004A%26A...413..903R},
+  doi = {10.1051/0004-6361:20034031},
+  eprint = {arXiv:astro-ph/0310639},
+  keywords = {galaxies: elliptical and lenticular, cD, galaxies: stellar content,
+	stars: fundamental parameters, galaxies: individual: NGC 5128},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2008ApJ...684L..79R,
+  author = {{Ro{\v s}kar}, R. and {Debattista}, V.~P. and {Quinn}, T.~R. and
+	{Stinson}, G.~S. and {Wadsley}, J.},
+  title = {{Riding the Spiral Waves: Implications of Stellar Migration for the
+	Properties of Galactic Disks}},
+  journal = {\apjl},
+  year = {2008},
+  volume = {684},
+  pages = {L79-L82},
+  month = sep,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2008ApJ...684L..79R},
+  archiveprefix = {arXiv},
+  doi = {10.1086/592231},
+  eprint = {0808.0206},
+  keywords = {Galaxies: Evolution, Galaxies: Spiral, Galaxies: Stellar Content,
+	Galaxy: Stellar Content, Galaxy: Solar Neighborhood, Stellar Dynamics},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2003A&A...409..523R,
+  author = {{Robin}, A.~C. and {Reyl{\'e}}, C. and {Derri{\`e}re}, S. and {Picaud},
+	S.},
+  title = {{A synthetic view on structure and evolution of the Milky Way}},
+  journal = {\aap},
+  year = {2003},
+  volume = {409},
+  pages = {523-540},
+  month = oct,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2003A%26A...409..523R},
+  doi = {10.1051/0004-6361:20031117},
+  keywords = {Galaxy: stellar content, Galaxy: general, Galaxy: evolution, Galaxy:
+	kinematics and dynamics, Galaxy: structure},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2004A&A...423..517R,
+  author = {{Rocha-Pinto}, H.~J. and {Flynn}, C. and {Scalo}, J. and {H{\"a}nninen},
+	J. and {Maciel}, W.~J. and {Hensler}, G.},
+  title = {{Chemical enrichment and star formation in the Milky Way disk. III.
+	Chemodynamical constraints}},
+  journal = {\aap},
+  year = {2004},
+  volume = {423},
+  pages = {517-535},
+  month = aug,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2004A%26A...423..517R},
+  doi = {10.1051/0004-6361:20035617},
+  eprint = {arXiv:astro-ph/0405468},
+  keywords = {stars: late-type, stars: statistics, Galaxy: evolution, Galaxy: solar
+	neighbourhood},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2009MNRAS.400L..61S,
+  author = {{Sales}, L.~V. and {Helmi}, A. and {Abadi}, M.~G. and {Brook}, C.~B.
+	and {G{\'o}mez}, F.~A. and {Ro{\v s}kar}, R. and {Debattista}, V.~P.
+	and {House}, E. and {Steinmetz}, M. and {Villalobos}, {\'A}.},
+  title = {{Orbital eccentricity as a probe of thick disc formation scenarios}},
+  journal = {\mnras},
+  year = {2009},
+  volume = {400},
+  pages = {L61-L65},
+  month = nov,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2009MNRAS.400L..61S},
+  archiveprefix = {arXiv},
+  doi = {10.1111/j.1745-3933.2009.00763.x},
+  eprint = {0909.3858},
+  keywords = {Galaxy: disc , Galaxies: kinematics and dynamics , galaxies: formation},
+  owner = {Nick},
+  primaryclass = {astro-ph.GA},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2009MNRAS.396..203S,
+  author = {{Sch{\"o}nrich}, R. and {Binney}, J.},
+  title = {{Chemical evolution with radial mixing}},
+  journal = {\mnras},
+  year = {2009},
+  volume = {396},
+  pages = {203-222},
+  month = jun,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2009MNRAS.396..203S},
+  archiveprefix = {arXiv},
+  doi = {10.1111/j.1365-2966.2009.14750.x},
+  eprint = {0809.3006},
+  keywords = {galaxies: abundances , galaxies: evolution , galaxies: ISM , galaxies:
+	kinematics and dynamics , Galaxy: disc , solar neighbourhood},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{1998ApJ...500..525S,
+  author = {{Schlegel}, D.~J. and {Finkbeiner}, D.~P. and {Davis}, M.},
+  title = {{Maps of Dust Infrared Emission for Use in Estimation of Reddening
+	and Cosmic Microwave Background Radiation Foregrounds}},
+  journal = {\apj},
+  year = {1998},
+  volume = {500},
+  pages = {525},
+  month = jun,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/1998ApJ...500..525S},
+  doi = {10.1086/305772},
+  eprint = {arXiv:astro-ph/9710327},
+  keywords = {COSMOLOGY: DIFFUSE RADIATION, COSMOLOGY: COSMIC MICROWAVE BACKGROUND,
+	ISM: DUST, EXTINCTION, INTERPLANETARY MEDIUM, INFRARED: ISM: CONTINUUM},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2002MNRAS.336..785S,
+  author = {{Sellwood}, J.~A. and {Binney}, J.~J.},
+  title = {{Radial mixing in galactic discs}},
+  journal = {\mnras},
+  year = {2002},
+  volume = {336},
+  pages = {785-796},
+  month = nov,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2002MNRAS.336..785S},
+  doi = {10.1046/j.1365-8711.2002.05806.x},
+  eprint = {arXiv:astro-ph/0203510},
+  keywords = {ISM: abundances, Galaxy: abundances, Galaxy: kinematics and dynamics,
+	galaxies: evolution, galaxies: ISM, galaxies: structure},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2010ApJ...708..717S,
+  author = {{Sesar}, B. and {Ivezi{\'c}}, {\v Z}. and {Grammer}, S.~H. and {Morgan},
+	D.~P. and {Becker}, A.~C. and {Juri{\'c}}, M. and {De Lee}, N. and
+	{Annis}, J. and {Beers}, T.~C. and {Fan}, X. and {Lupton}, R.~H.
+	and {Gunn}, J.~E. and {Knapp}, G.~R. and {Jiang}, L. and {Jester},
+	S. and {Johnston}, D.~E. and {Lampeitl}, H.},
+  title = {{Light Curve Templates and Galactic Distribution of RR Lyrae Stars
+	from Sloan Digital Sky Survey Stripe 82}},
+  journal = {\apj},
+  year = {2010},
+  volume = {708},
+  pages = {717-741},
+  month = jan,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2010ApJ...708..717S},
+  archiveprefix = {arXiv},
+  doi = {10.1088/0004-637X/708/1/717},
+  eprint = {0910.4611},
+  keywords = {Galaxy: halo, Galaxy: stellar content, Galaxy: structure, methods:
+	data analysis, stars: horizontal-branch, stars: statistics, stars:
+	variables: other},
+  owner = {Nick},
+  primaryclass = {astro-ph.GA},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2007AJ....134.2236S,
+  author = {{Sesar}, B. and {Ivezi{\'c}}, {\v Z}. and {Lupton}, R.~H. and {Juri{\'c}},
+	M. and {Gunn}, J.~E. and {Knapp}, G.~R. and {DeLee}, N. and {Smith},
+	J.~A. and {Miknaitis}, G. and {Lin}, H. and {Tucker}, D. and {Doi},
+	M. and {Tanaka}, M. and {Fukugita}, M. and {Holtzman}, J. and {Kent},
+	S. and {Yanny}, B. and {Schlegel}, D. and {Finkbeiner}, D. and {Padmanabhan},
+	N. and {Rockosi}, C.~M. and {Bond}, N. and {Lee}, B. and {Stoughton},
+	C. and {Jester}, S. and {Harris}, H. and {Harding}, P. and {Brinkmann},
+	J. and {Schneider}, D.~P. and {York}, D. and {Richmond}, M.~W. and
+	{Vanden Berk}, D.},
+  title = {{Exploring the Variable Sky with the Sloan Digital Sky Survey}},
+  journal = {\aj},
+  year = {2007},
+  volume = {134},
+  pages = {2236-2251},
+  month = dec,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2007AJ....134.2236S},
+  archiveprefix = {arXiv},
+  doi = {10.1086/521819},
+  eprint = {0704.0655},
+  keywords = {Galaxy: halo, Galaxy: stellar content, quasars: general, stars: Population
+	II, stars: variables: other},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2011ApJ...731....4S,
+  author = {{Sesar}, B. and {Juri{\'c}}, M. and {Ivezi{\'c}}, {\v Z}.},
+  title = {{The Shape and Profile of the Milky Way Halo as Seen by the Canada-France-Hawaii
+	Telescope Legacy Survey}},
+  journal = {\apj},
+  year = {2011},
+  volume = {731},
+  pages = {4},
+  month = apr,
+  eid = {4},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2011ApJ...731....4S},
+  archiveprefix = {arXiv},
+  doi = {10.1088/0004-637X/731/1/4},
+  eprint = {1011.4487},
+  keywords = {Galaxy: halo, Galaxy: stellar content, Galaxy: structure, stars: statistics},
+  owner = {Nick},
+  primaryclass = {astro-ph.GA},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2011AJ....142..190S,
+  author = {{Sesar}, B. and {Stuart}, J.~S. and {Ivezi{\'c}}, {\v Z}. and {Morgan},
+	D.~P. and {Becker}, A.~C. and {Wo{\'z}niak}, P.},
+  title = {{Exploring the Variable Sky with LINEAR. I. Photometric Recalibration
+	with the Sloan Digital Sky Survey}},
+  journal = {\aj},
+  year = {2011},
+  volume = {142},
+  pages = {190},
+  month = dec,
+  eid = {190},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2011AJ....142..190S},
+  archiveprefix = {arXiv},
+  doi = {10.1088/0004-6256/142/6/190},
+  eprint = {1109.5227},
+  keywords = {binaries: eclipsing, catalogs, stars: variables: general, stars: variables:
+	RR Lyrae, surveys},
+  owner = {Nick},
+  primaryclass = {astro-ph.GA},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2006AJ....131.1163S,
+  author = {{Skrutskie}, M.~F. and {Cutri}, R.~M. and {Stiening}, R. and {Weinberg},
+	M.~D. and {Schneider}, S. and {Carpenter}, J.~M. and {Beichman},
+	C. and {Capps}, R. and {Chester}, T. and {Elias}, J. and {Huchra},
+	J. and {Liebert}, J. and {Lonsdale}, C. and {Monet}, D.~G. and {Price},
+	S. and {Seitzer}, P. and {Jarrett}, T. and {Kirkpatrick}, J.~D. and
+	{Gizis}, J.~E. and {Howard}, E. and {Evans}, T. and {Fowler}, J.
+	and {Fullmer}, L. and {Hurt}, R. and {Light}, R. and {Kopan}, E.~L.
+	and {Marsh}, K.~A. and {McCallon}, H.~L. and {Tam}, R. and {Van Dyk},
+	S. and {Wheelock}, S.},
+  title = {{The Two Micron All Sky Survey (2MASS)}},
+  journal = {\aj},
+  year = {2006},
+  volume = {131},
+  pages = {1163-1183},
+  month = feb,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2006AJ....131.1163S},
+  doi = {10.1086/498708},
+  keywords = {Catalogs, Infrared: General, Surveys},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2010ARA&A..48..581S,
+  author = {{Soderblom}, D.~R.},
+  title = {{The Ages of Stars}},
+  journal = {\araa},
+  year = {2010},
+  volume = {48},
+  pages = {581-629},
+  month = sep,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2010ARA%26A..48..581S},
+  archiveprefix = {arXiv},
+  doi = {10.1146/annurev-astro-081309-130806},
+  eprint = {1003.6074},
+  owner = {Nick},
+  primaryclass = {astro-ph.SR},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2009AcA....59..239S,
+  author = {{Soszy{\~n}ski}, I. and {Udalski}, A. and {Szyma{\~n}ski}, M.~K.
+	and {Kubiak}, M. and {Pietrzy{\~n}ski}, G. and {Wyrzykowski}, {\L}.
+	and {Szewczyk}, O. and {Ulaczyk}, K. and {Poleski}, R.},
+  title = {{The Optical Gravitational Lensing Experiment. The OGLE-III Catalog
+	of Variable Stars. IV. Long-Period Variables in the Large Magellanic
+	Cloud}},
+  journal = {\actaa},
+  year = {2009},
+  volume = {59},
+  pages = {239-253},
+  month = sep,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2009AcA....59..239S},
+  archiveprefix = {arXiv},
+  eprint = {0910.1354},
+  keywords = {Stars: AGB and post-AGB, Stars: late-type, Stars: oscillations, Magellanic
+	Clouds},
+  owner = {Nick},
+  primaryclass = {astro-ph.SR},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2011AcA....61..217S,
+  author = {{Soszy{\'n}ski}, I. and {Udalski}, A. and {Szyma{\'n}ski}, M.~K.
+	and {Kubiak}, M. and {Pietrzy{\'n}ski}, G. and {Wyrzykowski}, {\L}.
+	and {Ulaczyk}, K. and {Poleski}, R. and {Koz{\l}owski}, S. and {Pietrukowicz},
+	P. },
+  title = {{The Optical Gravitational Lensing Experiment. The OGLE-III Catalog
+	of Variable Stars. XIII. Long-Period Variables in the Small Magellanic
+	Cloud}},
+  journal = {\actaa},
+  year = {2011},
+  volume = {61},
+  pages = {217-230},
+  month = sep,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2011AcA....61..217S},
+  archiveprefix = {arXiv},
+  eprint = {1109.1143},
+  keywords = {Stars: AGB and post-AGB, Stars: late-type, Stars: oscillations (including
+	pulsations), Magellanic Clouds},
+  owner = {Nick},
+  primaryclass = {astro-ph.SR},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2013RAA....13..323T,
+  author = {{Tu}, X. and {Wang}, Z.-X.},
+  title = {{Classification study of WISE infrared sources: identification of
+	candidate asymptotic giant branch stars}},
+  journal = {Research in Astronomy and Astrophysics},
+  year = {2013},
+  volume = {13},
+  pages = {323-333},
+  month = mar,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2013RAA....13..323T},
+  archiveprefix = {arXiv},
+  doi = {10.1088/1674-4527/13/3/007},
+  eprint = {1207.0294},
+  owner = {Nick},
+  primaryclass = {astro-ph.GA},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2006AJ....132..714V,
+  author = {{Vivas}, A.~K. and {Zinn}, R.},
+  title = {{The QUEST RR Lyrae Survey. II. The Halo Overdensities in the First
+	Catalog}},
+  journal = {\aj},
+  year = {2006},
+  volume = {132},
+  pages = {714-728},
+  month = aug,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2006AJ....132..714V},
+  doi = {10.1086/505200},
+  eprint = {arXiv:astro-ph/0604359},
+  keywords = {Galaxy: Halo, Galaxy: Structure, Stars: Variables: Other},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2001ApJ...554L..33V,
+  author = {{Vivas}, A.~K. and {Zinn}, R. and {Andrews}, P. and {Bailyn}, C.
+	and {Baltay}, C. and {Coppi}, P. and {Ellman}, N. and {Girard}, T.
+	and {Rabinowitz}, D. and {Schaefer}, B. and {Shin}, J. and {Snyder},
+	J. and {Sofia}, S. and {van Altena}, W. and {Abad}, C. and {Bongiovanni},
+	A. and {Brice{\~n}o}, C. and {Bruzual}, G. and {Della Prugna}, F.
+	and {Herrera}, D. and {Magris}, G. and {Mateu}, J. and {Pacheco},
+	R. and {S{\'a}nchez}, G. and {S{\'a}nchez}, G. and {Schenner}, H.
+	and {Stock}, J. and {Vicente}, B. and {Vieira}, K. and {Ferr{\'{\i}}n},
+	I. and {Hernandez}, J. and {Gebhard}, M. and {Honeycutt}, R. and
+	{Mufson}, S. and {Musser}, J. and {Rengstorf}, A.},
+  title = {{The QUEST RR Lyrae Survey: Confirmation of the Clump at 50 Kiloparsecs
+	and Other Overdensities in the Outer Halo}},
+  journal = {\apjl},
+  year = {2001},
+  volume = {554},
+  pages = {L33-L36},
+  month = jun,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2001ApJ...554L..33V},
+  doi = {10.1086/320915},
+  eprint = {arXiv:astro-ph/0105135},
+  keywords = {Galaxies: Individual: Name: Sagittarius, Galaxy: Halo, Galaxy: Structure,
+	Stars: Variables: Other},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2008AJ....135..785W,
+  author = {{West}, A.~A. and {Hawley}, S.~L. and {Bochanski}, J.~J. and {Covey},
+	K.~R. and {Reid}, I.~N. and {Dhital}, S. and {Hilton}, E.~J. and
+	{Masuda}, M.},
+  title = {{Constraining the Age-Activity Relation for Cool Stars: The Sloan
+	Digital Sky Survey Data Release 5 Low-Mass Star Spectroscopic Sample}},
+  journal = {\aj},
+  year = {2008},
+  volume = {135},
+  pages = {785-795},
+  month = mar,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2008AJ....135..785W},
+  archiveprefix = {arXiv},
+  doi = {10.1088/0004-6256/135/3/785},
+  eprint = {0712.1590},
+  keywords = {solar neighborhood, Galaxy: kinematics and dynamics, Galaxy: structure,
+	stars: activity, stars: late-type, stars: low-mass, brown dwarfs},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2006MNRAS.369..751W,
+  author = {{Whitelock}, P.~A. and {Feast}, M.~W. and {Marang}, F. and {Groenewegen},
+	M.~A.~T. },
+  title = {{Near-infrared photometry of carbon stars}},
+  journal = {\mnras},
+  year = {2006},
+  volume = {369},
+  pages = {751-782},
+  month = jun,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2006MNRAS.369..751W},
+  doi = {10.1111/j.1365-2966.2006.10322.x},
+  eprint = {arXiv:astro-ph/0603504},
+  keywords = {stars: AGB and post-AGB: stars: carbon: stars: distances: stars: individual:
+	R Lep: stars: variable: other: infrared: stars, stars: AGB and post-AGB,
+	stars: carbon, stars: distances, stars: individual: R Lep, stars:
+	variable: other, infrared: stars},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2011MNRAS.413.2235W,
+  author = {{Wilson}, M.~L. and {Helmi}, A. and {Morrison}, H.~L. and {Breddels},
+	M.~A. and {Bienaym{\'e}}, O. and {Binney}, J. and {Bland-Hawthorn},
+	J. and {Campbell}, R. and {Freeman}, K.~C. and {Fulbright}, J.~P.
+	and {Gibson}, B.~K. and {Gilmore}, G. and {Grebel}, E.~K. and {Munari},
+	U. and {Navarro}, J.~F. and {Parker}, Q.~A. and {Reid}, W. and {Seabroke},
+	G. and {Siebert}, A. and {Siviero}, A. and {Steinmetz}, M. and {Williams},
+	M.~E.~K. and {Wyse}, R.~F.~G. and {Zwitter}, T.},
+  title = {{Testing formation mechanisms of the Milky Way's thick disc with
+	RAVE}},
+  journal = {\mnras},
+  year = {2011},
+  volume = {413},
+  pages = {2235-2241},
+  month = may,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2011MNRAS.413.2235W},
+  archiveprefix = {arXiv},
+  doi = {10.1111/j.1365-2966.2011.18298.x},
+  eprint = {1009.2052},
+  keywords = {Galaxy: disc, Galaxy: formation, solar neighbourhood, Galaxy: structure},
+  owner = {Nick},
+  primaryclass = {astro-ph.GA},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2004AJ....127.2436W,
+  author = {{Wo{\'z}niak}, P.~R. and {Vestrand}, W.~T. and {Akerlof}, C.~W. and
+	{Balsano}, R. and {Bloch}, J. and {Casperson}, D. and {Fletcher},
+	S. and {Gisler}, G. and {Kehoe}, R. and {Kinemuchi}, K. and {Lee},
+	B.~C. and {Marshall}, S. and {McGowan}, K.~E. and {McKay}, T.~A.
+	and {Rykoff}, E.~S. and {Smith}, D.~A. and {Szymanski}, J. and {Wren},
+	J.},
+  title = {{Northern Sky Variability Survey: Public Data Release}},
+  journal = {\aj},
+  year = {2004},
+  volume = {127},
+  pages = {2436-2449},
+  month = apr,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2004AJ....127.2436W},
+  doi = {10.1086/382719},
+  eprint = {arXiv:astro-ph/0401217},
+  keywords = {astronomical data bases: miscellaneous, Catalogs, Stars: General,
+	Stars: Variables: Other, Surveys},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2010AJ....140.1868W,
+  author = {{Wright}, E.~L. and {Eisenhardt}, P.~R.~M. and {Mainzer}, A.~K. and
+	{Ressler}, M.~E. and {Cutri}, R.~M. and {Jarrett}, T. and {Kirkpatrick},
+	J.~D. and {Padgett}, D. and {McMillan}, R.~S. and {Skrutskie}, M.
+	and {Stanford}, S.~A. and {Cohen}, M. and {Walker}, R.~G. and {Mather},
+	J.~C. and {Leisawitz}, D. and {Gautier}, III, T.~N. and {McLean},
+	I. and {Benford}, D. and {Lonsdale}, C.~J. and {Blain}, A. and {Mendez},
+	B. and {Irace}, W.~R. and {Duval}, V. and {Liu}, F. and {Royer},
+	D. and {Heinrichsen}, I. and {Howard}, J. and {Shannon}, M. and {Kendall},
+	M. and {Walsh}, A.~L. and {Larsen}, M. and {Cardon}, J.~G. and {Schick},
+	S. and {Schwalm}, M. and {Abid}, M. and {Fabinsky}, B. and {Naes},
+	L. and {Tsai}, C.-W.},
+  title = {{The Wide-field Infrared Survey Explorer (WISE): Mission Description
+	and Initial On-orbit Performance}},
+  journal = {\aj},
+  year = {2010},
+  volume = {140},
+  pages = {1868-1881},
+  month = dec,
+  eid = {1868},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2010AJ....140.1868W},
+  archiveprefix = {arXiv},
+  doi = {10.1088/0004-6256/140/6/1868},
+  eprint = {1008.0031},
+  keywords = {infrared: general, space vehicles, surveys},
+  owner = {Nick},
+  primaryclass = {astro-ph.IM},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2000ApJ...540..825Y,
+  author = {{Yanny}, B. and {Newberg}, H.~J. and {Kent}, S. and {Laurent-Muehleisen},
+	S.~A. and {Pier}, J.~R. and {Richards}, G.~T. and {Stoughton}, C.
+	and {Anderson}, Jr., J.~E. and {Annis}, J. and {Brinkmann}, J. and
+	{Chen}, B. and {Csabai}, I. and {Doi}, M. and {Fukugita}, M. and
+	{Hennessy}, G.~S. and {Ivezi{\'c}}, {\v Z}. and {Knapp}, G.~R. and
+	{Lupton}, R. and {Munn}, J.~A. and {Nash}, T. and {Rockosi}, C.~M.
+	and {Schneider}, D.~P. and {Smith}, J.~A. and {York}, D.~G.},
+  title = {{Identification of A-colored Stars and Structure in the Halo of the
+	Milky Way from Sloan Digital Sky Survey Commissioning Data}},
+  journal = {\apj},
+  year = {2000},
+  volume = {540},
+  pages = {825-841},
+  month = sep,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2000ApJ...540..825Y},
+  doi = {10.1086/309386},
+  eprint = {arXiv:astro-ph/0004128},
+  keywords = {Stars: Blue Stragglers, Galaxy: Halo, Galaxy: Structure, Stars: Early-Type,
+	Stars: Horizontal-Branch},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2008ApJ...682.1004Y,
+  author = {{Yoachim}, P. and {Dalcanton}, J.~J.},
+  title = {{The Kinematics of Thick Disks in Nine External Galaxies}},
+  journal = {\apj},
+  year = {2008},
+  volume = {682},
+  pages = {1004-1019},
+  month = aug,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2008ApJ...682.1004Y},
+  archiveprefix = {arXiv},
+  doi = {10.1086/589553},
+  eprint = {0804.3966},
+  keywords = {Galaxies: Formation, Galaxies: Kinematics and Dynamics, Galaxies:
+	Structure},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2006AJ....131..226Y,
+  author = {{Yoachim}, P. and {Dalcanton}, J.~J.},
+  title = {{Structural Parameters of Thin and Thick Disks in Edge-on Disk Galaxies}},
+  journal = {\aj},
+  year = {2006},
+  volume = {131},
+  pages = {226-249},
+  month = jan,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2006AJ....131..226Y},
+  doi = {10.1086/497970},
+  eprint = {arXiv:astro-ph/0508460},
+  keywords = {Galaxies: Evolution, Galaxies: Formation, Galaxies: Structure},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2000AJ....120.1579Y,
+  author = {{York}, D.~G. and {Adelman}, J. and {Anderson}, Jr., J.~E. and {Anderson},
+	S.~F. and {Annis}, J. and {Bahcall}, N.~A. and {Bakken}, J.~A. and
+	{Barkhouser}, R. and {Bastian}, S. and {Berman}, E. and {Boroski},
+	W.~N. and {Bracker}, S. and {Briegel}, C. and {Briggs}, J.~W. and
+	{Brinkmann}, J. and {Brunner}, R. and {Burles}, S. and {Carey}, L.
+	and {Carr}, M.~A. and {Castander}, F.~J. and {Chen}, B. and {Colestock},
+	P.~L. and {Connolly}, A.~J. and {Crocker}, J.~H. and {Csabai}, I.
+	and {Czarapata}, P.~C. and {Davis}, J.~E. and {Doi}, M. and {Dombeck},
+	T. and {Eisenstein}, D. and {Ellman}, N. and {Elms}, B.~R. and {Evans},
+	M.~L. and {Fan}, X. and {Federwitz}, G.~R. and {Fiscelli}, L. and
+	{Friedman}, S. and {Frieman}, J.~A. and {Fukugita}, M. and {Gillespie},
+	B. and {Gunn}, J.~E. and {Gurbani}, V.~K. and {de Haas}, E. and {Haldeman},
+	M. and {Harris}, F.~H. and {Hayes}, J. and {Heckman}, T.~M. and {Hennessy},
+	G.~S. and {Hindsley}, R.~B. and {Holm}, S. and {Holmgren}, D.~J.
+	and {Huang}, C.-h. and {Hull}, C. and {Husby}, D. and {Ichikawa},
+	S.-I. and {Ichikawa}, T. and {Ivezi{\'c}}, {\v Z}. and {Kent}, S.
+	and {Kim}, R.~S.~J. and {Kinney}, E. and {Klaene}, M. and {Kleinman},
+	A.~N. and {Kleinman}, S. and {Knapp}, G.~R. and {Korienek}, J. and
+	{Kron}, R.~G. and {Kunszt}, P.~Z. and {Lamb}, D.~Q. and {Lee}, B.
+	and {Leger}, R.~F. and {Limmongkol}, S. and {Lindenmeyer}, C. and
+	{Long}, D.~C. and {Loomis}, C. and {Loveday}, J. and {Lucinio}, R.
+	and {Lupton}, R.~H. and {MacKinnon}, B. and {Mannery}, E.~J. and
+	{Mantsch}, P.~M. and {Margon}, B. and {McGehee}, P. and {McKay},
+	T.~A. and {Meiksin}, A. and {Merelli}, A. and {Monet}, D.~G. and
+	{Munn}, J.~A. and {Narayanan}, V.~K. and {Nash}, T. and {Neilsen},
+	E. and {Neswold}, R. and {Newberg}, H.~J. and {Nichol}, R.~C. and
+	{Nicinski}, T. and {Nonino}, M. and {Okada}, N. and {Okamura}, S.
+	and {Ostriker}, J.~P. and {Owen}, R. and {Pauls}, A.~G. and {Peoples},
+	J. and {Peterson}, R.~L. and {Petravick}, D. and {Pier}, J.~R. and
+	{Pope}, A. and {Pordes}, R. and {Prosapio}, A. and {Rechenmacher},
+	R. and {Quinn}, T.~R. and {Richards}, G.~T. and {Richmond}, M.~W.
+	and {Rivetta}, C.~H. and {Rockosi}, C.~M. and {Ruthmansdorfer}, K.
+	and {Sandford}, D. and {Schlegel}, D.~J. and {Schneider}, D.~P. and
+	{Sekiguchi}, M. and {Sergey}, G. and {Shimasaku}, K. and {Siegmund},
+	W.~A. and {Smee}, S. and {Smith}, J.~A. and {Snedden}, S. and {Stone},
+	R. and {Stoughton}, C. and {Strauss}, M.~A. and {Stubbs}, C. and
+	{SubbaRao}, M. and {Szalay}, A.~S. and {Szapudi}, I. and {Szokoly},
+	G.~P. and {Thakar}, A.~R. and {Tremonti}, C. and {Tucker}, D.~L.
+	and {Uomoto}, A. and {Vanden Berk}, D. and {Vogeley}, M.~S. and {Waddell},
+	P. and {Wang}, S.-i. and {Watanabe}, M. and {Weinberg}, D.~H. and
+	{Yanny}, B. and {Yasuda}, N. and {SDSS Collaboration}},
+  title = {{The Sloan Digital Sky Survey: Technical Summary}},
+  journal = {\aj},
+  year = {2000},
+  volume = {120},
+  pages = {1579-1587},
+  month = sep,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2000AJ....120.1579Y},
+  doi = {10.1086/301513},
+  eprint = {arXiv:astro-ph/0006396},
+  keywords = {Cosmology: Observations, Instrumentation: Miscellaneous},
+  owner = {Nick},
+  timestamp = {2014.05.06}
+}
+
+@ARTICLE{2012A&A...545A..56Z,
+  author = {{Zhao-Geisler}, R. and {Quirrenbach}, A. and {K{\"o}hler}, R. and
+	{Lopez}, B.},
+  title = {{Dust and molecular shells in asymptotic giant branch stars}},
+  journal = {\aap},
+  year = {2012},
+  volume = {545},
+  pages = {A56},
+  month = sep,
+  eid = {A56},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2012A%26A...545A..56Z},
+  archiveprefix = {arXiv},
+  doi = {10.1051/0004-6361/201118150},
+  eprint = {1207.3767},
+  keywords = {stars: AGB and post-AGB, circumstellar matter, infrared: stars, stars:
+	mass-loss},
+  owner = {Nick},
+  primaryclass = {astro-ph.SR},
+  timestamp = {2014.05.06}
+}
+
+@PROCEEDINGS{2003agbs.conf.....H,
+  title = {{Asymptotic giant branch stars}},
+  year = {2003},
+  editor = {{Habing}, H.~J. and {Olofsson}, H.},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2003agbs.conf.....H},
+  booktitle = {Asymptotic giant branch stars, by Harm J. Habing and Hans Olofsson.
+	Astronomy and astrophysics library, New York, Berlin: Springer, 2003},
+  keywords = {ASYMPTOTIC GIANT BRANCH, GIANT BRANCH STARS},
+  owner = {Nick},
+  timestamp = {2014.05.06}
 }
 
 @comment{jabref-meta: selector_review:}

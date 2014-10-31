@@ -3,44 +3,44 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: thesisproposal_nmhw.aux
 The style file: apj.bst
 Database file #1: thesisproprefs.bib
-You've used 1 entry,
+You've used 28 entries,
             2994 wiz_defined-function locations,
-            656 strings with 4734 characters,
-and the built_in function-call counts, 436 in all, are:
-= -- 38
-> -- 21
-< -- 1
-+ -- 8
-- -- 6
-* -- 33
-:= -- 83
-add.period$ -- 1
-call.type$ -- 1
-change.case$ -- 6
-chr.to.int$ -- 1
-cite$ -- 1
-duplicate$ -- 19
-empty$ -- 28
-format.name$ -- 11
-if$ -- 84
+            843 strings with 18614 characters,
+and the built_in function-call counts, 26588 in all, are:
+= -- 2027
+> -- 3027
+< -- 7
++ -- 1207
+- -- 1137
+* -- 2815
+:= -- 5043
+add.period$ -- 28
+call.type$ -- 28
+change.case$ -- 645
+chr.to.int$ -- 28
+cite$ -- 28
+duplicate$ -- 534
+empty$ -- 767
+format.name$ -- 1222
+if$ -- 4750
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 1
-newline$ -- 7
-num.names$ -- 4
-pop$ -- 8
+missing$ -- 27
+newline$ -- 88
+num.names$ -- 113
+pop$ -- 698
 preamble$ -- 1
-purify$ -- 6
+purify$ -- 645
 quote$ -- 0
-skip$ -- 18
+skip$ -- 478
 stack$ -- 0
-substring$ -- 21
-swap$ -- 0
-text.length$ -- 0
+substring$ -- 588
+swap$ -- 6
+text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 9
+type$ -- 252
 warning$ -- 0
-while$ -- 4
+while$ -- 113
 width$ -- 0
-write$ -- 13
+write$ -- 283
