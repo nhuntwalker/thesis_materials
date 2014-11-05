@@ -5,12 +5,13 @@ The formation of galaxies like the Milky Way was long thought to be a steady pro
 Until recently, our knowledge of the basic structural components of the Milky Way was limited to indirect inferences based on stellar population models motivated by other galaxies, and what little information was available from the High Precision Parallax Collecting Satellite \cite[HIPPARCOS;][]{1984SSRv...39....1K} catalog and smaller pencil-beam surveys.  The advent of the Sloan Digital Sky Survey \citep[SDSS;][]{2000AJ....120.1579Y} alleviated this limitation, providing accurate digital multi-band optical photometry across a quarter of the sky, as well as the largest optical spectroscopic catalog thus far known. SDSS photometry enabled the development and application of photometric parallax methods, using color-magnitude relations to estimate stellar distances. In turn, this led to the large-scale ``tomography" of the Milky Way via stellar distributions in the 7-dimensional space spanned by spatial coordinates \citep{2008ApJ...673..864J}, velocity components \citep{2010ApJ...716....1B}, and metallicity \citep{2008ApJ...684..287I}. The resulting maps provided a quantitative basis for analysis of the main structural components of the Galaxy, enabled efficient searches for complex substructure, and a robust comparison with various model predictions \citep{2012ApJ...757..166B,2012ARA&A..50..251I}.  An example of these results is reproduced in Figure 1, showing a panoramic view of the variation in the median $[Fe/H]$ over an unprecedentedly-large volume of the Galaxy. %Get this figure and import it here
 
 %-----------
+%Fig 1
 \vspace{-0.41in}
 \begin{minipage}{0.9\textwidth}
 \vbox{
       \begin{minipage}[l]{3in}
       \hrule \smallskip
-        {\footnotesize\baselineskip0.4cm{{\cap Figure 1:} {
+        {\footnotesize\baselineskip0.4cm{{\cap Figure 0:} {
         The variation 
         of the median photometric stellar metallicity in cylindrical Galactic coordinates 
         $R$ and $|Z|$  for $\sim$2.5 million stars from SDSS with $14.5 < r <20$,
@@ -38,8 +39,6 @@ Until recently, our knowledge of the basic structural components of the Milky Wa
 \vspace{-28pt}
 %------------
 
-
-
 %These recent developments, based on a host of accurate large-area surveys such as the Two-Micron All-Sky Survey \citep[2MASS;][]{2006AJ....131.1163S} and the Sloan Digital Sky Survey \citep[SDSS;][]{2000AJ....120.1579Y}, have made it abundantly clear that the Milky Way is a complex and dynamical structure that is still being shaped by the merging of smaller galaxies. Numerical simulations suggest that this merger process plays a crucial role in setting the structure and motions of stars within galaxies. Since the individual stars that make up the stellar populations in the Milky Way can be studied in great detail, their characterization proposed here will provide clues about galaxy evolution that cannot be extracted from observations of distant galaxies.
 %
 %To that end, I propose a two-year study to:
@@ -51,17 +50,21 @@ Until recently, our knowledge of the basic structural components of the Milky Wa
 %\end{itemize}
 
 \section{Work Completed/In Progress}
+Not since the series of SDSS tomography papers have we been able to obtain information about large scale physical and chemical characteristics of the Milky Way galaxy. Even then, the coverage of SDSS in the plane of the galaxy, and even in the galactic halo, was limited to the stripes of observation of SDSS. ALLWISE gives us the advantage of being able to observe the whole sky. And while the NIR and MIR are not immune to dust extinction along the line of sight, the influence of dust on observations is minimal as compared to optical wavelengths. 
+
+If we're working in the NIR and Mid-IR, AGB stars are the perfect objects to serve as a proxy for structure of the Milky Way. AGB stars with dusty circumstellar shells shine brightly in the IR, with that brightness only increasing with the size of the shell. They're bright enough to be observed not only at the galactic center (even with dust extinction), but beyond out to the edge of the galactic disk. They're also ubiquitous throughout the galaxy, being the evolutionary products of low- and intermediate-mass Main Sequence stars. They have massive stellar winds that enrich their local galactic neighborhood, and their chemical content can represent the metallicity of the region in which they reside. As such, our work here is first to obtain a clean, reliable sample of these stars within the galaxy. Once obtained, we can then use the sample of ALLWISE AGB candidates in conjunction with high-confidence models of the galaxy and of the consequences of AGB star evolution to describe the Milky Way in detail, parameterized by the physical characteristics of these AGB stars.
+
 \subsection{Development of Broad Color-Color Criteria}
-%Using positional matches between SIMBAD, MACHO, and OGLE to ALLWISE-2MASS, create simple color-color, color-magnitude, and photometric quality criteria to select AGB stars in the ALLWISE-2MASS data set.
 We begin by selecting a known sample of AGB stars and matching to the ALLWISE-2MASS data release. The MACHO project \citep{2008AJ....136.1242F} and the Optical Gravitational Lens Experiment (OGLE) III Online Catalog of Variable Stars\footnote{\url{http://ogledb.astrouw.edu.pl/~ogle/CVS/}} both contain catalogs of AGB stars, confirmed from their variability. Additionally, the SIMBAD database\footnote{\url{http://simbad.u-strasbg.fr/simbad/}} contains objects classified as AGB stars from small surveys and individual studies. We positionally match these catalogs to objects from the ALLWISE-2MASS data using a circle of uncertainty with radius 1", and necessitate that every match have a 2MASS association.
 
 The region of color-color space occupied by these stars is also occupied by other objects that happen to have dusty environments, as well as naked stars on the main sequence and extragalactic sources. As such, we need a reliable sample of contaminants that we can exclude in color-color space to increase the likelihood that our population of candidates represents the objects we wish to study. We gather AGN, QSOs, and star forming galaxies from the Sloan Digital Sky Survey \citep{2000AJ....120.1579Y} data release (DR) 7, specifically the NYU Value-Added Galaxy Catalog\footnote{\url{http://sdss.physics.nyu.edu/vagc/}} \citep[VAGC]{2005AJ....129.2562B}, and the LRGs from the SDSS Luminous Red Galaxy Survey \citep{2010ApJ...710.1444K}. Data for stars in the SDSS stellar locus \citep{2014MNRAS.440.3430D} were drawn from the DR 9 SEGUE Stellar Parameters Pipeline (SSPP).
 
 \begin{figure}
-\includegraphics[width=3in]{figs/sampleboundaries.jpg}
-\includegraphics[width=3in]{figs/contamboundaries.jpg}
-% Include a third figure that's the end result
-\caption{Lorem ipsum dolor sit amet, consectetur elit. Fusce, nulla rebds vel pellentesque consequat, ante nulla hendrerit arcu, ac tincidunt mauris lacus sed leo.}
+% Fig 2
+\includegraphics[width=2in]{figs/sampleboundaries.jpg}
+\includegraphics[width=2in]{figs/contamboundaries.jpg}
+\includegraphics[width=2in]{figs/sample_results.jpg}
+\caption{\emph{Left}: SIMBAD, OGLE-III, and MACHO AGB stars (black, red, blue) matched to ALLWISE within 1". \emph{Middle}: LRGs, starforming galaxies, AGN, QSO, and Locus Stars (green, red, orange, blue, black). \emph{Right}: AGB stars passing ALLWISE color criteria.}
 \label{fig:boundaries}
 \end{figure}
 
@@ -70,8 +73,9 @@ The color-color criteria set are fairly simple (Figure~\ref{fig:boundaries}), ex
 \subsection{Estimation of Distances to Candidates with {\tt GALFAST}}
 %Create a sample of likely AGB star candidates and use GALFAST to estimate the dust column and distance to each candidate, using the color-color criteria of \cite{2014MNRAS.442.3361N} to differentiate between AGB stars with O-rich and C-rich atmospheres.
 \begin{figure}[h]
+% Fig 3
 \includegraphics[width=6in]{figs/bulge_lmc_galcoords.pdf}
-\caption{Lorem ipsum dolor sit amet, consectetur elit. Fusce, nulla rebds vel pellentesque consequat, ante nulla hendrerit arcu, ac tincidunt mauris lacus sed leo.}
+\caption{Galactic plot of all AGB stars passing color criteria, highlighting stars in the direction of the bulge (red) and stars in the LMC (blue).}
 \label{fig:galplot}
 \end{figure}
 
@@ -82,8 +86,9 @@ $$\displaystyle\left(\frac{\text{RA} - \text{RA}_\text{LMC}}{3.5}\right)^2 + \le
 \noindent With this selection of stars, we demonstrate that AGB stars possess an intrinsically-narrow magnitude distribution, as seen in \cite{1985A&A...152L...1H} and \cite{2002MNRAS.337..749J}. We however do not use this sample further to define the color-magnitude relationships for AGB stars in the IR as our {\tt GALFAST} model used for estimating the dust columns for stars doesn't include dust in or the shape of the LMC. We neglect to use the Small Magellanic Cloud entirely due to the low count of recovered objects from our initial color-color criteria.  We instead solely use the sample in the direction of the Milky Way bulge for the necessary color-magnitude calibration (Figure~\ref{fig:colormag}). We minimize the contamination from foreground stars in the direction of the Galactic bulge by selecting stars with $\lvert l\rvert < 10^\circ$, $1^\circ < \lvert b \rvert < 5^\circ$. 
 
 \begin{figure}[h]
+% Fig 4
 \includegraphics[width=6in]{figs/bulge_lmc_colormag.pdf}
-\caption{Lorem ipsum dolor sit amet, consectetur elit. Fusce, nulla rebds vel pellentesque consequat, ante nulla hendrerit arcu, ac tincidunt mauris lacus sed leo.}
+\caption{Absolute W1 magnitude vs 2MASS-ALLWISE colors for stars in the Milky Way bulge (top) and LMC (bottom). Stars are separated into O-rich (green) and C-rich (black).}
 \label{fig:colormag}
 \end{figure}
 
@@ -96,15 +101,17 @@ Once a candidate sample has been retrieved from the ALLWISE-2MASS database match
 With distance information and position on the sky, we construct an X-Y-Z map of the Milky Way (Figure~\ref{fig:xyz_candidates}). We note that the overwhelming majority of AGB candidates in the Milky Way are O-rich, with the population C-rich AGB candidates of high photometric quality being essentially nonexistent, so we move forward solely with an analysis of candidates classified as such. We also note, as is clear in Figure~\ref{fig:xyz_candidates}, that this is by no means a complete picture of the Milky Way. The sample is heavily affected by dust extinction and source confusion within 0.5 kpc of the galactic disk, and entirely beyond the bulge within $|b| < 1^\circ$ of the disk. Additionally, because we exclude sources that are beyond the saturation limits of WISE, we lose a large fraction of AGB candidates near the Sun (more toward the galactic anticenter due to a lack of interstellar dust to attenuate the source's intrinsic brightness).
 
 \begin{figure}[h]
+% Fig 5
 \centering
 \includegraphics[width=5in]{figs/orich_candidates_xyz.pdf}
-\caption{Lorem ipsum dolor sit amet, consectetur elit. Fusce, nulla rebds vel pellentesque consequat, ante nulla hendrerit arcu, ac tincidunt mauris lacus sed leo.}
+\caption{X-Y-Z distributions of the ALLWISE AGB candidate sample's O-rich stars. The Sun is set as the yellow dot with (X,Y,Z) = (8.0 kpc, 0 kpc, 0 kpc). The gray dashed lines mark (0,0) in each plot, and the contours are spaced by 0.75 logarithmically, starting at 0.}
 \label{fig:xyz_candidates}
 \end{figure}
 
 Despite the loss of sources beyond the bulge and near the Sun, we are still able to make measurements of some common disk properties. We focus on the +X half of the galaxy due to the higher completeness of sources, and exclude the wedge of the Milky Way containing that solar circle. We then examine the radial and vertical distribution of AGB candidates, and derive measurements of the scale height as a function of radius, as well as the scale length as a function of height (Figure~\ref{fig:horvert_profile}).
 
 \begin{figure}[h]
+% Fig 6
 \centering
 \includegraphics[width=6.5in]{figs/orich_radial_vertical_profile.pdf}
 \caption{Lorem ipsum dolor sit amet, consectetur elit. Fusce, nulla rebds vel pellentesque consequat, ante nulla hendrerit arcu, ac tincidunt mauris lacus sed leo.}
@@ -112,6 +119,7 @@ Despite the loss of sources beyond the bulge and near the Sun, we are still able
 \end{figure}
 
 \section{Work to be Completed}
+With the initial groundwork completed for the clean selection of the AGB candidate sample, dust extinction along the line of sight, and distance measurements throughout the Milky Way, we can proceed to convolve that data with high quality models of AGB star evolution and the distribution of stars throughout the Milky Way.
 \subsection{Comparison with {\tt TRILEGAL}}
 %Same as above, but use TRILEGAL and compare
 {\tt TRILEGAL} \citep{2005A&A...436..895G, 2007ASPC..378...20G} provides us with the possibility of testing several quantities produced from the work done thus far. {\tt GALFAST} provided us with an estimation of the dust column along the line of sight to our candidate AGB stars, but with a set galactic model. {\tt TRILEGAL}  allows us to test the validity of that model, alongside several other models of the Milky Way, with respect to our now-derived 3D distribution of AGB stars by providing stellar number densities along lines of sight.
