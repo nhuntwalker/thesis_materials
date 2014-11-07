@@ -1,5 +1,8 @@
-\begin{thebibliography}{28}
+\begin{thebibliography}{35}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{{Am{\^o}res} \& {L{\'e}pine}(2005)}]{2005AJ....130..659A}
+{Am{\^o}res}, E.~B., \& {L{\'e}pine}, J.~R.~D. 2005, \aj, 130, 659
 
 \bibitem[{{Bahcall} \& {Soneira}(1980)}]{1980ApJS...44...73B}
 {Bahcall}, J.~N., \& {Soneira}, R.~M. 1980, \apjs, 44, 73
@@ -35,6 +38,16 @@
   {Schneider}}]{2010ApJ...716....1B}
 {Bond}, N.~A., {et~al.} 2010, \apj, 716, 1
 
+\bibitem[{{Cutri} {et~al.}(2012){Cutri}, {Wright}, {Conrow}, {Bauer},
+  {Benford}, {Brandenburg}, {Dailey}, {Eisenhardt}, {Evans}, {Fajardo-Acosta},
+  {Fowler}, {Gelino}, {Grillmair}, {Harbut}, {Hoffman}, {Jarrett},
+  {Kirkpatrick}, {Leisawitz}, {Liu}, {Mainzer}, {Marsh}, {Masci}, {McCallon},
+  {Padgett}, {Ressler}, {Royer}, {Skrutskie}, {Stanford}, {Wyatt}, {Tholen},
+  {Tsai}, {Wachter}, {Wheelock}, {Yan}, {Alles}, {Beck}, {Grav}, {Masiero},
+  {McCollum}, {McGehee}, {Papin}, \& {Wittman}}]{2012wise.rept....1C}
+{Cutri}, R.~M., {et~al.} 2012, {Explanatory Supplement to the WISE All-Sky Data
+  Release Products}, Tech. rep.
+
 \bibitem[{{Davenport} {et~al.}(2014){Davenport}, {Ivezi{\'c}}, {Becker},
   {Ruan}, {Hunt-Walker}, {Covey}, {Lewis}, {AlSayyad}, \&
   {Anderson}}]{2014MNRAS.440.3430D}
@@ -67,9 +80,22 @@
 {Habing}, H.~J., {Olnon}, F.~M., {Chester}, T., {Gillett}, F., \&
   {Rowan-Robinson}, M. 1985, \aap, 152, L1
 
+\bibitem[{{Iben} \& {Renzini}(1983)}]{1983ARA&A..21..271I}
+{Iben}, Jr., I., \& {Renzini}, A. 1983, \araa, 21, 271
+
+\bibitem[{{Ishihara} {et~al.}(2011){Ishihara}, {Kaneda}, {Onaka}, {Ita},
+  {Matsuura}, \& {Matsunaga}}]{2011A&A...534A..79I}
+{Ishihara}, D., {Kaneda}, H., {Onaka}, T., {Ita}, Y., {Matsuura}, M., \&
+  {Matsunaga}, N. 2011, \aap, 534, A79
+
 \bibitem[{{Ivezi{\'c}} {et~al.}(2012){Ivezi{\'c}}, {Beers}, \&
   {Juri{\'c}}}]{2012ARA&A..50..251I}
 {Ivezi{\'c}}, {\v Z}., {Beers}, T.~C., \& {Juri{\'c}}, M. 2012, \araa, 50, 251
+
+\bibitem[{{Ivezi{\'c}} {et~al.}(2013){Ivezi{\'c}}, {Connolly}, {VanderPlas}, \&
+  {Gray}}]{2013sdmm.book.....I}
+{Ivezi{\'c}}, {\.Z}., {Connolly}, A., {VanderPlas}, J., \& {Gray}, A. 2013,
+  {Statistics, Data Mining, and Machine Learning in Astronomy}
 
 \bibitem[{{Ivezi{\'c}} {et~al.}(2000){Ivezi{\'c}}, {Goldston}, {Finlator},
   {Knapp}, {Yanny}, {McKay}, {Amrose}, {Krisciunas}, {Willman}, {Anderson},
@@ -124,6 +150,15 @@
   {York}}]{2002ApJ...569..245N}
 {Newberg}, H.~J., {et~al.} 2002, \apj, 569, 245
 
+\bibitem[{{Nidever} {et~al.}(2012){Nidever}, {Zasowski}, {Majewski}, {Bird},
+  {Robin}, {Martinez-Valpuesta}, {Beaton}, {Sch{\"o}nrich}, {Schultheis},
+  {Wilson}, {Skrutskie}, {O'Connell}, {Shetrone}, {Schiavon}, {Johnson},
+  {Weiner}, {Gerhard}, {Schneider}, {Allende Prieto}, {Sellgren}, {Bizyaev},
+  {Brewington}, {Brinkmann}, {Eisenstein}, {Frinchaboy}, {Elia Garc{\'{\i}}a
+  P{\'e}rez}, {Holtzman}, {Hearty}, {Malanushenko}, {Malanushenko}, {Muna},
+  {Oravetz}, {Pan}, {Simmons}, {Snedden}, \& {Weaver}}]{2012ApJ...755L..25N}
+{Nidever}, D.~L., {et~al.} 2012, \apjl, 755, L25
+
 \bibitem[{{Nikutta} {et~al.}(2014){Nikutta}, {Hunt-Walker}, {Nenkova},
   {Ivezi{\'c}}, \& {Elitzur}}]{2014MNRAS.442.3361N}
 {Nikutta}, R., {Hunt-Walker}, N., {Nenkova}, M., {Ivezi{\'c}}, {\v Z}., \&
@@ -132,6 +167,10 @@
 \bibitem[{{Schlegel} {et~al.}(1998){Schlegel}, {Finkbeiner}, \&
   {Davis}}]{1998ApJ...500..525S}
 {Schlegel}, D.~J., {Finkbeiner}, D.~P., \& {Davis}, M. 1998, \apj, 500, 525
+
+\bibitem[{{Tu} \& {Wang}(2013)}]{2013RAA....13..323T}
+{Tu}, X., \& {Wang}, Z.-X. 2013, Research in Astronomy and Astrophysics, 13,
+  323
 
 \bibitem[{{Vivas} \& {Zinn}(2006)}]{2006AJ....132..714V}
 {Vivas}, A.~K., \& {Zinn}, R. 2006, \aj, 132, 714

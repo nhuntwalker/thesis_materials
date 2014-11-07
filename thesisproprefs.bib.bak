@@ -138,6 +138,21 @@
   timestamp = {2014.05.06}
 }
 
+@ARTICLE{2005AJ....130..659A,
+  author = {{Am{\^o}res}, E.~B. and {L{\'e}pine}, J.~R.~D.},
+  title = {{Models for Interstellar Extinction in the Galaxy}},
+  journal = {\aj},
+  year = {2005},
+  volume = {130},
+  pages = {659-673},
+  month = aug,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2005AJ....130..659A},
+  doi = {10.1086/430957},
+  keywords = {ISM: Dust, Extinction, Galaxy: Structure, ISM: Clouds, ISM: Structure,
+	Stars: Distances}
+}
+
 @ARTICLE{1984ApJ...284L..35B,
   author = {{Bahcall}, J.~N. and {Casertano}, S.},
   title = {{Velocity dispersions of disk stars in spiral galaxies}},
@@ -1048,6 +1063,25 @@
 	MILKY WAY GALAXY},
   owner = {Nick},
   timestamp = {2014.05.06}
+}
+
+@ARTICLE{2005A&A...436..895G,
+  author = {{Girardi}, L. and {Groenewegen}, M.~A.~T. and {Hatziminaoglou}, E.
+	and {da Costa}, L.},
+  title = {{Star counts in the Galaxy. Simulating from very deep to very shallow
+	photometric surveys with the TRILEGAL code}},
+  journal = {\aap},
+  year = {2005},
+  volume = {436},
+  pages = {895-915},
+  month = jun,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://cdsads.u-strasbg.fr/abs/2005A%26A...436..895G},
+  doi = {10.1051/0004-6361:20042352},
+  eprint = {astro-ph/0504047},
+  keywords = {stars: luminosity function, mass function, stars: Hertzsprung-Russell
+	(HR) and C-M diagrams, surveys, Galaxy: stellar content, Galaxy:
+	structure}
 }
 
 @INPROCEEDINGS{2007ASPC..378...20G,

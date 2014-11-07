@@ -1,12 +1,13 @@
 \contentsline {part}{\hspace {1em}Main Science Drivers and Objectives}{1}{section*.1}
 \contentsline {section}{\numberline {1}Introduction}{1}{section.1}
 \contentsline {section}{\numberline {2}Work Completed/In Progress}{2}{section.2}
-\contentsline {subsection}{\numberline {2.1}Development of Broad Color-Color Criteria}{3}{subsection.2.1}
-\contentsline {subsection}{\numberline {2.2}Estimation of Distances to Candidates with {\tt GALFAST}}{4}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.1}Development of Initial Color Criteria for Selecting AGB Stars}{3}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Estimation of Distances to Candidates with {\tt GALFASTDUST}}{3}{subsection.2.2}
 \contentsline {subsection}{\numberline {2.3}The Milky Way in 3D and Disk Measurements}{5}{subsection.2.3}
 \contentsline {section}{\numberline {3}Work to be Completed}{6}{section.3}
-\contentsline {subsection}{\numberline {3.1}Comparison with {\tt TRILEGAL}}{7}{subsection.3.1}
-\contentsline {subsection}{\numberline {3.2}Derive Relations Between SDSS Stellar Properties and Position}{8}{subsection.3.2}
-\contentsline {subsection}{\numberline {3.3}Conclusion About Galactic Evolution w.r.t. SDSS and TRILEGAL}{8}{subsection.3.3}
-\contentsline {section}{\numberline {4}Timeline}{8}{section.4}
-\contentsline {part}{\hspace {1em}References}{9}{section.4}
+\contentsline {subsection}{\numberline {3.1}Investigate Unclassified AGB Candidates}{6}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Comparison with {\tt TRILEGAL}}{7}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}ALLWISE AGB Candidates and APOGEE}{8}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Conclusions about Galactic Evolution with respect to SDSS and TRILEGAL}{9}{subsection.3.4}
+\contentsline {section}{\numberline {4}Timeline}{9}{section.4}
+\contentsline {part}{\hspace {1em}References}{10}{Item.6}
