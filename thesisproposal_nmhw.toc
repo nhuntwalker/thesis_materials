@@ -10,4 +10,4 @@
 \contentsline {subsection}{\numberline {3.3}ALLWISE AGB Candidates and APOGEE}{8}{subsection.3.3}
 \contentsline {subsection}{\numberline {3.4}Conclusions about Galactic Evolution with respect to SDSS and TRILEGAL}{9}{subsection.3.4}
 \contentsline {section}{\numberline {4}Timeline}{9}{section.4}
-\contentsline {part}{\hspace {1em}References}{10}{Item.6}
+\contentsline {part}{\hspace {1em}References}{11}{Item.6}

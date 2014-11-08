@@ -87,7 +87,7 @@ $$\displaystyle\left(\frac{\text{RA} - \text{RA}_\text{LMC}}{3.5}\right)^2 + \le
 
 Color-magnitude relations are then found for each IR color with respect to $M_{w1}$ as derived from the Milky Way bulge using linear regression. With $W1$ directly obtained from ALLWISE and $M_\text{w1}$ calculated with respect to the Milky Way bulge, we use {\tt GALFASTDUST} to simultaneously estimate distance moduli ($DM$) and extinction coefficients ($A_\lambda$) for each object. {\tt GALFASTDUST} returns the color excess $E(B-V)$ for a given ($l$, $b$) and distance $D$ in kpc by placing the object within the axisymmetric galaxy model used by \cite{2005AJ....130..659A}, normalizing $E(B-V)$ to the dust maps of \cite{1998ApJ...500..525S}, and interpolating the dust column along the line of sight. We convert $E(B-V)$ to $A_\lambda$ using the relations in the appendix of \cite{2014MNRAS.440.3430D}. These estimated $DM$ lie within a small degree of uncertainty ($\sim$0.5 mag), due to scatter about the initial color-magnitude relationship seen in Figure~\ref{fig:colormag}.
 
-Once a candidate sample has been retrieved from the ALLWISE-2MASS database matching our broad color criteria, we narrow them into high-photometric-quality O-rich and C-rich populations using the same criteria from \cite{2014MNRAS.442.3361N}. Assuming absolute magnitudes based upon the aforementioned color-magnitude relationships, we simultaneously estimate the distance and coefficient for dust extinction along the line of sight for each star using {\tt GALFASTDUST}, which includes the dust maps of .
+Once a candidate sample has been retrieved from the ALLWISE-2MASS database matching our broad color criteria, we narrow them into high-photometric-quality O-rich and C-rich populations using the same criteria from \cite{2014MNRAS.442.3361N}. Assuming absolute magnitudes based upon the aforementioned color-magnitude relationships, we simultaneously estimate the distance and coefficient for dust extinction along the line of sight for each star using {\tt GALFASTDUST}.
 
 \subsection{The Milky Way in 3D and Disk Measurements}
 %Create a 3D map of the Galaxy using the aforementioned distances.  Measure the disk scale height as a function of radius, and the disk scale length as a function of height (if possible).
@@ -145,11 +145,34 @@ With both sets of confirmed and estimated stellar properties, we will be able to
 
 \section{Timeline}
 \begin{enumerate}
-\item Publish current results of AGB candidate catalog and Galactic distribution discussed in section~\ref{sec:completedWork}, with publicly accessible data -- Q1 2015.
-\item Investigating unclassified AGB candidates -- Q1 2015
-\item Comparison with {\tt TRILEGAL} -- Q2-Q3 2015.
-\item Estimates of stellar parameters from APOGEE -- Q1 2016.
-\item Publish results of comparisons and estimates from {\tt TRILEGAL} and APOGEE -- Q2-Q3 2016
-\item Defense -- Q3-Q4 2016
+\item Paper 1: Publication of AGB candidate catalog and preliminary measurements of Milky Way disk and bulge -- \textbf{End of March 2015}
+	\begin{itemize}
+		\item Sample selection completeness and contamination estimates
+		\item O-rich/C-rich classification from color-color criteria
+		\item Identification of unclassified candidates
+		\item Estimates of unconfirmed classifications with Gaussian Mixture Models
+		\item Measurements of disk scale height/length
+		\item Measurements of the sizes of the Galactic bar \& bulge and orientation of the Galactic bar
+		\item Measurement of radius of Galactic disk
+	\end{itemize}	
+
+\item Paper 2: Characteristics of the Milky Way galaxy via ALLWISE AGB candidates -- \textbf{End of Sept 2015}
+	\begin{itemize}
+		\item Mass-loss rate, model metallicity, temperature, size, and age of AGB candidates with respect to position
+		\item Interpretations of position-dependent characteristics
+		\item Meaning of these results with respect to improvements in AGB evolutionary tracks
+	\end{itemize}
+	
+\item Post doctorate and Job Applications -- \textbf{Oct-Nov 2015}
+\item Paper 3: AGB stellar parameters from APOGEE and extrapolation to entire candidate sample -- \textbf{May 2016}
+	\begin{itemize}
+		\item Matches between ALLWISE candidates and APOGEE targets
+		\item Color-parameter relationships between APOGEE and ALLWISE
+		\item Extrapolation to entire candidate sample through color-parameter relationships
+		\item Comparison to estimations from various machine-learning techniques
+		\item Comparison to estimations from TRILEGAL
+	\end{itemize}
+\item Dissertation preparation -- \textbf{June - August 2016}
+\item Defense -- \textbf{August/September 2016}
 \end{enumerate}
 
