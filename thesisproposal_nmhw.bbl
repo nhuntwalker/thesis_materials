@@ -1,4 +1,4 @@
-\begin{thebibliography}{35}
+\begin{thebibliography}{42}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 
 \bibitem[{{Am{\^o}res} \& {L{\'e}pine}(2005)}]{2005AJ....130..659A}
@@ -12,6 +12,9 @@
   {Walton}, {Wilkinson}, {Cole}, {Yanny}, {Rockosi}, {Beers}, {Bell},
   {Brinkmann}, {Ivezi{\'c}}, \& {Lupton}}]{2006ApJ...642L.137B}
 {Belokurov}, V., {et~al.} 2006, \apjl, 642, L137
+
+\bibitem[{{Belokurov} \& {Evans}(2002)}]{2002MNRAS.331..649B}
+{Belokurov}, V.~A., \& {Evans}, N.~W. 2002, \mnras, 331, 649
 
 \bibitem[{{Berry} {et~al.}(2012){Berry}, {Ivezi{\'c}}, {Sesar}, {Juri{\'c}},
   {Schlafly}, {Bellovary}, {Finkbeiner}, {Vrbanec}, {Beers}, {Brooks},
@@ -52,6 +55,14 @@
   {Ruan}, {Hunt-Walker}, {Covey}, {Lewis}, {AlSayyad}, \&
   {Anderson}}]{2014MNRAS.440.3430D}
 {Davenport}, J.~R.~A., {et~al.} 2014, \mnras, 440, 3430
+
+\bibitem[{{Eyer} \& {Cuypers}(2000)}]{2000ASPC..203...71E}
+{Eyer}, L., \& {Cuypers}, J. 2000, in Astronomical Society of the Pacific
+  Conference Series, Vol. 203, IAU Colloq. 176: The Impact of Large-Scale
+  Surveys on Pulsating Star Research, ed. L.~{Szabados} \& D.~{Kurtz}, 71--72
+
+\bibitem[{{Fraser}(2008)}]{2008PhDT.........6F}
+{Fraser}, O.~J. 2008, PhD thesis, University of Washington
 
 \bibitem[{{Fraser} {et~al.}(2008){Fraser}, {Hawley}, \&
   {Cook}}]{2008AJ....136.1242F}
@@ -106,6 +117,11 @@
   {Waddell}, {Yasuda}, {York}, \& {SDSS Collaboration}}]{2000AJ....120..963I}
 {Ivezi{\'c}}, {\v Z}., {et~al.} 2000, \aj, 120, 963
 
+\bibitem[{{Ivezi{\'c}} {et~al.}(1999){Ivezi{\'c}}, {Nenkova}, \&
+  {Elitzur}}]{1999astro.ph.10475I}
+{Ivezi{\'c}}, Z., {Nenkova}, M., \& {Elitzur}, M. 1999, ArXiv Astrophysics
+  e-prints
+
 \bibitem[{{Ivezi{\'c}} {et~al.}(2008){Ivezi{\'c}}, {Sesar}, {Juri{\'c}},
   {Bond}, {Dalcanton}, {Rockosi}, {Yanny}, {Newberg}, {Beers}, {Allende
   Prieto}, {Wilhelm}, {Lee}, {Sivarani}, {Norris}, {Bailer-Jones}, {Re
@@ -115,7 +131,7 @@
   {Sohi}, {Haggard}, {Kimball}, {Barentine}, {Brewington}, {Harvanek},
   {Kleinman}, {Krzesinski}, {Long}, {Nitta}, {Snedden}, {Lee}, {Harris},
   {Brinkmann}, {Schneider}, \& {York}}]{2008ApJ...684..287I}
----. 2008, \apj, 684, 287
+{Ivezi{\'c}}, {\v Z}., {et~al.} 2008, \apj, 684, 287
 
 \bibitem[{{Jackson} {et~al.}(2002){Jackson}, {Ivezi{\'c}}, \&
   {Knapp}}]{2002MNRAS.337..749J}
@@ -144,6 +160,11 @@
 {Majewski}, S.~R., {Skrutskie}, M.~F., {Weinberg}, M.~D., \& {Ostheimer}, J.~C.
   2003, \apj, 599, 1082
 
+\bibitem[{{Marigo} {et~al.}(2013){Marigo}, {Bressan}, {Nanni}, {Girardi}, \&
+  {Pumo}}]{2013MNRAS.434..488M}
+{Marigo}, P., {Bressan}, A., {Nanni}, A., {Girardi}, L., \& {Pumo}, M.~L. 2013,
+  \mnras, 434, 488
+
 \bibitem[{{Newberg} {et~al.}(2002){Newberg}, {Yanny}, {Rockosi}, {Grebel},
   {Rix}, {Brinkmann}, {Csabai}, {Hennessy}, {Hindsley}, {Ibata}, {Ivezi{\'c}},
   {Lamb}, {Nash}, {Odenkirchen}, {Rave}, {Schneider}, {Smith}, {Stolte}, \&
@@ -164,6 +185,11 @@
 {Nikutta}, R., {Hunt-Walker}, N., {Nenkova}, M., {Ivezi{\'c}}, {\v Z}., \&
   {Elitzur}, M. 2014, \mnras, 442, 3361
 
+\bibitem[{{Perryman} {et~al.}(2001){Perryman}, {de Boer}, {Gilmore}, {H{\o}g},
+  {Lattanzi}, {Lindegren}, {Luri}, {Mignard}, {Pace}, \& {de
+  Zeeuw}}]{2001A&A...369..339P}
+{Perryman}, M.~A.~C., {et~al.} 2001, \aap, 369, 339
+
 \bibitem[{{Schlegel} {et~al.}(1998){Schlegel}, {Finkbeiner}, \&
   {Davis}}]{1998ApJ...500..525S}
 {Schlegel}, D.~J., {Finkbeiner}, D.~P., \& {Davis}, M. 1998, \apj, 500, 525
@@ -183,6 +209,9 @@
   {Hernandez}, {Gebhard}, {Honeycutt}, {Mufson}, {Musser}, \&
   {Rengstorf}}]{2001ApJ...554L..33V}
 {Vivas}, A.~K., {et~al.} 2001, \apjl, 554, L33
+
+\bibitem[{{Wood}(2000)}]{2000PASA...17...18W}
+{Wood}, P.~R. 2000, \pasa, 17, 18
 
 \bibitem[{{Yanny} {et~al.}(2000){Yanny}, {Newberg}, {Kent},
   {Laurent-Muehleisen}, {Pier}, {Richards}, {Stoughton}, {Anderson}, {Annis},

@@ -1,13 +1,16 @@
 \contentsline {part}{\hspace {1em}Main Science Drivers and Objectives}{1}{section*.1}
 \contentsline {section}{\numberline {1}Introduction}{1}{section.1}
-\contentsline {section}{\numberline {2}Work Completed/In Progress}{2}{section.2}
+\contentsline {subsection}{\numberline {1.1}First Steps Toward Milky Way Tomography}{1}{subsection.1.1}
+\contentsline {section}{\numberline {2}Work In Progress/Completed}{1}{section.2}
 \contentsline {subsection}{\numberline {2.1}Development of Initial Color Criteria for Selecting AGB Stars}{3}{subsection.2.1}
-\contentsline {subsection}{\numberline {2.2}Estimation of Distances to Candidates with {\tt GALFASTDUST}}{3}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.2}Estimation of Distances to Candidates with {\tt GALFASTDUST}}{4}{subsection.2.2}
 \contentsline {subsection}{\numberline {2.3}The Milky Way in 3D and Disk Measurements}{5}{subsection.2.3}
-\contentsline {section}{\numberline {3}Work to be Completed}{6}{section.3}
-\contentsline {subsection}{\numberline {3.1}Investigate Unclassified AGB Candidates}{6}{subsection.3.1}
-\contentsline {subsection}{\numberline {3.2}Comparison with {\tt TRILEGAL}}{7}{subsection.3.2}
+\contentsline {section}{\numberline {3}Work to be Completed}{7}{section.3}
+\contentsline {subsection}{\numberline {3.1}Investigate Unclassified AGB Candidates}{7}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Comparison with {\tt TRILEGAL}}{8}{subsection.3.2}
 \contentsline {subsection}{\numberline {3.3}ALLWISE AGB Candidates and APOGEE}{8}{subsection.3.3}
-\contentsline {subsection}{\numberline {3.4}Conclusions about Galactic Evolution with respect to SDSS and TRILEGAL}{9}{subsection.3.4}
 \contentsline {section}{\numberline {4}Timeline}{9}{section.4}
-\contentsline {part}{\hspace {1em}References}{11}{Item.6}
+\contentsline {section}{\numberline {5}Potential Future Work}{10}{section.5}
+\contentsline {subsection}{\numberline {5.1}From Candidates to Confirmations}{10}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Investigating the TP-AGB and {\tt COLIBRI}}{11}{subsection.5.2}
+\contentsline {part}{\hspace {1em}References}{12}{subsection.5.2}

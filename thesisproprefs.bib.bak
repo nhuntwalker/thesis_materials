@@ -257,6 +257,22 @@
   timestamp = {2014.05.06}
 }
 
+@ARTICLE{2002MNRAS.331..649B,
+  author = {{Belokurov}, V.~A. and {Evans}, N.~W.},
+  title = {{Astrometric microlensing with the GAIA satellite}},
+  journal = {\mnras},
+  year = {2002},
+  volume = {331},
+  pages = {649-665},
+  month = apr,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2002MNRAS.331..649B},
+  doi = {10.1046/j.1365-8711.2002.05222.x},
+  eprint = {astro-ph/0112243},
+  keywords = {gravitational lensing, astrometry, Galaxy: stellar content, Galaxy:
+	structure, dark matter}
+}
+
 @ARTICLE{2006ApJ...642L.137B,
   author = {{Belokurov}, V. and {Zucker}, D.~B. and {Evans}, N.~W. and {Gilmore},
 	G. and {Vidrih}, S. and {Bramich}, D.~M. and {Newberg}, H.~J. and
@@ -863,6 +879,23 @@
 	WINDS, OUTFLOWS, DUST, EXTINCTION, INFRARED: STARS},
   owner = {Nick},
   timestamp = {2014.05.06}
+}
+
+@INPROCEEDINGS{2000ASPC..203...71E,
+  author = {{Eyer}, L. and {Cuypers}, J.},
+  title = {{Predictions on the Number of Variable Stars for the GAIA Space Mission
+	and for Surveys such as the Ground-Based International Liquid Mirror
+	Telescope}},
+  booktitle = {IAU Colloq. 176: The Impact of Large-Scale Surveys on Pulsating Star
+	Research},
+  year = {2000},
+  editor = {{Szabados}, L. and {Kurtz}, D.},
+  volume = {203},
+  series = {Astronomical Society of the Pacific Conference Series},
+  pages = {71-72},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2000ASPC..203...71E},
+  eprint = {astro-ph/0002383}
 }
 
 @INPROCEEDINGS{2009asrp.proc...48F,
@@ -1989,6 +2022,36 @@
   timestamp = {2014.05.06}
 }
 
+@ARTICLE{2012ApJ...755L..25N,
+  author = {{Nidever}, D.~L. and {Zasowski}, G. and {Majewski}, S.~R. and {Bird},
+	J. and {Robin}, A.~C. and {Martinez-Valpuesta}, I. and {Beaton},
+	R.~L. and {Sch{\"o}nrich}, R. and {Schultheis}, M. and {Wilson},
+	J.~C. and {Skrutskie}, M.~F. and {O'Connell}, R.~W. and {Shetrone},
+	M. and {Schiavon}, R.~P. and {Johnson}, J.~A. and {Weiner}, B. and
+	{Gerhard}, O. and {Schneider}, D.~P. and {Allende Prieto}, C. and
+	{Sellgren}, K. and {Bizyaev}, D. and {Brewington}, H. and {Brinkmann},
+	J. and {Eisenstein}, D.~J. and {Frinchaboy}, P.~M. and {Elia Garc{\'{\i}}a
+	P{\'e}rez}, A. and {Holtzman}, J. and {Hearty}, F.~R. and {Malanushenko},
+	E. and {Malanushenko}, V. and {Muna}, D. and {Oravetz}, D. and {Pan},
+	K. and {Simmons}, A. and {Snedden}, S. and {Weaver}, B.~A.},
+  title = {{The Apache Point Observatory Galactic Evolution Experiment: First
+	Detection of High-velocity Milky Way Bar Stars}},
+  journal = {\apjl},
+  year = {2012},
+  volume = {755},
+  pages = {L25},
+  month = aug,
+  eid = {L25},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2012ApJ...755L..25N},
+  archiveprefix = {arXiv},
+  doi = {10.1088/2041-8205/755/2/L25},
+  eprint = {1207.3797},
+  keywords = {Galaxy: bulge, Galaxy: kinematics and dynamics, Galaxy: structure,
+	surveys},
+  primaryclass = {astro-ph.GA}
+}
+
 @ARTICLE{2000ApJ...542..804N,
   author = {{Nikolaev}, S. and {Weinberg}, M.~D.},
   title = {{Stellar Populations in the Large Magellanic Cloud from 2MASS}},
@@ -2082,6 +2145,24 @@
 	parameters},
   owner = {Nick},
   timestamp = {2014.05.06}
+}
+
+@ARTICLE{2001A&A...369..339P,
+  author = {{Perryman}, M.~A.~C. and {de Boer}, K.~S. and {Gilmore}, G. and {H{\o}g},
+	E. and {Lattanzi}, M.~G. and {Lindegren}, L. and {Luri}, X. and {Mignard},
+	F. and {Pace}, O. and {de Zeeuw}, P.~T.},
+  title = {{GAIA: Composition, formation and evolution of the Galaxy}},
+  journal = {\aap},
+  year = {2001},
+  volume = {369},
+  pages = {339-363},
+  month = apr,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2001A%26A...369..339P},
+  doi = {10.1051/0004-6361:20010085},
+  eprint = {astro-ph/0101235},
+  keywords = {INSTRUMENTATION: MISCELLANEOUS, SPACE VEHICLES: INSTRUMENTS, ASTROMETRY,
+	GALAXY: GENERAL, TECHNIQUES: PHOTOMETRIC, TECHNIQUES: RADIAL VELOCITIES}
 }
 
 @ARTICLE{2004MNRAS.351..487P,
@@ -2636,6 +2717,21 @@
 	Stars: Variables: Other, Surveys},
   owner = {Nick},
   timestamp = {2014.05.06}
+}
+
+@ARTICLE{2000PASA...17...18W,
+  author = {{Wood}, P.~R.},
+  title = {{Variable Red Giants in the LMC: Pulsating Stars and Binaries?}},
+  journal = {\pasa},
+  year = {2000},
+  volume = {17},
+  pages = {18-21},
+  month = apr,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2000PASA...17...18W},
+  doi = {10.1071/AS00018},
+  keywords = {CLOSE BINARIES, MAGELLANIC CLOUDS, AGB STARS, VARIABLE STARS, binaries:
+	close, Magellanic Clouds, stars: AGB and post-AGB, stars: variables}
 }
 
 @ARTICLE{2010AJ....140.1868W,
