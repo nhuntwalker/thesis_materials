@@ -1,0 +1,85 @@
+\documentclass[preprint]{aastex}
+\usepackage{epsfig}
+\usepackage{color}
+\usepackage{graphicx}
+\usepackage{amssymb,amsmath}
+\usepackage{natbib}
+
+\definecolor{orange}{cmyk}{0,0.4,0.8,0.2}
+\definecolor{darkorange}{rgb}{.71,0.21,0.01}
+\definecolor{darkgreen}{rgb}{.12,.54,.11}
+\definecolor{darkblue}{rgb}{0.1,0.1,0.8}
+\definecolor{red}{rgb}{1.0,0,0}
+\usepackage{hyperref}
+\hypersetup{pdftex,  % needed for pdflatex
+  breaklinks=true,  % so long urls are correctly broken across lines
+  colorlinks=true,
+  urlcolor=blue,
+  linkcolor=darkorange,
+  citecolor=darkgreen,
+  }
+
+\def\araa{{\it Ann.\ Rev.\ Astr.\ Ap.}}
+\def\actaa{{\it Acta~Astronomica}}
+\def\aj{{\it A.~J.}}  %Astronomical Journal%
+\def\apj{{\it Ap.~J.}}  %Astrophysical Journal%
+\def\apjs{{\it Ap.~J.~Suppl.}}  %Astrophysical Journal Supplements%
+\def\apjl{{\it Ap.~J.~(Letters)}} %Astrophysical Journal Letters%
+\def\pasa{{\it Pub.~A.S.A.}}  %Publications of the Astronomical Society of Australia
+\def\pasp{{\it Pub.~A.S.P.}}      %Publications of the Astronomical%
+                                %Society of the Pacific%
+\def\memsai{{\it Memorie della Societˆ Astronomica Italiana}}
+\def\mn{{\it M.N.R.A.S.}}      %Monthly Notices of the Royal%
+                                %Astronomical Society%
+\def\mnras{{\it M.N.R.A.S.}}      %Monthly Notices of the Royal%
+                                %Astronomical Society%
+\def\nat{{\it Nature}}      %Nature%
+\def\aa{{\it Astr.~Ap.}}     %Astronomy & Astrophysics%
+\def\aap{{\it Astr.~Ap.}}     %Astronomy & Astrophysics%
+\def\aasup{{\it Astr.~Ap.~Suppl.}}     %A & A Supplements%
+\def\aaps{{\it Astr.~Ap.~Suppl.}}     %A & A Supplements%
+\def\ass{{\it Astr.~Sp.~Sci.}}     %A & A Supplements%
+\def\ssr{{\it Space Sci. Rev.}}   %Space Science Reviews%
+\def\an{Astronomische~Nachrichten}%
+
+\def\sdss{SDSS}
+\def\wise{WISE}
+\def\allwise{ALLWISE}
+\def\twomass{2MASS}
+\def\ogle{OGLE-III}
+\def\macho{MACHO}
+\def\simbad{SIMBAD}
+\def\mw{Milky Way}
+\def\agb{AGB}
+
+\begin{document}
+\title{The Three-Dimensional Distribution of Galactic AGB Stars with ALLWISE}
+\shorttitle{The 3D Distribution of Galactic ALLWISE AGB Stars}
+\author{Nicholas M. Hunt-Walker, Zeljko Ivezic, Andrew C. Becker}
+\affil{University of Washington, Department of Astronomy, Seattle, WA 98195}
+\email{nmhw@uw.edu, ivezic@uw.edu, acbecker@uw.edu}
+\shortauthors{Hunt-Walker, Ivezic, \& Becker}
+\maketitle
+
+% Abstract
+\input{paper1_abstract.tex}
+
+% Introduction
+\input{paper1_intro.tex}
+
+% Data Sources and Reduction
+\input{paper1_data.tex}
+
+% Selection
+\input{paper1_criteria.tex}
+
+% Distribution
+\input{paper1_distribution.tex}
+
+% Conclusions
+\input{paper1_conclusions.tex}
+
+% References
+\bibliographystyle{apj}
+\bibliography{thesisproprefs}
+\end{document}
