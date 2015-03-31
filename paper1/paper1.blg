@@ -5,45 +5,46 @@ The style file: apj.bst
 Database file #1: thesisproprefs.bib
 Warning--empty institution in 2012wise.rept....1C
 Warning--empty institution in 2013wise.rept....1C
-You've used 32 entries,
+Warning--empty publisher in 2013sdmm.book.....I
+You've used 33 entries,
             2994 wiz_defined-function locations,
-            865 strings with 21595 characters,
-and the built_in function-call counts, 31520 in all, are:
-= -- 2389
-> -- 3660
+            869 strings with 21759 characters,
+and the built_in function-call counts, 31810 in all, are:
+= -- 2412
+> -- 3673
 < -- 7
-+ -- 1456
-- -- 1388
-* -- 3374
-:= -- 6027
-add.period$ -- 32
-call.type$ -- 32
-change.case$ -- 790
-chr.to.int$ -- 32
-cite$ -- 34
-duplicate$ -- 598
-empty$ -- 858
-format.name$ -- 1482
-if$ -- 5579
++ -- 1462
+- -- 1389
+* -- 3390
+:= -- 6076
+add.period$ -- 33
+call.type$ -- 33
+change.case$ -- 792
+chr.to.int$ -- 33
+cite$ -- 36
+duplicate$ -- 616
+empty$ -- 888
+format.name$ -- 1486
+if$ -- 5640
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 30
-newline$ -- 100
-num.names$ -- 128
-pop$ -- 829
+missing$ -- 31
+newline$ -- 103
+num.names$ -- 132
+pop$ -- 839
 preamble$ -- 1
-purify$ -- 788
+purify$ -- 790
 quote$ -- 0
-skip$ -- 516
+skip$ -- 534
 stack$ -- 0
-substring$ -- 649
+substring$ -- 654
 swap$ -- 0
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 288
-warning$ -- 2
-while$ -- 126
+type$ -- 294
+warning$ -- 3
+while$ -- 129
 width$ -- 0
-write$ -- 323
-(There were 2 warnings)
+write$ -- 332
+(There were 3 warnings)

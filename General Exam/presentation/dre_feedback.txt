@@ -1,0 +1,22 @@
+pace - slow down
+keep the colors, good segues, good on metallicity, explained mass loss really well
+explain what fusion needs (like slide 7) -- DONE
+explain beta decay -- DONE
+explain electron degeneracy -- DONE
+explain what dust is before talking about dust-driven winds
+relate "Gyr" to "Byr" -- DONE
+cut the white dwarf stuff -- DONE
+make more real-world comparisons (especially the doppler effect)
+flip the atomic/star-scale diagrams when talking about pulsation -- DONE
+added slide about RSG stars -- DONE
+
+said "um" a lot in the beginning
+not so many "um"s in solar winds
+very few, if any, when talking about my work
+
+cut down the equations a little on line-driven winds; put the equation box on the right side *always* -- DONE
+
+increase font size of slide 48 equations -- DONE
+on slide 57 make picture bigger; figure out what to say
+explain slide 59 better -- DONE
+change all "intermediate"s to yellow -- DONE

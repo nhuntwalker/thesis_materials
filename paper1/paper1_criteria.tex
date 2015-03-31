@@ -1,3 +1,60 @@
 \section{Object Selection Criteria}
 \label{sec:criteria}
-We made color-color criteria to create a catalog of AGB candidates. We kept it simple to maximize the number of objects we'd retain while minimizing contamination from non-AGB objects.
+We create color-color criteria to generate a catalog of AGB candidates. We seek to maximize AGB completeness while minimizing contamination from non-AGB objects to beneath the 1\% level.
+
+The color-color criteria for AGB selection are as follows:
+\begin{align} 
+(J-K_s) > 1.1\label{eq:criteria1}\\
+(W2-W3) > 0.3\label{eq:criteria2}\\
+(W3-W4) < -0.83(W2-W3) + 3.37\label{eq:criteria3}
+\end{align}
+The criteria in (1) and (2) are primarily concerned with rejecting objects from the stellar locus, and other stars whose NIR spectra are dominated by the Rayleigh-Jeans tail (many covered by the sample of galaxies).  Criteria in (3) also reject stars from the stellar locus, but primarily function to reject IR-bright extragalactic sources.
+
+\noindent Sample completeness $\eta$ is defined as
+\begin{eqnarray*}
+\eta &=& \frac{N - n_\text{missed}}{N}
+\end{eqnarray*}
+where $N$ is the total number of objects in that sample, and $n_\text{missed}$ is the number of objects outside of the applied boundaries. Figure~\ref{fig:completeness} shows the distribution of completeness amongst AGB sources after the application of the above criteria. Sample contamination is typically defined as
+\begin{eqnarray*}
+\epsilon &=& \frac{n_\text{spurious}}{n_\text{selected}}.
+\end{eqnarray*}
+where $n_\text{spurious}$ is the number of spurious sources and $n_\text{selected}$ is the total number of selected sources, including AGB objects and spurious objects \citep{2013sdmm.book.....I}. The contamination map is shown in Figure~\ref{fig:contamination}.
+
+\begin{figure}[h]
+\includegraphics[width=6.7in]{figs/completeness_map.pdf}
+\caption{Words \label{fig:completeness}.}
+\end{figure}
+\begin{figure}[h]
+\includegraphics[width=6.7in]{figs/contamination_map.pdf}
+\caption{Words \label{fig:contamination}.}
+\end{figure}
+
+A fairly large issue for creating the boundaries are the O-rich stars.  Either the objects from the OGLE O-rich AGB star catalog were mostly mis-matched to WISE, taking on colors of the stellar locus, or the issue is more physical.  It could be that the warm O-rich AGB photospheres are still visible and not heavily enshrouded in dust, thus appearing similar to Main Sequence stars in the NIR. Previous work on warm O-rich AGB stars has shown that their circumstellar shells are not prominent, and their NIR photometry reflects the Rayleigh Jeans tail of a cool 2000-4000K blackbody \citep{1974ApJ...189...89D}. 
+
+The results of the applied critiera are summarized in Table~\ref{tab:completeness}. Of the objects remaining in the sample, 52.94\% of the AGBs have $\lvert b\rvert \le 10^\circ$.
+
+\begin{table}[h]
+    \begin{center}
+        \caption{Sample Completeness and Contamination}
+        \scalebox{0.85}{
+            \begin{tabular}{l c c c c c c}
+		\hline
+		Population & SIMBAD AGB* & C* & Mira & OH/IR & S* \\ 
+		Completeness & 89.62\% & 72.11\% & 95.62\% & 39.53\% & 22.31\% \\ 
+		\hline
+		Population & MACHO seq1 & seq2 & seq3 & seq4 \\ 
+		Completeness & 88.45\% & 81.08\% & 28.77\% & 14.75\% \\ 
+		\hline
+		Population & OGLE-III C-rich & O-rich & \textbf{All AGB Stars} \\ 
+		Completeness & 73.09\% & 70.68\% & \textbf{79.07\%} \\ 
+		\hline
+		Population & DR12 SSPP & DR7 LRG & Galaxies & QSO & AGN \\ 
+		Contamination & 0.56\% & 0.00\% & 0.00\% & 0.07\% & 	0.00\% \\ 
+		\hline
+
+                \label{tab:completeness}
+            \end{tabular}}    
+    \end{center}
+\end{table}
+
+

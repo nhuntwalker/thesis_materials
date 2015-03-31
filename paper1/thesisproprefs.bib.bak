@@ -39,6 +39,27 @@
   timestamp = {2014.05.06}
 }
 
+@ARTICLE{2012ApJS..203...21A,
+  author = {{Ahn}, C.~P. and {Alexandroff}, R. and {Allende Prieto}, C. and {Anderson},
+	S.~F. and {Anderton}, T. and {Andrews}, B.~H. and {Aubourg}, {\'E}.
+	and {Bailey}, S. and {Balbinot}, E. and {Barnes}, R. and et al.},
+  title = {{The Ninth Data Release of the Sloan Digital Sky Survey: First Spectroscopic
+	Data from the SDSS-III Baryon Oscillation Spectroscopic Survey}},
+  journal = {\apjs},
+  year = {2012},
+  volume = {203},
+  pages = {21},
+  month = dec,
+  eid = {21},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2012ApJS..203...21A},
+  archiveprefix = {arXiv},
+  doi = {10.1088/0067-0049/203/2/21},
+  eprint = {1207.7137},
+  keywords = {atlases, catalogs, surveys },
+  primaryclass = {astro-ph.IM}
+}
+
 @ARTICLE{2011ApJS..193...29A,
   author = {{Aihara}, H. and {Allende Prieto}, C. and {An}, D. and {Anderson},
 	S.~F. and {Aubourg}, {\'E}. and {Balbinot}, E. and {Beers}, T.~C.

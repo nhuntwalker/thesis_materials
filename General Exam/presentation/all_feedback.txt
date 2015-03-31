@@ -1,0 +1,167 @@
+Diana - 
+	• Too much text on slides. Keywords and bullet sentences.
+	• Equations are distracting. Don't do full derivations if you don't have to, or leave full derivations to bonus slides. Show plots when you can.
+	• Backup theoretical/cartoon explanations with observational results
+	• Slow the fuck down
+
+====================
+
+Russell -
+	• Generally reduce text
+	• Slide 10: make more explicit connection between mass ranges and fusion regimes
+	• Slide 19: diagrams for degeneracy are good
+	• Slide 25: maybe briefly show core to scale
+	• Slide 39: nice diagram
+	• Slide 40: name the strong absorbers and mention Pop III stars
+	• Slide 42: this seems really important (how we identify mass loss), can you pause here and make sure the audience really grasps this? I wasn't clear why the blue end of the P Cygni profile is dimmer than the red end.
+	• Slide 47: Chemical structure of PAH's, indicate where carbons and hydrogens are 
+	• Slide 48: I like the box on this slide (and the one for line-driven winds) where you work out the math on the slide
+	• Slide 49: In general, plots showing functional forms work better than showing equations. 
+	• Slide 55: add mass loss rates to the summary slide for comparison between two types of mass loss
+	• Slide 60: Briefly summarize the structure of the Milky Way before or after this plot. For example, this tells us that stars that live over here are old, stars over there are young, stars here have seen several generations of enrichment, etc.
+
+====================
+
+Eddie -
+	• Generally reduce text
+	• Often have one column of text and one with a graphic. Remove the column of text or *substantially* reduce it, and make the text part of your script
+	• Slide 2: good for orientation/guidance
+	• Slide 5: good illustration of the main sequence, but it may be helpful to show CMD before so audience knows what simplifications are being made
+	• Slide 9: nice representations of the pp chain and CNO cycle. Make the point that the binding energy of He is negative, so the mass of 4 H is bigger than final He?
+	• Slide 11: convection slide very clear. Note that wind is due to convection AND density gradient
+	• Slide 14: stellar spectra plot hard to see/read from back of room. Maybe kill text and make image the full size of the slide?
+	• Slide 18: change slide order here. Much brighter because while Teff down, R way way up. So maybe do L ~ Teff^4 R^2 with a simple order of mag calculation
+	• Slide 19: maybe mention Pauli exclusion principle here
+	• Slide 23: hard to read some of text in shells around core of star graphic
+	• Slide 28: the s-process graphic should be larger to make it more readable
+	• Slide 34: hard to read text inside graphic (so reduce column text and make image bigger?)
+	• Slide 36: add "Wolf-Rayet" here. Perhaps mention the IMF here and short total lifetime both lead to rarity of high mass star
+	• Slide 39: use a specific absorption/emission line as an example, since it's hard to envision the Doppler shift of an entire continuous blackbody source like a star
+	• Slide 40: lose bulleted text and stay with calculation column
+	• Slide 41: hard to read plot on left
+	• Slide 42: Spend more time on P-Cygni profile. Graphic is awesome but it went by quickly.
+	• Slide 44: lose bulleted text and focus on plot graphic
+	• Slide 45: keep most text on summary slides like these!
+	• Slide 48: again, lose bulleted text
+	• Slide 49: again, lose bulleted text
+	• Slide 59: hard to tell what's going on in plot and table
+	• Slide 60: plot is blurry (this is directly from the paper though)
+
+====================
+
+Nell -
+	• Much rather listen to me speak than read words. So, if comfortable with slide, kill the text and focus on figures with annotations
+	• Early on in talk, give motivation (like slides 56, 57) i.e. mass loss is important because it tells us about dust which affects SEDs and M/Ls and affects chemical evolution models etc. then on an HR diagram say "im focusing on dust from this type of star and this type of star" which will tell you what stellar evolution tracks you need to focus on explaining. forget the rest
+	• Slides 1-4: wind vs. mass loss - deeper explanation than "emitted from star"
+	• If you decide to plot different evolutionary tracks for different masses, could you plot them teogether on an HR diagram to show the difference?
+	• Fusion slides: box in the resultant products for viewers to take the gist from the slide
+	• Slide 25: great scale reference point for size of atmosphere vs. core
+	• Slide 26: this is the first time you've mentioned the *length* of a timescale - you shouldn't throw out numbers/times (1-3 years) without relating it to a comparison evolutionary time scale or something
+	• Slide 35: see slide 26 comments
+	• Slide 36: either introduce WR stars or cut it (cutting not an option actually)
+	• Slide 40: what makes an absorber strong? also, in schematic i use velocity. should connect what exactly is moving in a star to do the shifting.
+	• Slide 41: no need to show all the math going into estimations of mass loss. just show the estimations. also relate to late stages of evolution, as well as the main sequence.
+	• Slide 44: you spend a lot of time talking about elemental abundances at the surface of the star. how does this relate to the spectrum? to a strong absorber? does this abundance at the surface determine spectral type or something? how does it relate?
+	• Slide 51: awesome connection to earlier explanation
+	• Slide 58: the thing about excluding cluster counts is something to have notes and not in the slide
+	• Slide 59-60: introduced a bunch of new stuff and wasn't sure what was important. need to highlight observations of winds, so spend more time on it.
+	• Slide 62: integrate my research earlier on (like REALLY early on) in a motivation slide. You never mentioned C- or O-rich dust before, but use the term "remember".
+
+====================
+
+Phil -
+	• Don't need to put any more deep content. Besides perhaps a slide on the physical mechanisms that give rise to different winds. Question each slide on the interiors and fusion processes and ask how are they relevant to a main slide in the talk
+	• Cut down the intro, bring the level up to pre-qual astro grad student. slow down on complex slides (read axes, explain plot, talk about relevance)
+	• Put main take aways in text on slide, not vital information that you're going to talk through anyway
+	• Swap out intro for one or two real world examples of why astronomers hsould care about mass loss from evolved stars (pick maybe a historical example, or a couple with pretty pictures, maybe a PNe assuming its a single star, or an AGB with imaged shells. maybe line and dust examples). Check out Sedlmayr 1994 LNP, 428, 163; Melbourne et al 2012. Then go into types of mass loss ranked by how much it matters, and then limit to evolved stars (thanks Dr. Z). 
+	• If you have to give background stellar evolution for people to get the mass loss part, do it as needed as an aside, rather than right at the beginning. it's hard to organize the background information and apply it when we need it later when it's given in the format you currently have.
+	• You need a stellar winds intro slide set where you talk about what a stellar wind is and what causes them. I'd have a slide on how they are observed too, what does a P-Cyg profile look like (cartoon AND data), what is measured (vinf, mdot), how are dust driven winds seen, measured, examples. Are tehse optical? where in teh spectrum do people look? I'd write that part to take up the time in the intro you should cut out. Also you're missing a slide on stellar yields papers: Chiosi & Maeder 1986, ARA&A, 24, 329 has an old one.
+	• Cut most slides up to 37 and just slow down. Really don't need to go into stellar interiors SO much.
+	• Slide 1: reveal bullet points in sequence with an animation, like as I talk about them
+	• Slide 2: definitely animate reveal/appear on bullet points. Too much text to follow all at once. Also may not need this slide, or kill the first two definitions.
+	• Slide 3/4: link this back to your title - why are you dividing masses up this way? physical processes?
+	• Slide 5/6: combine to one slide. Spending too much time on 101 stuff. Annotate the image with text of 6. Be sure to say that your talk doesn't include any MS stars
+	• Slides 7-9: way too much about the cores of stars. Focus on why we need the PP chain, why need CNO cycles. Establish THAT context instead of the stellar evolution chain.
+	• Slide 10: I think you ONLY need this slide, and if it's important later you can mention the products and reactants.
+	• Slide 11-13: Main point - where does convection occur in a star. Also, this is general stuff about any star on the HRD, not just MS
+	• Slide 16: Mention here you're skipping lowest mass stars because they haven't evolved off the MS. You should already have mentioned that MS mass loss is negligible compared to mass loss from other phases (even though they don't last as long). May be a better motivation than the one I gave.
+	• Slide 18: way too much text for my speed. If have more than 3 bullet points, should probably gradually include them (animate), or spit into two slides, or remove text entirely
+	• Slide 19-26: Skip degeneracy. Spending way too much time on interior. Dont need more detail than that unless going into specific chemical compositions of winds
+	• Slide 26: TPs is closest I've come to mentioning mass loss tsince title slide.
+	• Slide 32: STILL feels like introduction
+	• Slide 37: Take out doppler, pre-qual level talk. Intro is 10-15 minutes too long
+	• Slide 40: skip equations. "transfer of light to momentum in gas" proportional to strong absorbers should be said first
+	• Slide 41: need a slide saying typical mass loss rates vs stage, so you don't have to step out of discussion here. "lose about 40% of your mass" is a great take-away! go with it though, that dominates stellar evolution time scales, dramatically changes surface temperature of the star, etc.
+	• Slide 43: should have explained meaning of V_inf. Great example of WR star in relation to galactic disk. Expect a question in the closed session on an order of magnitude calculation of that.
+	• Slide 44: surface chemistry, clear description but no indication as to why it matters. SHould first mention pollutes ISM/next generation of stars
+	• Slide 45: forgot to mention transfer of momentum to the cloud. I think slides like 45 are better first than last in the section. In fact, they are good first and repeated again last.
+	• Slide 46: start with this! Woudl like to see an HRD showing where dust driven and line-driven winds dominate.
+	• Note that this is a story of momentum transfer. Keep mentioning it, so you should introduce it much earlier on, like in the intro.
+	• Slide 48: if you want to do the equations, that's great. They're useful. However you can kill the constants and keep the minimum necessary proportional values.
+	• Should have mentioned CO locks up all C and O together and differentiate between M and C AGBs if you're going to go into types of dust mass loss.
+	• Slide 49-50: pulsation: great concept, can also mention local gravity is super low for these huge stars. Mentioned AGB stars arfter slide 50; should be more clear which phase of evo does which.
+	• Slide 51: overlay solar photosphere image again. explain a little about the computation you're showing. also went too fast here. 
+	• Slide 52: mention extragalactic stuff for the first time. Good. Could add to intro we know about these stars from our Sun, WISE, HST, etc. if you want
+	• Slide 54: mentioned speeds of dust vs line driven winds, should be in a wind intro
+	• Slide 55: I'd like to know why blue stars do line driven and red stars do dust
+	• Slide 56-59: excellent. That's your level of introduction you want! Start talk with these or at least put this section at 37-38.
+	• Slide 60: be prepared to discuss alpha enhancement in closed door session. This explanation was unclear. Practice it again.
+	• Closed door question: suzanne asked me to estimate the number of AGB stars in the galaxy based on the fact that 73% of mass loss input is from them.
+
+====================
+
+Jim -
+	• Slide 22: why do we need to know the triple alpha process?
+	• Slide 25: get to this sooner. Also, you mention huge envelope size. Give a number! Make it relatable!
+	• Slide 26: light curve of thermal pulse? Or some kind of Kippenhahn Diagram?
+	• Slide 27: can't read element labels in the back
+	• Slide 36: write out Wolf-Rayet
+	• Slide 39: don't need to explain Doppler Shift
+	• Slide 41: are line-driven winds only for high mass stars? Why?
+	• Slide 42: P-Cygni profiles can have opposite shape too, due to infall.
+	• Slide 43: relabel Teff. Compare line-driven wind speed to solar wind speed (then of course have to mention solar winds)
+	• Slide 44: Use brighter colors for labels to make them stand out from the diagram.	• Slide 52: What are these shaded bands? Explain that these are the bandpasses for the Spitzer IR telescope
+	• Slide 61: no supernovae for mass loss?
+	• Need more observations of mass loss
+	• don't need to go through equations in general
+	• Talk about LPV's, RCorBor's?
+
+====================
+
+Cliff -
+	• Motivation: slide or two before deifnitions and stellar evolution. also to say what you will cover and what you will NOT cover
+	• Mass regimes: intermediate masses defined how? split where AGB stars occur?
+	• MS figure: consider a model-driven diagram to start. Then make it a cartoon
+	• Convection location (core vs shell/surface). Compare when you have a radiative vs convective envelope.
+	• TP-AGB: reference models by Marigo & Girardi. Really it's just kinda irresponsible not to. E.g. Marigo et al. 2006
+	• Massive mass loss: which line are important? What is range of mass loss rates?
+	• Nebula size: is this size accurate? are these large sizes observed?
+	• Dust-drive winds: also seen in Red Super Giants? I didn't think these stars got to cool enough Teff (they do).
+	• Omega Cen: different SGBs indicate different age? Totally lost here.
+	• Galactic metallicity: mass loss/AGB contribute to alpha enrichment, NOT iron enhancement
+	• Include LBVs and outburst type mass loss, time permitting.
+
+====================
+
+Alma -
+	• If it still applies, emphasize the relevance of colors
+	• Switch slides 18 and 17 (if you keep them)
+	• Remove corner images. they're distracting
+	• Color blindness a factor?
+	• Slide 24: Something confused you. What happened?
+	• AGB - reach it wouthout reaching it? Rework
+	• Slide 33: got confused again. take a deep breath
+	• Slide 35: can't see elements from the back
+	• Slide 36: talk about LBVs
+	• Slide 37: give full names with abbreviations?
+	• Brighter star more mass loss
+	• Slide 40: text in box too small. 
+	• Slide 44: mass of star is too small. Enhance yourself
+	• Slide 45: you mentioned you need to add the transfer of momentum from collisions earlier on in the dust section. so, do that.
+	• Slide 48: make equations bigger?
+	• Slide 50: would it be useul to note that you are referring to short pulsations (yes. yes it would; also should note that observed variations in mass loss rates in AGB stars don't correlate with thermal pulsation time scales. maybe mention work being done to figure out why that is?).
+	• Slide 52: text about graphs not easily read. enhance
+	• Slide 54: graph is too small to read anything
+	• Slide 60: add image of galactic structure
+	• Slide 61: the word radiation is both red and blue. Mention the reason.
+	• Slide 65: graph is too small
