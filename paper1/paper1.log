@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  31 MAR 2015 09:08
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  1 APR 2015 14:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -399,52 +399,49 @@ File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 {/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) (./pap
 er1_data.tex
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 11--14
+Underfull \hbox (badness 10000) in paragraph at lines 17--20
 
  []
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<figs/agbs_contaminants_color_color1.pdf, id=162, 867.24pt x 289.08pt>
+[3] <figs/agbs_contaminants_color_color1.pdf, id=176, 867.24pt x 289.08pt>
 File: figs/agbs_contaminants_color_color1.pdf Graphic file (type pdf)
 
 <use figs/agbs_contaminants_color_color1.pdf>
 Package pdftex.def Info: figs/agbs_contaminants_color_color1.pdf used on input 
-line 79.
+line 85.
 (pdftex.def)             Requested size: 505.89pt x 168.63252pt.
 
-<figs/agbs_contaminants_color_color2.pdf, id=163, 867.24pt x 289.08pt>
+<figs/agbs_contaminants_color_color2.pdf, id=177, 867.24pt x 289.08pt>
 File: figs/agbs_contaminants_color_color2.pdf Graphic file (type pdf)
 
 <use figs/agbs_contaminants_color_color2.pdf>
 Package pdftex.def Info: figs/agbs_contaminants_color_color2.pdf used on input 
-line 80.
+line 86.
 (pdftex.def)             Requested size: 505.89pt x 168.63252pt.
 
-<figs/agbs_contaminants_color_color3.pdf, id=164, 867.24pt x 289.08pt>
+<figs/agbs_contaminants_color_color3.pdf, id=178, 867.24pt x 289.08pt>
 File: figs/agbs_contaminants_color_color3.pdf Graphic file (type pdf)
 
 <use figs/agbs_contaminants_color_color3.pdf>
 Package pdftex.def Info: figs/agbs_contaminants_color_color3.pdf used on input 
-line 81.
+line 87.
 (pdftex.def)             Requested size: 505.89pt x 168.63252pt.
 
-Overfull \hbox (36.13501pt too wide) in paragraph at lines 79--82
+Overfull \hbox (36.13501pt too wide) in paragraph at lines 85--88
 [][]
  []
 
 
-Overfull \hbox (36.13501pt too wide) in paragraph at lines 79--82
+Overfull \hbox (36.13501pt too wide) in paragraph at lines 85--88
 []
  []
 
 
-Overfull \hbox (36.13501pt too wide) in paragraph at lines 79--82
+Overfull \hbox (36.13501pt too wide) in paragraph at lines 85--88
 [] 
  []
 
-) (./paper1_criteria.tex [3] [4 <./figs/agbs_contaminants_color_color1.pdf> <./
+) (./paper1_criteria.tex [4] [5 <./figs/agbs_contaminants_color_color1.pdf> <./
 figs/agbs_contaminants_color_color2.pdf
 
 pdfTeX warning: /usr/texbin/pdflatex (file ./figs/agbs_contaminants_color_color
@@ -453,35 +450,31 @@ pdfTeX warning: /usr/texbin/pdflatex (file ./figs/agbs_contaminants_color_color
 
 pdfTeX warning: /usr/texbin/pdflatex (file ./figs/agbs_contaminants_color_color
 3.pdf): PDF inclusion: multiple pdfs with page group included in a single page
->] <figs/completeness_map.pdf, id=1084, 578.16pt x 325.215pt>
+>] <figs/completeness_map.pdf, id=1098, 578.16pt x 325.215pt>
 File: figs/completeness_map.pdf Graphic file (type pdf)
 
 <use figs/completeness_map.pdf>
-Package pdftex.def Info: figs/completeness_map.pdf used on input line 24.
+Package pdftex.def Info: figs/completeness_map.pdf used on input line 20.
 (pdftex.def)             Requested size: 484.20877pt x 272.3649pt.
 
-Overfull \hbox (14.45378pt too wide) in paragraph at lines 24--25
+Overfull \hbox (14.45378pt too wide) in paragraph at lines 20--21
 [][] 
  []
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<figs/contamination_map.pdf, id=1085, 578.16pt x 325.215pt>
+<figs/contamination_map.pdf, id=1104, 578.16pt x 325.215pt>
 File: figs/contamination_map.pdf Graphic file (type pdf)
 
 <use figs/contamination_map.pdf>
-Package pdftex.def Info: figs/contamination_map.pdf used on input line 28.
+Package pdftex.def Info: figs/contamination_map.pdf used on input line 31.
 (pdftex.def)             Requested size: 484.20877pt x 272.3649pt.
 
-Overfull \hbox (14.45378pt too wide) in paragraph at lines 28--29
+Overfull \hbox (14.45378pt too wide) in paragraph at lines 31--32
 [][] 
  []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[5]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -491,7 +484,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                \kern 1.8254pt
 (hyperref)                removed on input line 1.
 
-) (./paper1_conclusions.tex) (./paper1.bbl [6 <./figs/completeness_map.pdf>]
+) (./paper1_conclusions.tex [6 <./figs/completeness_map.pdf>]) (./paper1.bbl
 [7 <./figs/contamination_map.pdf>] [8]pdfTeX warning (ext4): destination with t
 he same identifier (name{Hfootnote.2}) has been already used, duplicate ignored
 
@@ -507,20 +500,16 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 85.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 85.
 Package rerunfilecheck Info: File `paper1.out' has not changed.
 (rerunfilecheck)             Checksum: 722ED5203BC80BCABC81B2D384A2CF23;399.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 85.
  ) 
 Here is how much of TeX's memory you used:
  6877 strings out of 493488
  97072 string characters out of 3141326
- 202812 words of memory out of 3000000
+ 202982 words of memory out of 3000000
  10016 multiletter control sequences out of 15000+200000
  12602 words of font info for 52 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 34i,9n,29p,1682b,478s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 34i,9n,29p,1682b,466s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
@@ -534,10 +523,10 @@ live/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texli
 ve/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texliv
 e/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive
 /2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on paper1.pdf (9 pages, 641963 bytes).
+Output written on paper1.pdf (9 pages, 677834 bytes).
 PDF statistics:
- 1816 PDF objects out of 2073 (max. 8388607)
- 334 compressed objects within 4 object streams
+ 1824 PDF objects out of 2073 (max. 8388607)
+ 342 compressed objects within 4 object streams
  61 named destinations out of 1000 (max. 500000)
  82 words of extra memory for PDF output out of 10000 (max. 10000000)
 
