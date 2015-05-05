@@ -902,6 +902,22 @@
   timestamp = {2014.05.06}
 }
 
+@ARTICLE{1974ApJ...189...89D,
+  author = {{Dyck}, H.~M. and {Lockwood}, G.~W. and {Capps}, R.~W.},
+  title = {{Infrared fluxes, spectral types, and temperatures for very cool
+	stars.}},
+  journal = {\apj},
+  year = {1974},
+  volume = {189},
+  pages = {89-100},
+  month = apr,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/1974ApJ...189...89D},
+  doi = {10.1086/152775},
+  owner = {Nick},
+  timestamp = {2015.03.30}
+}
+
 @ARTICLE{2001MNRAS.327..403E,
   author = {{Elitzur}, M. and {Ivezi{\'c}}, {\v Z}.},
   title = {{Dusty winds - I. Self-similar solutions}},
@@ -1763,6 +1779,23 @@
 	Instruments, Very Long Base Interferometry}
 }
 
+@ARTICLE{2001MNRAS.322..231K,
+  author = {{Kroupa}, P.},
+  title = {{On the variation of the initial mass function}},
+  journal = {\mnras},
+  year = {2001},
+  volume = {322},
+  pages = {231-246},
+  month = apr,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2001MNRAS.322..231K},
+  doi = {10.1046/j.1365-8711.2001.04022.x},
+  eprint = {astro-ph/0009005},
+  keywords = {BINARIES: GENERAL, STARS: FORMATION, STARS: KINEMATICS, STARS: LUMINOSITY
+	FUNCTION, MASS FUNCTION, GLOBULAR CLUSTERS: GENERAL, OPEN CLUSTERS
+	AND ASSOCIATIONS: GENERAL}
+}
+
 @ARTICLE{2011AJ....141...90L,
   author = {{Lee}, Y.~S. and {Beers}, T.~C. and {Allende Prieto}, C. and {Lai},
 	D.~K. and {Rockosi}, C.~M. and {Morrison}, H.~L. and {Johnson}, J.~A.
@@ -2593,7 +2626,7 @@
 }
 
 @ARTICLE{2009AcA....59..239S,
-  author = {{Soszy{\~n}ski}, I. and {Udalski}, A. and {Szyma{\~n}ski}, M.~K.
+  author = {{Soszy{\'n}ski}, I. and {Udalski}, A. and {Szyma{\'n}ski}, M.~K.
 	and {Kubiak}, M. and {Pietrzy{\~n}ski}, G. and {Wyrzykowski}, {\L}.
 	and {Szewczyk}, O. and {Ulaczyk}, K. and {Poleski}, R.},
   title = {{The Optical Gravitational Lensing Experiment. The OGLE-III Catalog
