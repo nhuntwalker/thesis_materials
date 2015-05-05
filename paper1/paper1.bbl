@@ -1,4 +1,4 @@
-\begin{thebibliography}{33}
+\begin{thebibliography}{37}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 
 \bibitem[{{Ahn} {et~al.}(2012){Ahn}, {Alexandroff}, {Allende Prieto},
@@ -38,6 +38,12 @@
   {Schneider}}]{2010ApJ...716....1B}
 {Bond}, N.~A., {et~al.} 2010, \apj, 716, 1
 
+\bibitem[{{Boyer} {et~al.}(2011){Boyer}, {Srinivasan}, {van Loon}, {McDonald},
+  {Meixner}, {Zaritsky}, {Gordon}, {Kemper}, {Babler}, {Block}, {Bracker},
+  {Engelbracht}, {Hora}, {Indebetouw}, {Meade}, {Misselt}, {Robitaille},
+  {Sewi{\l}o}, {Shiao}, \& {Whitney}}]{2011AJ....142..103B}
+{Boyer}, M.~L., {et~al.} 2011, \aj, 142, 103
+
 \bibitem[{{Cutri} {et~al.}(2012){Cutri}, {Wright}, {Conrow}, {Bauer},
   {Benford}, {Brandenburg}, {Dailey}, {Eisenhardt}, {Evans}, {Fajardo-Acosta},
   {Fowler}, {Gelino}, {Grillmair}, {Harbut}, {Hoffman}, {Jarrett},
@@ -57,10 +63,6 @@
 ---. 2013, {Explanatory Supplement to the AllWISE Data Release Products}, Tech.
   rep.
 
-\bibitem[{{Dyck} {et~al.}(1974){Dyck}, {Lockwood}, \&
-  {Capps}}]{1974ApJ...189...89D}
-{Dyck}, H.~M., {Lockwood}, G.~W., \& {Capps}, R.~W. 1974, \apj, 189, 89
-
 \bibitem[{{Fraser} {et~al.}(2008){Fraser}, {Hawley}, \&
   {Cook}}]{2008AJ....136.1242F}
 {Fraser}, O.~J., {Hawley}, S.~L., \& {Cook}, K.~H. 2008, \aj, 136, 1242
@@ -72,11 +74,21 @@
 \bibitem[{{Grillmair}(2006)}]{2006ApJ...651L..29G}
 {Grillmair}, C.~J. 2006, \apjl, 651, L29
 
+\bibitem[{{Habing} {et~al.}(1985){Habing}, {Olnon}, {Chester}, {Gillett}, \&
+  {Rowan-Robinson}}]{1985A&A...152L...1H}
+{Habing}, H.~J., {Olnon}, F.~M., {Chester}, T., {Gillett}, F., \&
+  {Rowan-Robinson}, M. 1985, \aap, 152, L1
+
 \bibitem[{{Herwig}(2005)}]{2005ARA&A..43..435H}
 {Herwig}, F. 2005, \araa, 43, 435
 
 \bibitem[{{Iben} \& {Renzini}(1983)}]{1983ARA&A..21..271I}
 {Iben}, Jr., I., \& {Renzini}, A. 1983, \araa, 21, 271
+
+\bibitem[{{Ishihara} {et~al.}(2011){Ishihara}, {Kaneda}, {Onaka}, {Ita},
+  {Matsuura}, \& {Matsunaga}}]{2011A&A...534A..79I}
+{Ishihara}, D., {Kaneda}, H., {Onaka}, T., {Ita}, Y., {Matsuura}, M., \&
+  {Matsunaga}, N. 2011, \aap, 534, A79
 
 \bibitem[{{Ivezi{\'c}} {et~al.}(2013){Ivezi{\'c}}, {Connolly}, {VanderPlas}, \&
   {Gray}}]{2013sdmm.book.....I}
@@ -115,8 +127,8 @@
   {Schneider}, \& {Szalay}}]{2010ApJ...710.1444K}
 {Kazin}, E.~A., {et~al.} 2010, \apj, 710, 1444
 
-\bibitem[{{Kovalevsky}(1984)}]{1984SSRv...39....1K}
-{Kovalevsky}, J. 1984, \ssr, 39, 1
+\bibitem[{{Kroupa}(2001)}]{2001MNRAS.322..231K}
+{Kroupa}, P. 2001, \mnras, 322, 231
 
 \bibitem[{{Majewski}(1993)}]{1993ARA&A..31..575M}
 {Majewski}, S.~R. 1993, \araa, 31, 575
@@ -125,6 +137,11 @@
   {Ostheimer}}]{2003ApJ...599.1082M}
 {Majewski}, S.~R., {Skrutskie}, M.~F., {Weinberg}, M.~D., \& {Ostheimer}, J.~C.
   2003, \apj, 599, 1082
+
+\bibitem[{{Matsuura} {et~al.}(2005){Matsuura}, {Zijlstra}, {van Loon},
+  {Yamamura}, {Markwick}, {Whitelock}, {Woods}, {Marshall}, {Feast}, \&
+  {Waters}}]{2005A&A...434..691M}
+{Matsuura}, M., {et~al.} 2005, \aap, 434, 691
 
 \bibitem[{{Newberg} {et~al.}(2002){Newberg}, {Yanny}, {Rockosi}, {Grebel},
   {Rix}, {Brinkmann}, {Csabai}, {Hennessy}, {Hindsley}, {Ibata}, {Ivezi{\'c}},
@@ -137,15 +154,19 @@
 {Olofsson}, H., {Gonz{\'a}lez Delgado}, D., {Kerschbaum}, F., \& {Sch{\"o}ier},
   F.~L. 2002, \aap, 391, 1053
 
-\bibitem[{{Soszy{\~n}ski} {et~al.}(2009){Soszy{\~n}ski}, {Udalski},
-  {Szyma{\~n}ski}, {Kubiak}, {Pietrzy{\~n}ski}, {Wyrzykowski}, {Szewczyk},
+\bibitem[{{Soszy{\'n}ski} {et~al.}(2009){Soszy{\'n}ski}, {Udalski},
+  {Szyma{\'n}ski}, {Kubiak}, {Pietrzy{\~n}ski}, {Wyrzykowski}, {Szewczyk},
   {Ulaczyk}, \& {Poleski}}]{2009AcA....59..239S}
-{Soszy{\~n}ski}, I., {et~al.} 2009, \actaa, 59, 239
+{Soszy{\'n}ski}, I., {et~al.} 2009, \actaa, 59, 239
 
 \bibitem[{{Soszy{\'n}ski} {et~al.}(2011){Soszy{\'n}ski}, {Udalski},
   {Szyma{\'n}ski}, {Kubiak}, {Pietrzy{\'n}ski}, {Wyrzykowski}, {Ulaczyk},
   {Poleski}, {Koz{\l}owski}, \& {Pietrukowicz}}]{2011AcA....61..217S}
-{Soszy{\'n}ski}, I., {et~al.} 2011, \actaa, 61, 217
+---. 2011, \actaa, 61, 217
+
+\bibitem[{{Tu} \& {Wang}(2013)}]{2013RAA....13..323T}
+{Tu}, X., \& {Wang}, Z.-X. 2013, Research in Astronomy and Astrophysics, 13,
+  323
 
 \bibitem[{{Udalski} {et~al.}(2008){Udalski}, {Szymanski}, {Soszynski}, \&
   {Poleski}}]{2008AcA....58...69U}
