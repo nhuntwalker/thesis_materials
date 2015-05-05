@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  5 MAY 2015 09:09
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  5 MAY 2015 09:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -380,30 +380,40 @@ LaTeX Info: Redefining \nameref on input line 55.
 \openout3 = `paper1.out'.
 
  (./paper1_abstract.tex) (./paper1_intro.tex
-LaTeX Font Info:    Try loading font information for U+lasy on input line 8.
 
+Package natbib Warning: Citation `1984SSRv...39....1K' on page 1 undefined on i
+nput line 20.
+
+
+Package natbib Warning: Citation `IBJ2012' on page 1 undefined on input line 22
+.
+
+
+Package natbib Warning: Citation `IBJ2012' on page 1 undefined on input line 22
+.
+
+LaTeX Font Info:    Try loading font information for U+lasy on input line 29.
 (/usr/local/texlive/2012/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 8.
+LaTeX Font Info:    Try loading font information for U+msa on input line 29.
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 8.
+LaTeX Font Info:    Try loading font information for U+msb on input line 29.
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 ) [1
 
-{/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) (./pap
-er1_data.tex
-[2] [3]
+{/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2])
+(./paper1_data.tex [3] [4]
 Underfull \hbox (badness 10000) in paragraph at lines 23--24
 
  []
 
-<figs/agbs_contaminants_color_color1.pdf, id=188, 867.24pt x 289.08pt>
+<figs/agbs_contaminants_color_color1.pdf, id=231, 867.24pt x 289.08pt>
 File: figs/agbs_contaminants_color_color1.pdf Graphic file (type pdf)
 
 <use figs/agbs_contaminants_color_color1.pdf>
@@ -411,7 +421,7 @@ Package pdftex.def Info: figs/agbs_contaminants_color_color1.pdf used on input
 line 91.
 (pdftex.def)             Requested size: 505.89pt x 168.63252pt.
 
-<figs/agbs_contaminants_color_color2.pdf, id=189, 867.24pt x 289.08pt>
+<figs/agbs_contaminants_color_color2.pdf, id=232, 867.24pt x 289.08pt>
 File: figs/agbs_contaminants_color_color2.pdf Graphic file (type pdf)
 
 <use figs/agbs_contaminants_color_color2.pdf>
@@ -419,7 +429,7 @@ Package pdftex.def Info: figs/agbs_contaminants_color_color2.pdf used on input
 line 92.
 (pdftex.def)             Requested size: 505.89pt x 168.63252pt.
 
-<figs/agbs_contaminants_color_color3.pdf, id=190, 867.24pt x 289.08pt>
+<figs/agbs_contaminants_color_color3.pdf, id=233, 867.24pt x 289.08pt>
 File: figs/agbs_contaminants_color_color3.pdf Graphic file (type pdf)
 
 <use figs/agbs_contaminants_color_color3.pdf>
@@ -441,7 +451,7 @@ Overfull \hbox (36.13501pt too wide) in paragraph at lines 91--94
 [] 
  []
 
-) (./paper1_criteria.tex [4] [5 <./figs/agbs_contaminants_color_color1.pdf> <./
+) (./paper1_criteria.tex [5] [6 <./figs/agbs_contaminants_color_color1.pdf> <./
 figs/agbs_contaminants_color_color2.pdf
 
 pdfTeX warning: /usr/texbin/pdflatex (file ./figs/agbs_contaminants_color_color
@@ -452,7 +462,7 @@ pdfTeX warning: /usr/texbin/pdflatex (file ./figs/agbs_contaminants_color_color
 3.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
 
-LaTeX Warning: Reference `eq:critera4' on page 6 undefined on input line 18.
+LaTeX Warning: Reference `eq:critera4' on page 7 undefined on input line 18.
 
 
 Overfull \hbox (42.47772pt too wide) in paragraph at lines 46--47
@@ -462,7 +472,7 @@ Overfull \hbox (42.47772pt too wide) in paragraph at lines 46--47
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figs/completeness_map.pdf, id=1111, 578.16pt x 325.215pt>
+<figs/completeness_map.pdf, id=1154, 578.16pt x 325.215pt>
 File: figs/completeness_map.pdf Graphic file (type pdf)
 
 <use figs/completeness_map.pdf>
@@ -476,7 +486,7 @@ Overfull \hbox (14.45378pt too wide) in paragraph at lines 52--53
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[6] <figs/contamination_map.pdf, id=1139, 578.16pt x 325.215pt>
+[7] <figs/contamination_map.pdf, id=1183, 578.16pt x 325.215pt>
 File: figs/contamination_map.pdf Graphic file (type pdf)
 
 <use figs/contamination_map.pdf>
@@ -490,7 +500,7 @@ Overfull \hbox (14.45378pt too wide) in paragraph at lines 67--68
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figs/contaminating_sspp_objects.pdf, id=1141, 867.24pt x 289.08pt>
+<figs/contaminating_sspp_objects.pdf, id=1185, 867.24pt x 289.08pt>
 File: figs/contaminating_sspp_objects.pdf Graphic file (type pdf)
 
 <use figs/contaminating_sspp_objects.pdf>
@@ -498,7 +508,7 @@ Package pdftex.def Info: figs/contaminating_sspp_objects.pdf used on input line
  72.
 (pdftex.def)             Requested size: 484.20877pt x 161.4029pt.
 
-<figs/contaminating_sspp_objects_classes.pdf, id=1142, 867.24pt x 289.08pt>
+<figs/contaminating_sspp_objects_classes.pdf, id=1186, 867.24pt x 289.08pt>
 File: figs/contaminating_sspp_objects_classes.pdf Graphic file (type pdf)
 
 <use figs/contaminating_sspp_objects_classes.pdf>
@@ -527,9 +537,9 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                \kern 1.8254pt
 (hyperref)                removed on input line 1.
 
-) (./paper1_conclusions.tex [7]) (./paper1.bbl [8 <./figs/completeness_map.pdf>
-] [9 <./figs/contamination_map.pdf>] [10 <./figs/contaminating_sspp_objects.pdf
-> <./figs/contaminating_sspp_objects_classes.pdf
+) (./paper1_conclusions.tex) (./paper1.bbl [8] [9 <./figs/completeness_map.pdf>
+] [10 <./figs/contamination_map.pdf>] [11 <./figs/contaminating_sspp_objects.pd
+f> <./figs/contaminating_sspp_objects_classes.pdf
 
 pdfTeX warning: /usr/texbin/pdflatex (file ./figs/contaminating_sspp_objects_cl
 asses.pdf): PDF inclusion: multiple pdfs with page group included in a single p
@@ -538,12 +548,20 @@ age
 }) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.233 \end{thebibliography}
+l.236 \end{thebibliography}
                            )
+
+Package natbib Warning: There were undefined citations.
+
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 85.
- [11]
+[12]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 85.
- (./paper1.aux)
+ (./paper1.aux
+
+Package natbib Warning: Citation(s) may have changed.
+(natbib)                Rerun to get citations correct.
+
+)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 85.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 85.
 Package rerunfilecheck Info: File `paper1.out' has not changed.
@@ -552,16 +570,19 @@ Package rerunfilecheck Info: File `paper1.out' has not changed.
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 85.
  ) 
 Here is how much of TeX's memory you used:
- 6908 strings out of 493488
- 97822 string characters out of 3141326
- 214295 words of memory out of 3000000
- 10035 multiletter control sequences out of 15000+200000
+ 6912 strings out of 493488
+ 97871 string characters out of 3141326
+ 213289 words of memory out of 3000000
+ 10037 multiletter control sequences out of 15000+200000
  12602 words of font info for 52 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 34i,9n,29p,2591b,466s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 34i,9n,29p,2475b,473s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
@@ -575,10 +596,10 @@ live/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texli
 ve/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texliv
 e/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive
 /2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on paper1.pdf (11 pages, 809302 bytes).
+Output written on paper1.pdf (12 pages, 815143 bytes).
 PDF statistics:
- 2258 PDF objects out of 2487 (max. 8388607)
- 391 compressed objects within 4 object streams
- 71 named destinations out of 1000 (max. 500000)
+ 2304 PDF objects out of 2487 (max. 8388607)
+ 435 compressed objects within 5 object streams
+ 73 named destinations out of 1000 (max. 500000)
  92 words of extra memory for PDF output out of 10000 (max. 10000000)
 
