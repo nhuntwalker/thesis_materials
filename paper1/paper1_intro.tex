@@ -1,43 +1,41 @@
 \section{Introduction}
 
-
-- brief intro to Gal structure
-
-- SDSS and other recent results do not go into the plane
-
-- mention a few studies that do (GLIMPSE etc) and ongoing data taking with DECam
-
-- AGB stars: luminous in IR, relatively easy to find; mention MACHO and OGLE studies, 
-   refer to Jackson et al. IRAS-based study, lead to WISE
-
-- brief description of WISE
-
-- paper outline
+The structure of the \mw\ holds clues to the processes of formation and evolution of galaxies.
+Historical models typically assumed three discrete components described by simple analytic 
+expressions: the thin disk, thick disk, and halo \citep{1980ApJS...44...73B, 1989ARA&A..27..555G,1993ARA&A..31..575M}. 
+Recent surveys, such as the Sloan Digital Sky Survey \citep[\sdss, ][]{2000AJ....120.1579Y} 
+and the Two Micron All Sky Survey \citep[\twomass, ][]{2006AJ....131.1163S}, have provided 
+much more detail about these components. For example, SDSS data have constrained stellar distributions 
+in the 7-dimensional space spanned by spatial coordinates \citep{2008ApJ...673..864J}, velocity components \citep{2010ApJ...716....1B}, and metallicity \citep{2008ApJ...684..287I}. The resulting maps revealed rich, complex substructure in the distribution of the \mw's stars \citep[e.g.][]{2000AJ....120..963I,2000ApJ...540..825Y,2001ApJ...554L..33V,2002ApJ...569..245N,2003ApJ...599.1082M,2006ApJ...642L.137B,2006ApJ...651L..29G,2006AJ....132..714V}, deeply shaking the older view of a smooth Galaxy. 
 
 
+The large distance limit of about 100 kpc for some halo populations (e.g. RR Lyrae and BHB stars 
+with SDSS, XXX Sesar 2010 ref and red giants with 2MASS, XXX Majewski ref), as well as about 10 kpc 
+for very numerous main sequence stars, is not reached when studying disk component at low galactic
+latitudes. As shown, for example, by Berry et al., the extinction due to interstellar dust limits 
+the SDSS sample of main sequence stars to heliocentric distances of only a few kpc. In order
+to avoid detrimental effect of dust extinction, stellar samples need to be probed at longer infrared
+wavelengths. Several infrared surveys covering the Galactic plane have recently become available
+(gives refs for WISE and GLIMPSE, VVV: arXiv:1111.5511). 
 
+Among populations suitable for studying Galactic structure using infrared surveys, Asymptotic Giant 
+Branch (\agb) stars stand out. \agb\ stars represent the last stage of evolution for stars between 0.8 and 8 $M_\odot$ \citep{1983ARA&A..21..271I, 2005ARA&A..43..435H}. Stars from this mass range can reach the final stages of stellar evolution within the Galactic timescale ($\sim$10 Gyr, \citealt{1983ARA&A..21..271I}) and thus are bound to reside throughout the Galaxy wherever other stars are present. This phase of stellar evolution is marked by two distinct
+episodes with different observational characteristics: the early \agb\, phase (E-\agb)  and the thermally-pulsing \agb\, phase (TP). During the thermally-pulsing phase, \agb\, stars produce substantial dust-driven stellar winds \citep[$10^{-7} < \dot{M} < 10^{-4}$ $M_\odot$ yr$^{-1}$,][]{2002A&A...391.1053O} rich in oxides (SiO, Al$_2$O$_3$, etc.) or carbon-rich molecules (SiC, AmC, etc.) The dominant chemical composition is highly dependent upon the metallicity of the host galaxy \citep{2005A&A...434..691M}. High-metallicity galaxies like  the Milky Way have a substantial population of oxygen-rich AGB stars \citep{1985A&A...152L...1H}, whereas low-metallicity galaxies such as the Magellanic clouds are dominated by carbon-rich \agb\ stars \citep{2011AJ....142..103B}. In both cases, the other species of AGB star is rarely seen, as richness in one chemical type (e.g. oxides)  necessitates the almost complete capture of the other chemical type (e.g. carbon) in CO \citep{1983ARA&A..21..271I}. 
 
-The formation of galaxies like the \mw\, was long thought to be a steady process that created a smooth distribution of stars. This standard view was exemplified by the \cite{1980ApJS...44...73B} and \cite{1989ARA&A..27..555G} models, described in detail by, e.g., \cite{1993ARA&A..31..575M}. It was further motivated by observations of other galaxies, as well as what little information was available from \emph{High Precision Parallax Collecting Satellite} \citep[\emph{HIPPARCOS}, ][]{1984SSRv...39....1K} and smaller pencil-beam surveys. In these, the \mw\, is modeled by three discrete components described by simple analytic expressions: the thin disk, thick disk, and halo. 
+The dust-rich winds in TP phase  create vast circumstellar shells that are warmed by the stellar photosphere and emit
+copiously in the near- and mid-infrared (NIR \& MIR, respectively). Together with high bolometric luminosity
+(10$^3$--10$^4$ \Mo), this redistribution of the output radiation to the infrared wavelength makes \agb\ stars
+excellent disk probe when infrared survey data are available. Indeed, they were detected all the way to the 
+Galactic center even with the IRAS survey \citep{2002MNRAS.337..749J}. Such disk studies can now be significantly
+improved thanks to the much more sensitive WISE survey. 
 
-Review is \citet{IBJ2012} \citep{IBJ2012}
+The \emph{Wide-field Infrared Survey Explorer} \citep[\wise, ][]{2010AJ....140.1868W, 2012wise.rept....1C}, is a space observatory that has imaged essentially the entire sky in the MIR (3.4, 4.6, 12, and 22 $\mu$m). \wise\, catalog has been positionally matched to the \twomass\ catalog, with the matched catalog listing NIR and MIR 7-band photometry for
+hundreds of millions of sources. Given the depths of the two surveys, this catalog should contain AGB stars to many
+kpc beyond the Galactic center. Here we develop selection methods for \agb\ stars using WISE and 2MASS data,
+and analyse the resulting samples. 
 
-
-The advent of the \emph{Sloan Digital Sky Survey} \citep[\sdss, ][]{2000AJ....120.1579Y} alleviated these limitations, providing accurate digital multi-band optical photometry across a quarter of the sky, as well as the largest optical spectroscopic catalog thus far known. This new influx of data enabled the development and application of photometric parallax methods, using color-magnitude relations to estimate stellar distances. In turn, this led to the large scale ``tomography" of the \mw\; via stellar distributions in the 7-dimensional space spanned by spatial coordinates \citep{2008ApJ...673..864J}, velocity components \citep{2010ApJ...716....1B}, and metallicity \citep{2008ApJ...684..287I}. The resulting maps revealed rich, complex substructure in the distribution of the \mw's stars \citep[e.g.][]{2000AJ....120..963I,2000ApJ...540..825Y,2001ApJ...554L..33V,2002ApJ...569..245N,2003ApJ...599.1082M,2006ApJ...642L.137B,2006ApJ...651L..29G,2006AJ....132..714V}, deeply shaking the existing view of the Galaxy. 
-
-
-
-In order to move forward from where \sdss\, tomography left off, we require observations that span an area larger than that of \sdss\, with Galactic objects that can be seen through interstellar dust out to large distances. Stars from the Asymptotic Giant Branch (\agb) are perfect candidates as probes to the \mw. \agb\, stars are represent the last stage of evolution for stars between 0.8 and 8 $M_\odot$ \citep{1983ARA&A..21..271I, 2005ARA&A..43..435H}, so they are bound to reside throughout the galaxy wherever other stars are present. During this phase, they produce substantial stellar winds \citep[$10^{-7} < \dot{M} < 10^{-4} M_\odot$ yr$^{-1}$,][]{2002A&A...391.1053O} rich in SiO and amorphous carbon as they progress through being oxygen-rich to being carbon-rich. These winds collect into circumstellar shells that, when warmed by the stellar photosphere, shine brightly in the near- and mid-infrared (NIR \& MIR respectively). 
-=======
-%The formation of galaxies like the \mw\, was long thought to be a steady process that created a smooth distribution of stars. This standard view was exemplified by the \cite{1980ApJS...44...73B} and \cite{1989ARA&A..27..555G} models, described in detail by, e.g., \cite{1993ARA&A..31..575M}. It was further motivated by observations of other galaxies, as well as what little information was available from \emph{High Precision Parallax Collecting Satellite} \citep[\emph{HIPPARCOS}, ][]{1984SSRv...39....1K} and smaller pencil-beam surveys. In these, 
-The structure of the \mw\, has for many years been uncertain, with historical models assuming three discrete components described by simple analytic expressions: the thin disk, thick disk, and halo \citep{1980ApJS...44...73B, 1989ARA&A..27..555G,1993ARA&A..31..575M}. 
-The advent of the \emph{Sloan Digital Sky Survey} \citep[\sdss, ][]{2000AJ....120.1579Y} has since provided more detail, using accurate digital multi-band optical photometry across a quarter of the sky, as well as the largest optical spectroscopic catalog thus far known. 
-%This new influx of data enabled the development and application of photometric parallax methods, using color-magnitude relations to estimate stellar distances.
-These new data led to the large scale ``tomography" of the \mw\; via stellar distributions in the 7-dimensional space spanned by spatial coordinates \citep{2008ApJ...673..864J}, velocity components \citep{2010ApJ...716....1B}, and metallicity \citep{2008ApJ...684..287I}. The resulting maps revealed rich, complex substructure in the distribution of the \mw's stars \citep[e.g.][]{2000AJ....120..963I,2000ApJ...540..825Y,2001ApJ...554L..33V,2002ApJ...569..245N,2003ApJ...599.1082M,2006ApJ...642L.137B,2006ApJ...651L..29G,2006AJ....132..714V}, deeply shaking the existing view of the Galaxy. 
-
-In order to move forward from where \sdss\, tomography left off, we require observations that span an area larger than that of \sdss\,, with Galactic objects that can be seen through interstellar dust out to large distances. Stars from the Asymptotic Giant Branch (\agb) are perfect candidates to serve as these probes to the \mw. \agb\, stars represent the last stage of evolution for stars between 0.8 and 8 $M_\odot$ \citep{1983ARA&A..21..271I, 2005ARA&A..43..435H} -- the mass-range with the highest number of stars as inferred from the  \cite{2001MNRAS.322..231K} initial mass function that can also reach the final stages of stellar evolution within a galactic timescale. Because of this, they are bound to reside throughout the galaxy wherever other stars are present. This phase of evolution is marked by two distinct periods: the early \agb\, (E-\agb)  and the thermally-pulsing \agb\, phases. During the latter of the two, \agb\, stars produce substantial dust-driven stellar winds \citep[$10^{-7} < \dot{M} < 10^{-4}$ $M_\odot$ yr$^{-1}$,][]{2002A&A...391.1053O} rich in oxides (SiO, Al$_2$O$_3$, etc.) and carbon-rich molecules (SiC, AmC, etc.), with the chemical dominance being highly dependent upon the metallicity of the host galaxy \citep{2005A&A...434..691M}. Galaxies such as the Milky Way are expected to have a substantial population of oxygen-rich AGB stars \citep{1985A&A...152L...1H}, whereas low-metallicity galaxies such as the Magellanic clouds have been shown to possess AGB populations dominated by carbon-rich stars \citep{2011AJ....142..103B}. In both cases, the other species of AGB star is rarely seen, as richness in one chemical type (e.g. oxides)  necessitates the almost complete capture of the other chemical type (e.g. carbon) in CO \citep{1983ARA&A..21..271I}. Over time, these chemically-rich winds create vast circumstellar shells that, when warmed by the stellar photosphere, emit in the near- and mid-infrared (NIR \& MIR respectively). Although the molecular species present in oxygen- and carbon-rich winds are vastly different, emission from both types produce strong IR emission near 10$\mu$m, visible out to the Magellanic clouds \citep{2011A&A...534A..79I} and beyond. Thus, if these stars can be pinpointed by a survey with a wide area of observation and high positional accuracy, they can be used as markers for a map of the Milky Way \citep{2013RAA....13..323T}.
-
-Such a survey can be found in the \emph{Wide-field Infrared Survey Explorer} \citep[\wise, ][]{2010AJ....140.1868W, 2012wise.rept....1C}, a space-based observatory that has imaged the entire sky in the MIR (3.4, 4.6, 12, and 22$\mu$m). Additionally, \wise\, has been positionally matched to the Two-Micron All-Sky Survey (\twomass), a four-year mission characterizing the full sky in the NIR. Thus, the \wise\, catalog presents with hundreds of millions of sources with photometry of unprecedented sensitivity and positional accuracy in the NIR and MIR--ideal for capturing \agb\, stars at Galactic distances. In this paper, we use samples of known Galactic and Magellanic \agb\, stars to formulate color-color criteria with \wise\, and \twomass\, photometry that can produce a reliable catalog of IR \agb\, candidates. We then use these candidates in conjunction with estimates of Galactic dust extinction along the line of sight to produce a Galaxy-wide number density distribution of \agb\, stars.  
-
-In Section~\ref{sec:data}, we describe in detail the data that we use for our study. In Section~\ref{sec:criteria}, we describe the color-color criteria used to isolate \agb\, stars in the \wise\, dataset, and the color-magnitude relationships that were derived for these stars from the Large Magellanic Cloud and the \mw\, bulge.
-In Section~\ref{sec:distribution}, we describe the spatial density distribution of \agb\, candidates in the Milky Way.
-Our conclusions can be found in section~\ref{sec:conclusions}.
+In Section~\ref{sec:data}, we describe in detail the WISE, 2MASS and other auxiliary data used in our study. 
+In Section~\ref{sec:criteria}, we use samples of known Galactic and Magellanic \agb\, stars to derive 
+WISE-2MASS color-based selection criteria, and calibrate color-absolute magnitude relations. 
+In Section~\ref{sec:distribution}, we describe the spatial density distribution of selected \agb\, candidates
+from the Milky Way. Our conclusions are summarized in Section~\ref{sec:conclusions}.
