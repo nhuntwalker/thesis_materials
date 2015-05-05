@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  5 MAY 2015 09:58
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  5 MAY 2015 10:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -557,9 +557,6 @@ Package rerunfilecheck Info: File `paper1.out' has not changed.
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 86.
  ) 
 Here is how much of TeX's memory you used:
@@ -583,7 +580,7 @@ live/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texli
 ve/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texliv
 e/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive
 /2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on paper1.pdf (12 pages, 815265 bytes).
+Output written on paper1.pdf (12 pages, 815271 bytes).
 PDF statistics:
  2308 PDF objects out of 2487 (max. 8388607)
  439 compressed objects within 5 object streams
