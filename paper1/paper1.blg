@@ -6,45 +6,45 @@ Database file #1: thesisproprefs.bib
 Warning--empty institution in 2012wise.rept....1C
 Warning--empty institution in 2013wise.rept....1C
 Warning--empty publisher in 2013sdmm.book.....I
-You've used 37 entries,
+You've used 36 entries,
             2994 wiz_defined-function locations,
-            893 strings with 23137 characters,
-and the built_in function-call counts, 34585 in all, are:
-= -- 2637
-> -- 3941
-< -- 8
-+ -- 1570
-- -- 1483
-* -- 3657
-:= -- 6591
-add.period$ -- 37
-call.type$ -- 37
-change.case$ -- 848
-chr.to.int$ -- 37
-cite$ -- 40
-duplicate$ -- 692
-empty$ -- 998
-format.name$ -- 1594
-if$ -- 6160
+            886 strings with 23382 characters,
+and the built_in function-call counts, 34997 in all, are:
+= -- 2655
+> -- 4049
+< -- 6
++ -- 1612
+- -- 1529
+* -- 3734
+:= -- 6675
+add.period$ -- 36
+call.type$ -- 36
+change.case$ -- 869
+chr.to.int$ -- 36
+cite$ -- 39
+duplicate$ -- 675
+empty$ -- 972
+format.name$ -- 1637
+if$ -- 6211
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 35
-newline$ -- 115
-num.names$ -- 148
-pop$ -- 905
+missing$ -- 34
+newline$ -- 112
+num.names$ -- 144
+pop$ -- 924
 preamble$ -- 1
-purify$ -- 846
+purify$ -- 867
 quote$ -- 0
-skip$ -- 609
+skip$ -- 589
 stack$ -- 0
-substring$ -- 744
+substring$ -- 726
 swap$ -- 0
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 330
+type$ -- 321
 warning$ -- 3
-while$ -- 145
+while$ -- 141
 width$ -- 0
-write$ -- 372
+write$ -- 362
 (There were 3 warnings)

@@ -14,15 +14,17 @@ catalogs, also described below. We conclude this section by describing
 how these catalogs auxiliary catalogs were  positionally merged with the 
 WISE-2MASS catalog. 
 
-Now rearrange the old text below in these subsections: 
-
 \subsection{WISE-2MASS catalog}
+Write a few sentences about the WISE survey...
 
-\subsection{AGB stars from SIMBAD database} 
+\subsection{AGB stars from SIMBAD database}
+The SIMBAD database\footnote{\url{http://simbad.u-strasbg.fr/simbad/}} is comprised of basic data, classifications, and measurements for all types of astronomical objects from a variety of surveys.  Classifications are hierarchical, and are classified with increasing specificity based on the available data, though each star can have multiple classifications. AGB stars have subcategories of C-stars ([C/O] $>$ 1) and S-stars ([C/O] $\sim$ 1). Where subclassification is unclear, the main classification remains as AGB star. OH/IR stars are subsets of peculiar stars that specifically show strong OH maser emission and strong IR emission, identifying them clearly as AGB stars.  Mira-type variables are a subset of variable stars, and are classified based upon their periodicity. Semi-regular variables are not included as they contain an unknown mixture of AGB stars and red supergiants. The sample of AGB stars from SIMBAD was obtained by querying all objects with types classified as C-stars (23,628), S-stars (1,514), AGB stars (4,459), OH/IR stars (1,265), and Mira-type variables (10,828). Without duplicate objects between the five types, there is a total of 39,348 AGB stars from SIMBAD.
 
 \subsection{AGB stars from optical time-domain surveys}
-A few sentences of introduction...
+Many of the identifications in the SIMBAD catalog are from spectroscopic studies, however many more AGB stars have been found through their characteristic optical periodicity. The \emph{Optical Gravitational Lens Experiment} (OGLE) and the \emph{MAssive Compacy Halo} (MACHO) survey have are two time-domain surveys that have captured and catalogued such variability.
+
 \subsubsection{MACHO}
+
 \subsubsection{OGLE-III}
 
 \subsection{Imaging and spectroscopic catalogs from SDSS}
@@ -31,8 +33,10 @@ A few sentences of introduction...
 \subsubsection{Extragalactic populations} 
 
 \subsection{Merged sample}
+Each AGB sample as well as the SDSS sources were matched separately to the ALLWISE data products via the {\tt GATOR} tool at the NASA/IPAC Infrared Science Archive\footnote{\url{http://irsa.ipac.caltech.edu/cgi-bin/Gator/nph-scan?mission=irsa&submit=Select&projshort=WISE}}. The accepted matching radius was 3". The matched sample was further reduced by enforcing the WISE 5$\sigma$ faint limits of [$W1/W2/W3/W4$] $<$ [$16.83/15.6/11.32/8.0$], saturation limits of [$W1/W2/W3/W4$] $>$ [2.0/1.5/-3.0/-4.0], signal-to-noise ratios greater than 3 in each WISE band. We constrain the possibility for a mismatched extragalactic IR source by asserting that the extended source flag $\le$ 1, corresponding either to a point source (flag = 0) or a source whose profile-fit photometry is goodness-of-fit is $>$ 3 in any WISE band but is not coincident with any extended sources from the 2MASS survey. We also require only one match to a 2MASS source within 3".
 
-How was it merged, which further cuts and why...
+{\color{red}{How was it merged, which further cuts and why...}}
+
 
 \subsection{Completeness and contamination of the initial \agb\ sample}
 
@@ -41,6 +45,7 @@ estimate completeness and contamination of color-selected samples. Here
 you need to summarize what do you believe completeness and contamination
 are for your initial sample constructed using SIMBAD and optical surveys.
 In particular, it is important to describe expected distance limits. 
+
 
 
 

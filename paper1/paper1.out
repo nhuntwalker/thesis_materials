@@ -1,7 +1,17 @@
 \BOOKMARK [1][-]{section.1}{Introduction}{}% 1
-\BOOKMARK [1][-]{section.2}{Data Sources and Reduction}{}% 2
-\BOOKMARK [2][-]{subsection.2.1}{Data Sources}{section.2}% 3
-\BOOKMARK [2][-]{subsection.2.2}{Data Reduction}{section.2}% 4
-\BOOKMARK [1][-]{section.3}{Object Selection Criteria}{}% 5
-\BOOKMARK [1][-]{section.4}{AGB Candidate Distribution}{}% 6
-\BOOKMARK [1][-]{section.5}{Conclusions}{}% 7
+\BOOKMARK [1][-]{section.2}{Input Catalogs and Data Preparation}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{WISE-2MASS catalog}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{AGB stars from SIMBAD database}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{AGB stars from optical time-domain surveys}{section.2}% 5
+\BOOKMARK [3][-]{subsubsection.2.3.1}{MACHO}{subsection.2.3}% 6
+\BOOKMARK [3][-]{subsubsection.2.3.2}{OGLE-III}{subsection.2.3}% 7
+\BOOKMARK [2][-]{subsection.2.4}{Imaging and spectroscopic catalogs from SDSS}{section.2}% 8
+\BOOKMARK [3][-]{subsubsection.2.4.1}{Galactic sources}{subsection.2.4}% 9
+\BOOKMARK [3][-]{subsubsection.2.4.2}{Extragalactic populations}{subsection.2.4}% 10
+\BOOKMARK [2][-]{subsection.2.5}{Merged sample}{section.2}% 11
+\BOOKMARK [2][-]{subsection.2.6}{Completeness and contamination of the initial AGB sample}{section.2}% 12
+\BOOKMARK [2][-]{subsection.2.7}{XXX old stuff from here to the end of this section: Data Sources}{section.2}% 13
+\BOOKMARK [2][-]{subsection.2.8}{Data Reduction}{section.2}% 14
+\BOOKMARK [1][-]{section.3}{Object Selection Criteria}{}% 15
+\BOOKMARK [1][-]{section.4}{AGB Candidate Distribution}{}% 16
+\BOOKMARK [1][-]{section.5}{Conclusions}{}% 17

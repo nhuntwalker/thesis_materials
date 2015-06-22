@@ -1,4 +1,4 @@
-\begin{thebibliography}{37}
+\begin{thebibliography}{36}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 
 \bibitem[{{Ahn} {et~al.}(2012){Ahn}, {Alexandroff}, {Allende Prieto},
@@ -85,14 +85,6 @@
 \bibitem[{{Iben} \& {Renzini}(1983)}]{1983ARA&A..21..271I}
 {Iben}, Jr., I., \& {Renzini}, A. 1983, \araa, 21, 271
 
-\bibitem[{{Ivezi{\'c}, Beers \& Juri\'{c}}(2012){Ivezi{\'c}}, {Beers}, {Juri\'{c}},
- }]{IBJ2012}{Ivezi{\'c}}, {\v Z}., {Beers}, {T.~C.} \& {Juri\'{c}}, {M.} 2012, ARA\&A, 50, 251
-
-\bibitem[{{Ishihara} {et~al.}(2011){Ishihara}, {Kaneda}, {Onaka}, {Ita},
-  {Matsuura}, \& {Matsunaga}}]{2011A&A...534A..79I}
-{Ishihara}, D., {Kaneda}, H., {Onaka}, T., {Ita}, Y., {Matsuura}, M., \&
-  {Matsunaga}, N. 2011, \aap, 534, A79
-
 \bibitem[{{Ivezi{\'c}} {et~al.}(2013){Ivezi{\'c}}, {Connolly}, {VanderPlas}, \&
   {Gray}}]{2013sdmm.book.....I}
 {Ivezi{\'c}}, {\.Z}., {Connolly}, A., {VanderPlas}, J., \& {Gray}, A. 2013,
@@ -118,6 +110,10 @@
   {Brinkmann}, {Schneider}, \& {York}}]{2008ApJ...684..287I}
 ---. 2008, \apj, 684, 287
 
+\bibitem[{{Jackson} {et~al.}(2002){Jackson}, {Ivezi{\'c}}, \&
+  {Knapp}}]{2002MNRAS.337..749J}
+{Jackson}, T., {Ivezi{\'c}}, {\v Z}., \& {Knapp}, G.~R. 2002, \mnras, 337, 749
+
 \bibitem[{{Juri{\'c}} {et~al.}(2008){Juri{\'c}}, {Ivezi{\'c}}, {Brooks},
   {Lupton}, {Schlegel}, {Finkbeiner}, {Padmanabhan}, {Bond}, {Sesar},
   {Rockosi}, {Knapp}, {Gunn}, {Sumi}, {Schneider}, {Barentine}, {Brewington},
@@ -129,9 +125,6 @@
   {Berlind}, {Bahcall}, {Brinkmann}, {Czarapata}, {Frieman}, {Kent},
   {Schneider}, \& {Szalay}}]{2010ApJ...710.1444K}
 {Kazin}, E.~A., {et~al.} 2010, \apj, 710, 1444
-
-\bibitem[{{Kroupa}(2001)}]{2001MNRAS.322..231K}
-{Kroupa}, P. 2001, \mnras, 322, 231
 
 \bibitem[{{Majewski}(1993)}]{1993ARA&A..31..575M}
 {Majewski}, S.~R. 1993, \araa, 31, 575
@@ -157,6 +150,14 @@
 {Olofsson}, H., {Gonz{\'a}lez Delgado}, D., {Kerschbaum}, F., \& {Sch{\"o}ier},
   F.~L. 2002, \aap, 391, 1053
 
+\bibitem[{{Skrutskie} {et~al.}(2006){Skrutskie}, {Cutri}, {Stiening},
+  {Weinberg}, {Schneider}, {Carpenter}, {Beichman}, {Capps}, {Chester},
+  {Elias}, {Huchra}, {Liebert}, {Lonsdale}, {Monet}, {Price}, {Seitzer},
+  {Jarrett}, {Kirkpatrick}, {Gizis}, {Howard}, {Evans}, {Fowler}, {Fullmer},
+  {Hurt}, {Light}, {Kopan}, {Marsh}, {McCallon}, {Tam}, {Van Dyk}, \&
+  {Wheelock}}]{2006AJ....131.1163S}
+{Skrutskie}, M.~F., {et~al.} 2006, \aj, 131, 1163
+
 \bibitem[{{Soszy{\'n}ski} {et~al.}(2009){Soszy{\'n}ski}, {Udalski},
   {Szyma{\'n}ski}, {Kubiak}, {Pietrzy{\~n}ski}, {Wyrzykowski}, {Szewczyk},
   {Ulaczyk}, \& {Poleski}}]{2009AcA....59..239S}
@@ -166,10 +167,6 @@
   {Szyma{\'n}ski}, {Kubiak}, {Pietrzy{\'n}ski}, {Wyrzykowski}, {Ulaczyk},
   {Poleski}, {Koz{\l}owski}, \& {Pietrukowicz}}]{2011AcA....61..217S}
 ---. 2011, \actaa, 61, 217
-
-\bibitem[{{Tu} \& {Wang}(2013)}]{2013RAA....13..323T}
-{Tu}, X., \& {Wang}, Z.-X. 2013, Research in Astronomy and Astrophysics, 13,
-  323
 
 \bibitem[{{Udalski} {et~al.}(2008){Udalski}, {Szymanski}, {Soszynski}, \&
   {Poleski}}]{2008AcA....58...69U}
