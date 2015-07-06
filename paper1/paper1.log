@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  22 JUN 2015 14:51
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  30 JUN 2015 16:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -380,71 +380,8 @@ LaTeX Info: Redefining \nameref on input line 59.
 \openout3 = `paper1.out'.
 
  (./paper1_abstract.tex) (./paper1_intro.tex
-
-Package natbib Warning: Citation `1980ApJS...44...73B' on page 1 undefined on i
-nput line 5.
-
-
-Package natbib Warning: Citation `1989ARA&A..27..555G' on page 1 undefined on i
-nput line 5.
-
-
-Package natbib Warning: Citation `1993ARA&A..31..575M' on page 1 undefined on i
-nput line 5.
-
-
-Package natbib Warning: Citation `2000AJ....120.1579Y' on page 1 undefined on i
-nput line 6.
-
-
-Package natbib Warning: Citation `2006AJ....131.1163S' on page 1 undefined on i
-nput line 7.
-
-
-Package natbib Warning: Citation `2008ApJ...673..864J' on page 1 undefined on i
-nput line 9.
-
-
-Package natbib Warning: Citation `2010ApJ...716....1B' on page 1 undefined on i
-nput line 9.
-
-
-Package natbib Warning: Citation `2008ApJ...684..287I' on page 1 undefined on i
-nput line 9.
-
-
-Package natbib Warning: Citation `2000AJ....120..963I' on page 1 undefined on i
-nput line 9.
-
-
-Package natbib Warning: Citation `2000ApJ...540..825Y' on page 1 undefined on i
-nput line 9.
-
-
-Package natbib Warning: Citation `2001ApJ...554L..33V' on page 1 undefined on i
-nput line 9.
-
-
-Package natbib Warning: Citation `2002ApJ...569..245N' on page 1 undefined on i
-nput line 9.
-
-
-Package natbib Warning: Citation `2003ApJ...599.1082M' on page 1 undefined on i
-nput line 9.
-
-
-Package natbib Warning: Citation `2006ApJ...642L.137B' on page 1 undefined on i
-nput line 9.
-
-
-Package natbib Warning: Citation `2006ApJ...651L..29G' on page 1 undefined on i
-nput line 9.
-
-
-Package natbib Warning: Citation `2006AJ....132..714V' on page 1 undefined on i
-nput line 9.
-
 LaTeX Font Info:    Try loading font information for U+lasy on input line 22.
+
 (/usr/local/texlive/2012/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
@@ -457,195 +394,74 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 22.
 
 (/usr/local/texlive/2012/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
-)
+) [1
 
-Package natbib Warning: Citation `1983ARA&A..21..271I' on page 1 undefined on i
-nput line 22.
+{/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) (./pap
+er1_data.tex
+[2] [3] <figs/ogle_2mass_pmag.png, id=195, 433.62pt x 433.62pt>
+File: figs/ogle_2mass_pmag.png Graphic file (type png)
 
+<use figs/ogle_2mass_pmag.png>
+Package pdftex.def Info: figs/ogle_2mass_pmag.png used on input line 35.
+(pdftex.def)             Requested size: 216.81pt x 216.80946pt.
 
-Package natbib Warning: Citation `2005ARA&A..43..435H' on page 1 undefined on i
-nput line 22.
+<figs/ogle_2mass_colcol.png, id=197, 433.62pt x 433.62pt>
+File: figs/ogle_2mass_colcol.png Graphic file (type png)
 
+<use figs/ogle_2mass_colcol.png>
+Package pdftex.def Info: figs/ogle_2mass_colcol.png used on input line 36.
+(pdftex.def)             Requested size: 216.81pt x 216.80946pt.
 
-Package natbib Warning: Citation `1983ARA&A..21..271I' on page 1 undefined on i
-nput line 22.
 
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-Package natbib Warning: Citation `2002A&A...391.1053O' on page 1 undefined on i
-nput line 23.
-
-
-Package natbib Warning: Citation `2005A&A...434..691M' on page 1 undefined on i
-nput line 23.
-
-
-Package natbib Warning: Citation `1985A&A...152L...1H' on page 1 undefined on i
-nput line 23.
-
-
-Package natbib Warning: Citation `2011AJ....142..103B' on page 1 undefined on i
-nput line 23.
-
-
-Package natbib Warning: Citation `1983ARA&A..21..271I' on page 1 undefined on i
-nput line 23.
-
-
-Package natbib Warning: Citation `2002MNRAS.337..749J' on page 1 undefined on i
-nput line 29.
-
-[1
-
-{/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-
-Package natbib Warning: Citation `2010AJ....140.1868W' on page 2 undefined on i
-nput line 32.
-
-
-Package natbib Warning: Citation `2012wise.rept....1C' on page 2 undefined on i
-nput line 32.
-
-
-LaTeX Warning: Reference `sec:data' on page 2 undefined on input line 37.
-
-
-LaTeX Warning: Reference `sec:criteria' on page 2 undefined on input line 38.
-
-
-LaTeX Warning: Reference `sec:distribution' on page 2 undefined on input line 4
-0.
-
-
-LaTeX Warning: Reference `sec:conclusions' on page 2 undefined on input line 41
-.
-
-) (./paper1_data.tex [2] [3]
-
-Package natbib Warning: Citation `2013wise.rept....1C' on page 4 undefined on i
-nput line 58.
-
-[4]
-
-Package natbib Warning: Citation `2008AcA....58...69U' on page 5 undefined on i
-nput line 60.
-
-
-Package natbib Warning: Citation `2009AcA....59..239S' on page 5 undefined on i
-nput line 60.
-
-
-Package natbib Warning: Citation `2011AcA....61..217S' on page 5 undefined on i
-nput line 60.
-
-
-Package natbib Warning: Citation `1997ApJ...482...89A' on page 5 undefined on i
-nput line 60.
-
-
-Package natbib Warning: Citation `2000A&AS..143....9W' on page 5 undefined on i
-nput line 60.
-
-
-Package natbib Warning: Citation `2009AcA....59..239S' on page 5 undefined on i
-nput line 62.
-
-
-Package natbib Warning: Citation `2011AcA....61..217S' on page 5 undefined on i
-nput line 62.
-
-
-Package natbib Warning: Citation `2008AcA....58...69U' on page 5 undefined on i
-nput line 62.
-
-
-Package natbib Warning: Citation `2008AJ....136.1242F' on page 5 undefined on i
-nput line 64.
-
-
-Package natbib Warning: Citation `2008AJ....136.1242F' on page 5 undefined on i
-nput line 64.
-
-
-LaTeX Warning: Reference `sec:reduction' on page 5 undefined on input line 66.
-
-
-Package natbib Warning: Citation `2005AJ....129.2562B' on page 5 undefined on i
-nput line 68.
-
-
-Package natbib Warning: Citation `2010ApJ...710.1444K' on page 5 undefined on i
-nput line 68.
-
-
-Package natbib Warning: Citation `2012ApJS..203...21A' on page 5 undefined on i
-nput line 68.
-
-[5]
-
-Package natbib Warning: Citation `2013wise.rept....1C' on page 6 undefined on i
-nput line 72.
-
-
-LaTeX Warning: Reference `tab:pop' on page 6 undefined on input line 74.
-
-
-LaTeX Warning: Reference `fig:distros' on page 6 undefined on input line 74.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 74--75
+[4] [5 <./figs/ogle_2mass_pmag.png> <./figs/ogle_2mass_colcol.png>] [6]
+Underfull \hbox (badness 10000) in paragraph at lines 84--85
 
  []
 
 
-LaTeX Warning: Reference `sec:reduction' on page 6 undefined on input line 136.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-
-
-Package natbib Warning: Citation `2008AJ....136.1242F' on page 6 undefined on i
-nput line 136.
-
-
-LaTeX Warning: Reference `sec:sources' on page 6 undefined on input line 136.
-
-<figs/agbs_contaminants_color_color1.pdf, id=59, 867.24pt x 289.08pt>
+<figs/agbs_contaminants_color_color1.pdf, id=263, 867.24pt x 289.08pt>
 File: figs/agbs_contaminants_color_color1.pdf Graphic file (type pdf)
 
 <use figs/agbs_contaminants_color_color1.pdf>
 Package pdftex.def Info: figs/agbs_contaminants_color_color1.pdf used on input 
-line 142.
+line 152.
 (pdftex.def)             Requested size: 505.89pt x 168.63252pt.
 
-<figs/agbs_contaminants_color_color2.pdf, id=60, 867.24pt x 289.08pt>
+<figs/agbs_contaminants_color_color2.pdf, id=264, 867.24pt x 289.08pt>
 File: figs/agbs_contaminants_color_color2.pdf Graphic file (type pdf)
 
 <use figs/agbs_contaminants_color_color2.pdf>
 Package pdftex.def Info: figs/agbs_contaminants_color_color2.pdf used on input 
-line 143.
+line 153.
 (pdftex.def)             Requested size: 505.89pt x 168.63252pt.
 
-<figs/agbs_contaminants_color_color3.pdf, id=61, 867.24pt x 289.08pt>
+<figs/agbs_contaminants_color_color3.pdf, id=265, 867.24pt x 289.08pt>
 File: figs/agbs_contaminants_color_color3.pdf Graphic file (type pdf)
 
 <use figs/agbs_contaminants_color_color3.pdf>
 Package pdftex.def Info: figs/agbs_contaminants_color_color3.pdf used on input 
-line 144.
+line 154.
 (pdftex.def)             Requested size: 505.89pt x 168.63252pt.
 
-Overfull \hbox (36.13501pt too wide) in paragraph at lines 142--145
+Overfull \hbox (36.13501pt too wide) in paragraph at lines 152--155
 [][]
  []
 
 
-Overfull \hbox (36.13501pt too wide) in paragraph at lines 142--145
+Overfull \hbox (36.13501pt too wide) in paragraph at lines 152--155
 []
  []
 
 
-Overfull \hbox (36.13501pt too wide) in paragraph at lines 142--145
+Overfull \hbox (36.13501pt too wide) in paragraph at lines 152--155
 [] 
  []
 
-) (./paper1_criteria.tex [6] [7 <./figs/agbs_contaminants_color_color1.pdf> <./
+) (./paper1_criteria.tex [7] [8 <./figs/agbs_contaminants_color_color1.pdf> <./
 figs/agbs_contaminants_color_color2.pdf
 
 pdfTeX warning: /usr/texbin/pdflatex (file ./figs/agbs_contaminants_color_color
@@ -656,42 +472,14 @@ pdfTeX warning: /usr/texbin/pdflatex (file ./figs/agbs_contaminants_color_color
 3.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
 
-LaTeX Warning: Reference `eq:criteria1' on page 8 undefined on input line 11.
+LaTeX Warning: Reference `eq:critera4' on page 9 undefined on input line 18.
 
-
-LaTeX Warning: Reference `eq:criteria2' on page 8 undefined on input line 11.
-
-
-LaTeX Warning: Reference `eq:criteria3' on page 8 undefined on input line 11.
-
-
-LaTeX Warning: Reference `eq:critera4' on page 8 undefined on input line 18.
-
-
-LaTeX Warning: Reference `eq:criteria5' on page 8 undefined on input line 18.
-
-
-LaTeX Warning: Reference `fig:completeness' on page 8 undefined on input line 2
-4.
-
-
-LaTeX Warning: Reference `eq:criteria1' on page 8 undefined on input line 24.
-
-
-LaTeX Warning: Reference `eq:criteria2' on page 8 undefined on input line 24.
-
-
-LaTeX Warning: Reference `eq:criteria3' on page 8 undefined on input line 24.
-
-
+[9]
 Overfull \hbox (42.47772pt too wide) in paragraph at lines 46--47
  [] 
  []
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<figs/completeness_map.pdf, id=976, 578.16pt x 325.215pt>
+<figs/completeness_map.pdf, id=1200, 578.16pt x 325.215pt>
 File: figs/completeness_map.pdf Graphic file (type pdf)
 
 <use figs/completeness_map.pdf>
@@ -705,50 +493,7 @@ Overfull \hbox (14.45378pt too wide) in paragraph at lines 52--53
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-
-Package natbib Warning: Citation `2013sdmm.book.....I' on page 8 undefined on i
-nput line 56.
-
-
-LaTeX Warning: Reference `fig:contamination' on page 8 undefined on input line 
-60.
-
-
-LaTeX Warning: Reference `fig:contamination' on page 8 undefined on input line 
-60.
-
-
-LaTeX Warning: Reference `tab:completeness' on page 8 undefined on input line 6
-0.
-
-[8]
-
-LaTeX Warning: Reference `eq:criteria1' on page 9 undefined on input line 62.
-
-
-LaTeX Warning: Reference `eq:criteria2' on page 9 undefined on input line 62.
-
-
-LaTeX Warning: Reference `eq:criteria3' on page 9 undefined on input line 62.
-
-
-LaTeX Warning: Reference `tab:completeness' on page 9 undefined on input line 6
-2.
-
-
-LaTeX Warning: Reference `eq:criteria1' on page 9 undefined on input line 62.
-
-
-LaTeX Warning: Reference `eq:criteria2' on page 9 undefined on input line 62.
-
-
-LaTeX Warning: Reference `eq:criteria3' on page 9 undefined on input line 62.
-
-
-LaTeX Warning: Reference `fig:sspp_histo' on page 9 undefined on input line 64.
-
-
-<figs/contamination_map.pdf, id=987, 578.16pt x 325.215pt>
+[10] <figs/contamination_map.pdf, id=1222, 578.16pt x 325.215pt>
 File: figs/contamination_map.pdf Graphic file (type pdf)
 
 <use figs/contamination_map.pdf>
@@ -760,13 +505,9 @@ Overfull \hbox (14.45378pt too wide) in paragraph at lines 67--68
  []
 
 
-LaTeX Warning: Reference `fig:completeness' on page 9 undefined on input line 6
-8.
-
-
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figs/contaminating_sspp_objects.pdf, id=988, 867.24pt x 289.08pt>
+<figs/contaminating_sspp_objects.pdf, id=1224, 867.24pt x 289.08pt>
 File: figs/contaminating_sspp_objects.pdf Graphic file (type pdf)
 
 <use figs/contaminating_sspp_objects.pdf>
@@ -774,7 +515,7 @@ Package pdftex.def Info: figs/contaminating_sspp_objects.pdf used on input line
  72.
 (pdftex.def)             Requested size: 484.20877pt x 161.4029pt.
 
-<figs/contaminating_sspp_objects_classes.pdf, id=989, 867.24pt x 289.08pt>
+<figs/contaminating_sspp_objects_classes.pdf, id=1225, 867.24pt x 289.08pt>
 File: figs/contaminating_sspp_objects_classes.pdf Graphic file (type pdf)
 
 <use figs/contaminating_sspp_objects_classes.pdf>
@@ -803,58 +544,41 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                \kern 1.8254pt
 (hyperref)                removed on input line 1.
 
-) (./paper1_conclusions.tex [9]) (./paper1.bbl [10 <./figs/completeness_map.pdf
->] [11 <./figs/contamination_map.pdf>] [12 <./figs/contaminating_sspp_objects.p
-df> <./figs/contaminating_sspp_objects_classes.pdf
+) (./paper1_conclusions.tex) (./paper1.bbl [11 <./figs/completeness_map.pdf>]
+[12 <./figs/contamination_map.pdf>] [13 <./figs/contaminating_sspp_objects.pdf>
+ <./figs/contaminating_sspp_objects_classes.pdf
 
 pdfTeX warning: /usr/texbin/pdflatex (file ./figs/contaminating_sspp_objects_cl
 asses.pdf): PDF inclusion: multiple pdfs with page group included in a single p
 age
->]pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.4
+>]pdfTeX warning (ext4): destination with the same identifier (name{Hfootnote.5
 }) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.233 \end{thebibliography}
                            )
-
-Package natbib Warning: There were undefined citations.
-
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 89.
-[13]
+ [14] [15]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 89.
- (./paper1.aux
-
-Package natbib Warning: Citation(s) may have changed.
-(natbib)                Rerun to get citations correct.
-
-)
+ (./paper1.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 89.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 89.
+Package rerunfilecheck Info: File `paper1.out' has not changed.
+(rerunfilecheck)             Checksum: 54F953F0668478CA5C49626D3F6F1008;1255.
 
-
-Package rerunfilecheck Warning: File `paper1.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `paper1.out':
-(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
-(rerunfilecheck)             After:  54F953F0668478CA5C49626D3F6F1008;1255.
 
 LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 89.
  ) 
 Here is how much of TeX's memory you used:
- 6914 strings out of 493488
- 97889 string characters out of 3141326
- 197168 words of memory out of 3000000
- 10028 multiletter control sequences out of 15000+200000
+ 6950 strings out of 493488
+ 98508 string characters out of 3141326
+ 212771 words of memory out of 3000000
+ 10057 multiletter control sequences out of 15000+200000
  12602 words of font info for 52 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 34i,9n,29p,1680b,443s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 34i,9n,29p,1695b,450s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
@@ -868,10 +592,10 @@ live/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texli
 ve/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texliv
 e/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive
 /2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on paper1.pdf (13 pages, 813566 bytes).
+Output written on paper1.pdf (15 pages, 965717 bytes).
 PDF statistics:
- 2147 PDF objects out of 2487 (max. 8388607)
- 279 compressed objects within 3 object streams
- 84 named destinations out of 1000 (max. 500000)
- 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2344 PDF objects out of 2487 (max. 8388607)
+ 468 compressed objects within 5 object streams
+ 88 named destinations out of 1000 (max. 500000)
+ 182 words of extra memory for PDF output out of 10000 (max. 10000000)
 

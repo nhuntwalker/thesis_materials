@@ -12,20 +12,30 @@ estimates. In order to assess what infrared populations could contribute to
 contamination of selected \agb\ candidates, we utilize a number of SDSS
 catalogs, also described below. We conclude this section by describing
 how these catalogs auxiliary catalogs were  positionally merged with the 
-WISE-2MASS catalog. 
+WISE-2MASS catalog and summarize the object counts before and after quality control in Table 1 {\color{red} [reference for table 1 when made]}. 
 
 \subsection{WISE-2MASS catalog}
 Write a few sentences about the WISE survey...
 
 \subsection{AGB stars from SIMBAD database}
-The SIMBAD database\footnote{\url{http://simbad.u-strasbg.fr/simbad/}} is comprised of basic data, classifications, and measurements for all types of astronomical objects from a variety of surveys.  Classifications are hierarchical, and are classified with increasing specificity based on the available data, though each star can have multiple classifications. AGB stars have subcategories of C-stars ([C/O] $>$ 1) and S-stars ([C/O] $\sim$ 1). Where subclassification is unclear, the main classification remains as AGB star. OH/IR stars are subsets of peculiar stars that specifically show strong OH maser emission and strong IR emission, identifying them clearly as AGB stars.  Mira-type variables are a subset of variable stars, and are classified based upon their periodicity. Semi-regular variables are not included as they contain an unknown mixture of AGB stars and red supergiants. The sample of AGB stars from SIMBAD was obtained by querying all objects with types classified as C-stars (23,628), S-stars (1,514), AGB stars (4,459), OH/IR stars (1,265), and Mira-type variables (10,828). Without duplicate objects between the five types, there is a total of 39,348 AGB stars from SIMBAD.
+The SIMBAD database\footnote{\url{http://simbad.u-strasbg.fr/simbad/}} is comprised of astrometry, classifications, and photometry for all types of astronomical objects from a variety of surveys.  Classifications are hierarchical, and are classified with increasing specificity based on the available data, though each star can have multiple classifications. AGB stars have subcategories of C-stars ([C/O] $>$ 1) and S-stars ([C/O] $\sim$ 1). Where subclassification is unclear, the main classification remains as AGB star. OH/IR stars are subsets of peculiar stars that specifically show strong OH maser emission and strong IR emission, identifying them clearly as AGB stars.  Mira-type variables are a subset of variable stars, and are classified based upon their periodicity. Semi-regular variables are not included as they contain an unknown mixture of AGB stars and red supergiants. The sample of AGB stars from SIMBAD was obtained by querying all objects with types classified as C-stars (23,628), S-stars (1,514), AGB stars (4,459), OH/IR stars (1,265), and Mira-type variables (10,828). Without duplicate objects between the five types, there is a total of 39,348 AGB stars from SIMBAD.
 
 \subsection{AGB stars from optical time-domain surveys}
-Many of the identifications in the SIMBAD catalog are from spectroscopic studies, however many more AGB stars have been found through their characteristic optical periodicity. The \emph{Optical Gravitational Lens Experiment} (OGLE) and the \emph{MAssive Compacy Halo} (MACHO) survey have are two time-domain surveys that have captured and catalogued such variability.
+Many of the identifications in the SIMBAD catalog are from spectroscopic studies, however many more AGB stars have been found through their characteristic optical periodicity. The \emph{Optical Gravitational Lens Experiment} (OGLE) and the \emph{MAssive Compacy Halo Objects} (MACHO) survey are two time-domain microlensing surveys that have captured and catalogued such variability. In Sections~\ref{sec:macho} and \ref{sec:ogle} we disc.uss the origins of the data from each source and how they were then used for this study
 
-\subsubsection{MACHO}
+\subsubsection{MACHO}\label{sec:macho}
+The \emph{MACHO} project {\color{red} [cite Alcock et al. 1992 and 1997]} was a two-color optical microlensing survey searching for massive compact halo objects in the Milky Way bulge and the Magellanic Clouds. As a consequence of the time-domain survey, the \emph{MACHO} catalog contains 8 years of observations for several million stars, many of which were observed to be variable. 
+%The {\tt VIZIER}\footnote{\url{http://vizier.u-strasbg.fr/viz-bin/VizieR?-source=II\%2F247}} service contains variable stars in the Magellanic Clouds, of which many are expected to be AGB stars. 
+Using light curves of these variable stars, {\color{red}[cite Fraser 2008]} identified a population of {\color{red}[some number]} LPVs in the Magellanic Clouds and Miky Way bulge, with observations in Kron-Cousins $V$ and $R$ with matches to objects from 2MASS. {\color{red}[some small tidbit about the reduction procedure]}.
 
-\subsubsection{OGLE-III}
+\subsubsection{OGLE-III}\label{sec:ogle}
+The \emph{OGLE-III} Catalog of Variable Stars (CVS) \citep{2008AcA....58...69U,2009AcA....59..239S,2011AcA....61..217S} is a subset of the overall \emph{OGLE-III} experiment, containing roughly 10 years of observations in the $V$- and $I$-bands of over 120,000 variable stars in  $V$- and $I$-magnitudes. These observations saturated at $I = 12.5$ mag, and are limited at the faint end for $I = 20.5$ mag {\color{red}[cite Zebrun, Soszynski, and Wozniak 2001]}. The \emph{OGLE-III} CVS contains a database of LPVs classified on object type (\emph{OGLE} Small Amplitude Red Giant [OSARG], Mira, Semi-regular Variable star [SRV]), evolutionary status (AGB, RGB), and spectral type (O-rich, C-rich), with observations focused on the Magellanic Clouds. There are also obserations of the Milky Way bulge, however those objects are not yet accessible through the \emph{OGLE-III} CVS site\footnote{\url{http://ogledb.astrouw.edu.pl/~ogle/CVS/}}. Object type is based on variability, with OSARGs having $10<P<100$ days and $I$-band amplitudes $0.005 < A < 0.13$ mag {\color{red} [cite Soszynski et al 2004a]}. Miras and SRVs were separated using $I$-band amplitude and position in period-NIR magnitude space {\color{red} [cite Soszynski et al 2005]}. The evolutionary status was determined via color-magnitude diagrams, where AGBs are separated by being above the TRGB in color-NIR magnitude space {\color{red}[cite Kiss \& Bedding 2003]}. The spectral type is based on divisions in color-color space and period-luminosity space, where O-rich and C-rich stars show clear separation (Figure~\ref{fig:oglepmag}). From OGLE we have 52,976 objects.
+
+\begin{figure}[h]
+\includegraphics[width=3in]{figs/ogle_2mass_pmag.png}
+\includegraphics[width=3in]{figs/ogle_2mass_colcol.png}
+\caption{Words \label{fig:oglepmag}}
+\end{figure}
 
 \subsection{Imaging and spectroscopic catalogs from SDSS}
 A few sentences of introduction...
