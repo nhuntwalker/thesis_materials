@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  30 JUN 2015 16:11
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  15 JUL 2015 12:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -398,70 +398,70 @@ File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 
 {/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) (./pap
 er1_data.tex
-[2] [3] <figs/ogle_2mass_pmag.png, id=195, 433.62pt x 433.62pt>
-File: figs/ogle_2mass_pmag.png Graphic file (type png)
+[2] [3]
+Missing character: There is no Ñ in font cmr10!
+Missing character: There is no Ñ in font cmr10!
+ [4]
+<figs/ogle_2mass_period_mag_threeplot.png, id=239, 433.62pt x 433.62pt>
+File: figs/ogle_2mass_period_mag_threeplot.png Graphic file (type png)
 
-<use figs/ogle_2mass_pmag.png>
-Package pdftex.def Info: figs/ogle_2mass_pmag.png used on input line 35.
+<use figs/ogle_2mass_period_mag_threeplot.png>
+Package pdftex.def Info: figs/ogle_2mass_period_mag_threeplot.png used on input
+ line 45.
 (pdftex.def)             Requested size: 216.81pt x 216.80946pt.
 
-<figs/ogle_2mass_colcol.png, id=197, 433.62pt x 433.62pt>
-File: figs/ogle_2mass_colcol.png Graphic file (type png)
+<figs/ogle_2mass_color_color_threeplot.png, id=241, 433.62pt x 433.62pt>
+File: figs/ogle_2mass_color_color_threeplot.png Graphic file (type png)
 
-<use figs/ogle_2mass_colcol.png>
-Package pdftex.def Info: figs/ogle_2mass_colcol.png used on input line 36.
+<use figs/ogle_2mass_color_color_threeplot.png>
+Package pdftex.def Info: figs/ogle_2mass_color_color_threeplot.png used on inpu
+t line 46.
 (pdftex.def)             Requested size: 216.81pt x 216.80946pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[4] [5 <./figs/ogle_2mass_pmag.png> <./figs/ogle_2mass_colcol.png>] [6]
-Underfull \hbox (badness 10000) in paragraph at lines 84--85
+ [5 <./figs/ogle_2mass_period_mag_threeplot.png> <./figs/ogle_2mass_color_color
+_threeplot.png>] [6] [7]
+Underfull \hbox (badness 10000) in paragraph at lines 94--95
 
  []
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<figs/agbs_contaminants_color_color1.pdf, id=263, 867.24pt x 289.08pt>
+<figs/agbs_contaminants_color_color1.pdf, id=307, 867.24pt x 289.08pt>
 File: figs/agbs_contaminants_color_color1.pdf Graphic file (type pdf)
 
 <use figs/agbs_contaminants_color_color1.pdf>
 Package pdftex.def Info: figs/agbs_contaminants_color_color1.pdf used on input 
-line 152.
+line 162.
 (pdftex.def)             Requested size: 505.89pt x 168.63252pt.
 
-<figs/agbs_contaminants_color_color2.pdf, id=264, 867.24pt x 289.08pt>
+<figs/agbs_contaminants_color_color2.pdf, id=308, 867.24pt x 289.08pt>
 File: figs/agbs_contaminants_color_color2.pdf Graphic file (type pdf)
 
 <use figs/agbs_contaminants_color_color2.pdf>
 Package pdftex.def Info: figs/agbs_contaminants_color_color2.pdf used on input 
-line 153.
+line 163.
 (pdftex.def)             Requested size: 505.89pt x 168.63252pt.
 
-<figs/agbs_contaminants_color_color3.pdf, id=265, 867.24pt x 289.08pt>
+<figs/agbs_contaminants_color_color3.pdf, id=309, 867.24pt x 289.08pt>
 File: figs/agbs_contaminants_color_color3.pdf Graphic file (type pdf)
 
 <use figs/agbs_contaminants_color_color3.pdf>
 Package pdftex.def Info: figs/agbs_contaminants_color_color3.pdf used on input 
-line 154.
+line 164.
 (pdftex.def)             Requested size: 505.89pt x 168.63252pt.
 
-Overfull \hbox (36.13501pt too wide) in paragraph at lines 152--155
+Overfull \hbox (36.13501pt too wide) in paragraph at lines 162--165
 [][]
  []
 
 
-Overfull \hbox (36.13501pt too wide) in paragraph at lines 152--155
+Overfull \hbox (36.13501pt too wide) in paragraph at lines 162--165
 []
  []
 
 
-Overfull \hbox (36.13501pt too wide) in paragraph at lines 152--155
+Overfull \hbox (36.13501pt too wide) in paragraph at lines 162--165
 [] 
  []
 
-) (./paper1_criteria.tex [7] [8 <./figs/agbs_contaminants_color_color1.pdf> <./
+) (./paper1_criteria.tex [8] [9 <./figs/agbs_contaminants_color_color1.pdf> <./
 figs/agbs_contaminants_color_color2.pdf
 
 pdfTeX warning: /usr/texbin/pdflatex (file ./figs/agbs_contaminants_color_color
@@ -472,14 +472,17 @@ pdfTeX warning: /usr/texbin/pdflatex (file ./figs/agbs_contaminants_color_color
 3.pdf): PDF inclusion: multiple pdfs with page group included in a single page
 >]
 
-LaTeX Warning: Reference `eq:critera4' on page 9 undefined on input line 18.
+LaTeX Warning: Reference `eq:critera4' on page 10 undefined on input line 18.
 
-[9]
+
 Overfull \hbox (42.47772pt too wide) in paragraph at lines 46--47
  [] 
  []
 
-<figs/completeness_map.pdf, id=1200, 578.16pt x 325.215pt>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<figs/completeness_map.pdf, id=1227, 578.16pt x 325.215pt>
 File: figs/completeness_map.pdf Graphic file (type pdf)
 
 <use figs/completeness_map.pdf>
@@ -493,7 +496,7 @@ Overfull \hbox (14.45378pt too wide) in paragraph at lines 52--53
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[10] <figs/contamination_map.pdf, id=1222, 578.16pt x 325.215pt>
+[10] <figs/contamination_map.pdf, id=1254, 578.16pt x 325.215pt>
 File: figs/contamination_map.pdf Graphic file (type pdf)
 
 <use figs/contamination_map.pdf>
@@ -507,7 +510,7 @@ Overfull \hbox (14.45378pt too wide) in paragraph at lines 67--68
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figs/contaminating_sspp_objects.pdf, id=1224, 867.24pt x 289.08pt>
+<figs/contaminating_sspp_objects.pdf, id=1256, 867.24pt x 289.08pt>
 File: figs/contaminating_sspp_objects.pdf Graphic file (type pdf)
 
 <use figs/contaminating_sspp_objects.pdf>
@@ -515,7 +518,7 @@ Package pdftex.def Info: figs/contaminating_sspp_objects.pdf used on input line
  72.
 (pdftex.def)             Requested size: 484.20877pt x 161.4029pt.
 
-<figs/contaminating_sspp_objects_classes.pdf, id=1225, 867.24pt x 289.08pt>
+<figs/contaminating_sspp_objects_classes.pdf, id=1257, 867.24pt x 289.08pt>
 File: figs/contaminating_sspp_objects_classes.pdf Graphic file (type pdf)
 
 <use figs/contaminating_sspp_objects_classes.pdf>
@@ -544,9 +547,9 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                \kern 1.8254pt
 (hyperref)                removed on input line 1.
 
-) (./paper1_conclusions.tex) (./paper1.bbl [11 <./figs/completeness_map.pdf>]
-[12 <./figs/contamination_map.pdf>] [13 <./figs/contaminating_sspp_objects.pdf>
- <./figs/contaminating_sspp_objects_classes.pdf
+) (./paper1_conclusions.tex) (./paper1.bbl [11] [12 <./figs/completeness_map.pd
+f>] [13 <./figs/contamination_map.pdf>] [14 <./figs/contaminating_sspp_objects.
+pdf> <./figs/contaminating_sspp_objects_classes.pdf
 
 pdfTeX warning: /usr/texbin/pdflatex (file ./figs/contaminating_sspp_objects_cl
 asses.pdf): PDF inclusion: multiple pdfs with page group included in a single p
@@ -555,10 +558,10 @@ age
 }) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.233 \end{thebibliography}
+l.273 \end{thebibliography}
                            )
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 89.
- [14] [15]
+ [15]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 89.
  (./paper1.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 89.
@@ -572,13 +575,13 @@ LaTeX Warning: There were undefined references.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 89.
  ) 
 Here is how much of TeX's memory you used:
- 6950 strings out of 493488
- 98508 string characters out of 3141326
- 212771 words of memory out of 3000000
- 10057 multiletter control sequences out of 15000+200000
+ 6967 strings out of 493488
+ 99035 string characters out of 3141326
+ 216688 words of memory out of 3000000
+ 10065 multiletter control sequences out of 15000+200000
  12602 words of font info for 52 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 34i,9n,29p,1695b,450s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 34i,11n,29p,1682b,472s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
@@ -592,10 +595,10 @@ live/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texli
 ve/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texliv
 e/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive
 /2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on paper1.pdf (15 pages, 965717 bytes).
+Output written on paper1.pdf (15 pages, 921200 bytes).
 PDF statistics:
- 2344 PDF objects out of 2487 (max. 8388607)
- 468 compressed objects within 5 object streams
- 88 named destinations out of 1000 (max. 500000)
+ 2381 PDF objects out of 2487 (max. 8388607)
+ 504 compressed objects within 6 object streams
+ 97 named destinations out of 1000 (max. 500000)
  182 words of extra memory for PDF output out of 10000 (max. 10000000)
 
