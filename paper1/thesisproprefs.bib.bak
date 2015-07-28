@@ -937,6 +937,32 @@
   timestamp = {2015.03.30}
 }
 
+@ARTICLE{2001AJ....122.2267E,
+  author = {{Eisenstein}, D.~J. and {Annis}, J. and {Gunn}, J.~E. and {Szalay},
+	A.~S. and {Connolly}, A.~J. and {Nichol}, R.~C. and {Bahcall}, N.~A.
+	and {Bernardi}, M. and {Burles}, S. and {Castander}, F.~J. and {Fukugita},
+	M. and {Hogg}, D.~W. and {Ivezi{\'c}}, {\v Z}. and {Knapp}, G.~R.
+	and {Lupton}, R.~H. and {Narayanan}, V. and {Postman}, M. and {Reichart},
+	D.~E. and {Richmond}, M. and {Schneider}, D.~P. and {Schlegel}, D.~J.
+	and {Strauss}, M.~A. and {SubbaRao}, M. and {Tucker}, D.~L. and {Vanden
+	Berk}, D. and {Vogeley}, M.~S. and {Weinberg}, D.~H. and {Yanny},
+	B.},
+  title = {{Spectroscopic Target Selection for the Sloan Digital Sky Survey:
+	The Luminous Red Galaxy Sample}},
+  journal = {\aj},
+  year = {2001},
+  volume = {122},
+  pages = {2267-2280},
+  month = nov,
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2001AJ....122.2267E},
+  doi = {10.1086/323717},
+  eprint = {astro-ph/0108153},
+  keywords = {Cosmology: Observations, Galaxies: Clusters: General, Galaxies: Distances
+	and Redshifts, Galaxies: Elliptical and Lenticular, cD, Cosmology:
+	Large-Scale Structure of Universe, Surveys}
+}
+
 @ARTICLE{2001MNRAS.327..403E,
   author = {{Elitzur}, M. and {Ivezi{\'c}}, {\v Z}.},
   title = {{Dusty winds - I. Self-similar solutions}},
@@ -2369,6 +2395,30 @@
   timestamp = {2014.05.06}
 }
 
+@ARTICLE{2011ApJS..196....4R,
+  author = {{Rebull}, L.~M. and {Koenig}, X.~P. and {Padgett}, D.~L. and {Terebey},
+	S. and {McGehee}, P.~M. and {Hillenbrand}, L.~A. and {Knapp}, G.~R.
+	and {Leisawitz}, D. and {Liu}, W. and {Noriega-Crespo}, A. and {Ressler},
+	M.~E. and {Stapelfeldt}, K.~R. and {Fajardo-Acosta}, S. and {Mainzer},
+	A.},
+  title = {{New Young Star Candidates in the Taurus-Auriga Region as Selected
+	from the Wide-Field Infrared Survey Explorer}},
+  journal = {\apjs},
+  year = {2011},
+  volume = {196},
+  pages = {4},
+  month = sep,
+  eid = {4},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/2011ApJS..196....4R},
+  archiveprefix = {arXiv},
+  doi = {10.1088/0067-0049/196/1/4},
+  eprint = {1106.5080},
+  keywords = {circumstellar matter, infrared: stars, stars: formation, stars: pre-main
+	sequence},
+  primaryclass = {astro-ph.SR}
+}
+
 @ARTICLE{2006MNRAS.367.1329R,
   author = {{Reddy}, B.~E. and {Lambert}, D.~L. and {Allende Prieto}, C. },
   title = {{Elemental abundance survey of the Galactic thick disc}},
@@ -3008,6 +3058,26 @@
   doi = {10.1071/AS00018},
   keywords = {CLOSE BINARIES, MAGELLANIC CLOUDS, AGB STARS, VARIABLE STARS, binaries:
 	close, Magellanic Clouds, stars: AGB and post-AGB, stars: variables}
+}
+
+@INPROCEEDINGS{1999IAUS..191..151W,
+  author = {{Wood}, P.~R. and {Alcock}, C. and {Allsman}, R.~A. and {Alves},
+	D. and {Axelrod}, T.~S. and {Becker}, A.~C. and {Bennett}, D.~P.
+	and {Cook}, K.~H. and {Drake}, A.~J. and {Freeman}, K.~C. and {Griest},
+	K. and {King}, L.~J. and {Lehner}, M.~J. and {Marshall}, S.~L. and
+	{Minniti}, D. and {Peterson}, B.~A. and {Pratt}, M.~R. and {Quinn},
+	P.~J. and {Stubbs}, C.~W. and {Sutherland}, W. and {Tomaney}, A.
+	and {Vandehei}, T. and {Welch}, D.~L.},
+  title = {{MACHO observations of LMC red giants: Mira and semi-regular pulsators,
+	and contact and semi-detached binaries}},
+  booktitle = {Asymptotic Giant Branch Stars},
+  year = {1999},
+  editor = {{Le Bertre}, T. and {Lebre}, A. and {Waelkens}, C.},
+  volume = {191},
+  series = {IAU Symposium},
+  pages = {151},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System},
+  adsurl = {http://adsabs.harvard.edu/abs/1999IAUS..191..151W}
 }
 
 @ARTICLE{2010AJ....140.1868W,

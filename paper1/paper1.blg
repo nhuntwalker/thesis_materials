@@ -3,48 +3,52 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: paper1.aux
 The style file: apj.bst
 Database file #1: thesisproprefs.bib
+Repeated entry---line 3333 of file thesisproprefs.bib
+ : @article{2009PASP..121..213C
+ :                             ,
+I'm skipping whatever remains of this entry
 Warning--empty institution in 2012wise.rept....1C
 Warning--empty institution in 2013wise.rept....1C
 Warning--empty publisher in 2013sdmm.book.....I
-You've used 44 entries,
+You've used 47 entries,
             2994 wiz_defined-function locations,
-            943 strings with 26043 characters,
-and the built_in function-call counts, 40135 in all, are:
-= -- 3079
-> -- 4499
-< -- 10
-+ -- 1792
-- -- 1685
-* -- 4208
-:= -- 7616
-add.period$ -- 44
-call.type$ -- 44
-change.case$ -- 966
-chr.to.int$ -- 44
-cite$ -- 47
-duplicate$ -- 844
-empty$ -- 1209
-format.name$ -- 1818
-if$ -- 7190
+            958 strings with 30105 characters,
+and the built_in function-call counts, 46892 in all, are:
+= -- 3548
+> -- 5470
+< -- 7
++ -- 2179
+- -- 2065
+* -- 5022
+:= -- 8930
+add.period$ -- 47
+call.type$ -- 47
+change.case$ -- 1165
+chr.to.int$ -- 47
+cite$ -- 50
+duplicate$ -- 894
+empty$ -- 1278
+format.name$ -- 2207
+if$ -- 8321
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 39
-newline$ -- 136
-num.names$ -- 178
-pop$ -- 1045
+missing$ -- 44
+newline$ -- 145
+num.names$ -- 189
+pop$ -- 1244
 preamble$ -- 1
-purify$ -- 964
+purify$ -- 1163
 quote$ -- 0
-skip$ -- 744
+skip$ -- 784
 stack$ -- 0
-substring$ -- 898
-swap$ -- 18
-text.length$ -- 2
+substring$ -- 953
+swap$ -- 8
+text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 393
+type$ -- 420
 warning$ -- 3
-while$ -- 175
+while$ -- 186
 width$ -- 0
-write$ -- 442
-(There were 3 warnings)
+write$ -- 472
+(There was 1 error message)

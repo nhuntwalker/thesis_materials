@@ -1,4 +1,4 @@
-\begin{thebibliography}{44}
+\begin{thebibliography}{47}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 
 \bibitem[{{Ahn} {et~al.}(2012){Ahn}, {Alexandroff}, {Allende Prieto},
@@ -12,13 +12,6 @@
   \& {Welch}}]{1997ApJ...482...89A}
 {Alcock}, C., {et~al.} 1997, \apj, 482, 89
 
-\bibitem[{{Alcock} {et~al.}(1992){Alcock}, {Axelrod}, {Bennett}, {Cook},
-  {Park}, {Griest}, {Perlmutter}, {Stubbs}, {Freeman}, \&
-  {Peterson}}]{1992ASPC...34..193A}
-{Alcock}, C., {et~al.} 1992, in Astronomical Socety of the Pacific Conference
-  Series, Vol.~34, Robotic Telescopes in the 1990s, ed. A.~V. {Filippenko},
-  193--202
-
 \bibitem[{{Bahcall} \& {Soneira}(1980)}]{1980ApJS...44...73B}
 {Bahcall}, J.~N., \& {Soneira}, R.~M. 1980, \apjs, 44, 73
 
@@ -27,6 +20,12 @@
   {Walton}, {Wilkinson}, {Cole}, {Yanny}, {Rockosi}, {Beers}, {Bell},
   {Brinkmann}, {Ivezi{\'c}}, \& {Lupton}}]{2006ApJ...642L.137B}
 {Belokurov}, V., {et~al.} 2006, \apjl, 642, L137
+
+\bibitem[{{Benjamin} {et~al.}(2003){Benjamin}, {Churchwell}, {Babler}, {Bania},
+  {Clemens}, {Cohen}, {Dickey}, {Indebetouw}, {Jackson}, {Kobulnicky},
+  {Lazarian}, {Marston}, {Mathis}, {Meade}, {Seager}, {Stolovy}, {Watson},
+  {Whitney}, {Wolff}, \& {Wolfire}}]{2003PASP..115..953B}
+{Benjamin}, R.~A., {et~al.} 2003, \pasp, 115, 953
 
 \bibitem[{{Blanton} {et~al.}(2005){Blanton}, {Schlegel}, {Strauss},
   {Brinkmann}, {Finkbeiner}, {Fukugita}, {Gunn}, {Hogg}, {Ivezi{\'c}}, {Knapp},
@@ -51,6 +50,11 @@
   {Sewi{\l}o}, {Shiao}, \& {Whitney}}]{2011AJ....142..103B}
 {Boyer}, M.~L., {et~al.} 2011, \aj, 142, 103
 
+\bibitem[{{Churchwell} {et~al.}(2009){Churchwell}, {Babler}, {Meade},
+  {Whitney}, {Benjamin}, {Indebetouw}, {Cyganowski}, {Robitaille}, {Povich},
+  {Watson}, \& {Bracker}}]{2009PASP..121..213C}
+{Churchwell}, E., {et~al.} 2009, \pasp, 121, 213
+
 \bibitem[{{Cutri} {et~al.}(2012){Cutri}, {Wright}, {Conrow}, {Bauer},
   {Benford}, {Brandenburg}, {Dailey}, {Eisenhardt}, {Evans}, {Fajardo-Acosta},
   {Fowler}, {Gelino}, {Grillmair}, {Harbut}, {Hoffman}, {Jarrett},
@@ -70,8 +74,13 @@
 ---. 2013, {Explanatory Supplement to the AllWISE Data Release Products}, Tech.
   rep.
 
-\bibitem[{{Fraser}(2008)}]{2008PhDT.........6F}
-{Fraser}, O.~J. 2008, PhD thesis, University of Washington
+\bibitem[{{Eisenstein} {et~al.}(2001){Eisenstein}, {Annis}, {Gunn}, {Szalay},
+  {Connolly}, {Nichol}, {Bahcall}, {Bernardi}, {Burles}, {Castander},
+  {Fukugita}, {Hogg}, {Ivezi{\'c}}, {Knapp}, {Lupton}, {Narayanan}, {Postman},
+  {Reichart}, {Richmond}, {Schneider}, {Schlegel}, {Strauss}, {SubbaRao},
+  {Tucker}, {Vanden Berk}, {Vogeley}, {Weinberg}, \&
+  {Yanny}}]{2001AJ....122.2267E}
+{Eisenstein}, D.~J., {et~al.} 2001, \aj, 122, 2267
 
 \bibitem[{{Fraser} {et~al.}(2008){Fraser}, {Hawley}, \&
   {Cook}}]{2008AJ....136.1242F}
@@ -136,9 +145,6 @@
   {Schneider}, \& {Szalay}}]{2010ApJ...710.1444K}
 {Kazin}, E.~A., {et~al.} 2010, \apj, 710, 1444
 
-\bibitem[{{Kiss} \& {Bedding}(2003)}]{2003MNRAS.343L..79K}
-{Kiss}, L.~L., \& {Bedding}, T.~R. 2003, \mnras, 343, L79
-
 \bibitem[{{Majewski}(1993)}]{1993ARA&A..31..575M}
 {Majewski}, S.~R. 1993, \araa, 31, 575
 
@@ -162,6 +168,39 @@
   {Kerschbaum}, \& {Sch{\"o}ier}}]{2002A&A...391.1053O}
 {Olofsson}, H., {Gonz{\'a}lez Delgado}, D., {Kerschbaum}, F., \& {Sch{\"o}ier},
   F.~L. 2002, \aap, 391, 1053
+
+\bibitem[{{Rebull} {et~al.}(2011){Rebull}, {Koenig}, {Padgett}, {Terebey},
+  {McGehee}, {Hillenbrand}, {Knapp}, {Leisawitz}, {Liu}, {Noriega-Crespo},
+  {Ressler}, {Stapelfeldt}, {Fajardo-Acosta}, \&
+  {Mainzer}}]{2011ApJS..196....4R}
+{Rebull}, L.~M., {et~al.} 2011, \apjs, 196, 4
+
+\bibitem[{{Saito} {et~al.}(2012){Saito}, {Hempel}, {Minniti}, {Lucas},
+  {Rejkuba}, {Toledo}, {Gonzalez}, {Alonso-Garc{\'{\i}}a}, {Irwin},
+  {Gonzalez-Solares}, {Hodgkin}, {Lewis}, {Cross}, {Ivanov}, {Kerins},
+  {Emerson}, {Soto}, {Am{\^o}res}, {Gurovich}, {D{\'e}k{\'a}ny}, {Angeloni},
+  {Beamin}, {Catelan}, {Padilla}, {Zoccali}, {Pietrukowicz}, {Moni Bidin},
+  {Mauro}, {Geisler}, {Folkes}, {Sale}, {Borissova}, {Kurtev}, {Ahumada},
+  {Alonso}, {Adamson}, {Arias}, {Bandyopadhyay}, {Barb{\'a}}, {Barbuy},
+  {Baume}, {Bedin}, {Bellini}, {Benjamin}, {Bica}, {Bonatto}, {Bronfman},
+  {Carraro}, {Chen{\`e}}, {Clari{\'a}}, {Clarke}, {Contreras}, {Corvill{\'o}n},
+  {de Grijs}, {Dias}, {Drew}, {Fari{\~n}a}, {Feinstein},
+  {Fern{\'a}ndez-Laj{\'u}s}, {Gamen}, {Gieren}, {Goldman},
+  {Gonz{\'a}lez-Fern{\'a}ndez}, {Grand}, {Gunthardt}, {Hambly}, {Hanson},
+  {He{\l}miniak}, {Hoare}, {Huckvale}, {Jord{\'a}n}, {Kinemuchi}, {Longmore},
+  {L{\'o}pez-Corredoira}, {Maccarone}, {Majaess}, {Mart{\'{\i}}n}, {Masetti},
+  {Mennickent}, {Mirabel}, {Monaco}, {Morelli}, {Motta}, {Palma}, {Parisi},
+  {Parker}, {Pe{\~n}aloza}, {Pietrzy{\'n}ski}, {Pignata}, {Popescu}, {Read},
+  {Rojas}, {Roman-Lopes}, {Ruiz}, {Saviane}, {Schreiber}, {Schr{\"o}der},
+  {Sharma}, {Smith}, {Sodr{\'e}}, {Stead}, {Stephens}, {Tamura}, {Tappert},
+  {Thompson}, {Valenti}, {Vanzi}, {Walton}, {Weidmann}, \&
+  {Zijlstra}}]{2012A&A...537A.107S}
+{Saito}, R.~K., {et~al.} 2012, \aap, 537, A107
+
+\bibitem[{{Sesar} {et~al.}(2010){Sesar}, {Ivezi{\'c}}, {Grammer}, {Morgan},
+  {Becker}, {Juri{\'c}}, {De Lee}, {Annis}, {Beers}, {Fan}, {Lupton}, {Gunn},
+  {Knapp}, {Jiang}, {Jester}, {Johnston}, \& {Lampeitl}}]{2010ApJ...708..717S}
+{Sesar}, B., {et~al.} 2010, \apj, 708, 717
 
 \bibitem[{{Skrutskie} {et~al.}(2006){Skrutskie}, {Cutri}, {Stiening},
   {Weinberg}, {Schneider}, {Carpenter}, {Beichman}, {Capps}, {Chester},
