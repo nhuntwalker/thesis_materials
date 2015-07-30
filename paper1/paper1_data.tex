@@ -72,6 +72,22 @@ Subselected for the study of Baryon Acoustic Oscillations by \cite{2010ApJ...710
 \subsection{WISE+2MASS Young Stellar Objects}
 Young Stellar Objects (YSOs) represent a unique contaminant in our search for dust-enshrouded AGB stars. Similar to AGBs, YSOs are luminous sources surrounded by warm, dusty environments. That warm dust can then glow brightly in the MIR, easily contaminating AGB color-color space. To characterize and later eliminate this potential contaminant we select as our base sample 290 YSOs from \cite{2011ApJS..196....4R}, a survey searching for YSOs in the Taurus Molecular Cloud using data from WISE and ancillary data from SDSS and 2MASS. As YSO tend to be embedded within high-extinction clouds of this sort, we expect that the dust-reddened NIR/MIR emission from these objects should match to similar objects in the LMC when we later calibrate our color-color criteria.
 
+\subsection{WISE+2MASS Stellar Locus}
+We begin to extract the stellar locus from ALLWISE by centering on the LMC ($276.5^\circ < l < 284^\circ$, $-38.2^\circ < b < -28^\circ$) by necessitating that every object have 1 2MASS association, [$W1/W2/W3$] signal-to-noise $>$ 1, detections in 2MASS J, H, and K,  and confusion \& contamination flags set to 0 for [$W1/W2/W3$]. We then adapt the color-color criteria from \cite{2014MNRAS.440.3430D}. Their locus focuses on stars with effective temperatures $3540 < T_\text{eff} < 7200 K$. We fit their criteria for $J-K_s$ vs $W1 - W2$ within 3$\sigma$ of the locus with degree-3 polynomials. The resulting fit for the 3$\sigma$ stellar locus follows:
+
+\begin{eqnarray}
+(J - K_s) & < & 61.67(W1-W2)^3 - 17.88(W1-W2)^2 + 1.68(W1-W2) + 0.99\\
+(J - K_s) & > & 40.19(W1-W2)^3 - 9.78(W1-W2)^2 + 0.54(W1-W2) + 0.64
+\end{eqnarray}
+
+The resulting locus sample, as well as the original \cite{2014MNRAS.440.3430D} bounds and locus are showin in Fig~\ref{fig:locus}. Note that our sample goes beyond the limits of the stated locus.
+
+\begin{figure}[h]
+\includegraphics[width=3in]{figs/lmc_locus_3sig.png}
+\caption{The WISE-2MASS stellar locus. \label{fig:locus}}
+\end{figure}
+
+
 \subsection{Merged sample}
 Each AGB sample as well as the SDSS sources were matched separately to the ALLWISE data products via the {\tt GATOR} tool at the NASA/IPAC Infrared Science Archive\footnote{\url{http://irsa.ipac.caltech.edu/cgi-bin/Gator/nph-scan?mission=irsa&submit=Select&projshort=WISE}}. The accepted matching radius was 3". The matched sample was further reduced by enforcing the WISE 5$\sigma$ faint limits of [$W1/W2/W3/W4$] $<$ [$16.83/15.6/11.32/8.0$], saturation limits of [$W1/W2/W3/W4$] $>$ [2.0/1.5/-3.0/-4.0], signal-to-noise ratios greater than 3 in each WISE band. We constrain the possibility for a mismatched extragalactic IR source by asserting that the extended source flag $\le$ 1, corresponding either to a point source (flag = 0) or a source whose profile-fit photometry is goodness-of-fit is $>$ 3 in any WISE band but is not coincident with any extended sources from the 2MASS survey. We also require only one match to a 2MASS source within 3".
 

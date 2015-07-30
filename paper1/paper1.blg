@@ -10,45 +10,45 @@ I'm skipping whatever remains of this entry
 Warning--empty institution in 2012wise.rept....1C
 Warning--empty institution in 2013wise.rept....1C
 Warning--empty publisher in 2013sdmm.book.....I
-You've used 47 entries,
+You've used 48 entries,
             2994 wiz_defined-function locations,
-            958 strings with 30105 characters,
-and the built_in function-call counts, 46892 in all, are:
-= -- 3548
-> -- 5470
+            965 strings with 30405 characters,
+and the built_in function-call counts, 47529 in all, are:
+= -- 3601
+> -- 5526
 < -- 7
-+ -- 2179
-- -- 2065
-* -- 5022
-:= -- 8930
-add.period$ -- 47
-call.type$ -- 47
-change.case$ -- 1165
-chr.to.int$ -- 47
-cite$ -- 50
-duplicate$ -- 894
-empty$ -- 1278
-format.name$ -- 2207
-if$ -- 8321
++ -- 2201
+- -- 2085
+* -- 5082
+:= -- 9050
+add.period$ -- 48
+call.type$ -- 48
+change.case$ -- 1178
+chr.to.int$ -- 48
+cite$ -- 51
+duplicate$ -- 913
+empty$ -- 1306
+format.name$ -- 2230
+if$ -- 8441
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 44
-newline$ -- 145
-num.names$ -- 189
-pop$ -- 1244
+missing$ -- 45
+newline$ -- 148
+num.names$ -- 193
+pop$ -- 1258
 preamble$ -- 1
-purify$ -- 1163
+purify$ -- 1176
 quote$ -- 0
-skip$ -- 784
+skip$ -- 801
 stack$ -- 0
-substring$ -- 953
+substring$ -- 977
 swap$ -- 8
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 420
+type$ -- 429
 warning$ -- 3
-while$ -- 186
+while$ -- 190
 width$ -- 0
-write$ -- 472
+write$ -- 482
 (There was 1 error message)
