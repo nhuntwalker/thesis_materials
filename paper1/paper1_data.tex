@@ -21,7 +21,7 @@ the SDSS unofficial Luminous Red Galaxy sample,
 and young stellar objects obtained identified in \wise\ data, also described below. 
 We conclude this section by describing how these auxiliary catalogs were positionally merged
 with the WISE-2MASS catalog, and summarize the object counts before and after quality control in 
-Table 1 {\color{red} [reference for table 1 when made]}. 
+Tables~\ref{tab:reductions} \& 2. 
 
 \subsection{WISE-2MASS catalog}
 In this study, we rely heavily on data from the \allwise\, extension of the \wise\, survey, combining data from the initial All-Sky Data Release, the 3-band cryogenic data release, and the NEOWISE post-cryogenic data release \citep{2013wise.rept....1C}. The initial \wise\,All-Sky Data Release observed the sky between January and August 2010, observing the sky 1.2 times with four detectors, operating at 3.4, 4.6, 12, and 22$\mu$m. Hereon we refer to \allwise\, photometric bands at [3.4$\mu$m/4.6$\mu$m/12$\mu$m/22$\mu$m] as [$W1/W2/W3/W4$]. The positions of objects in the \wise\, catalog were calibrated to the \twomass\, point source catalog. 
@@ -39,9 +39,9 @@ The 3-band cryogenic data release contains data from $W1$, 2, and 3, and surveye
 %Using Fourier decomposition, \cite{2008PhDT.........6F} identified and classified a population of 46,832 LPVs in the LMC, 3,943 in the SMC {\color{red}[check this]} , and {\color{red}[some other number]} in the Milky Way Bulge with matches to 2MASS. We note that due to high scatter and uncertainty of Galactic objects in period-magnitude space, we only take sequences 1 and 2 (Mira-type variables) for the Milky Way Bulge sample. Each object carries observations in Kron-Cousins $V$ \& $R$, and 2MASS photometry. AGB stars are separated from RGBs by identifying the tip of the RGB ($K_s < 12.3$ in the LMC and $K_s < 12.8$ in the SMC). {\color{red}[some small tidbit about the reduction procedure]}. 
 
 \subsection{AGB stars from the OGLE-III Catalog of Variable Stars}\label{sec:ogle}
-The \emph{OGLE-III} Catalog of Variable Stars (CVS) \citep{2008AcA....58...69U,2009AcA....59..239S,2011AcA....61..217S} is a subset of the overall \emph{OGLE-III} experiment, containing roughly 10 years of observations in the $V$- and $I$-bands of over 120,000 variable stars. With high-precision photometry \citep[$~0.001$ mag][]{2007AcA....57..201S}, these observations saturate at $I = 12.5$ mag, and are limited at the faint end at $I = 20.5$ mag \citep{2001AcA....51..303Z}. 
+The OGLE-III Catalog of Variable Stars (CVS) \citep{2008AcA....58...69U,2009AcA....59..239S,2011AcA....61..217S} is a subset of the overall OGLE-III experiment, containing roughly 10 years of observations in the $V$- and $I$-bands of over 120,000 variable stars. With high-precision photometry \citep[$~0.001$ mag][]{2007AcA....57..201S}, these observations saturate at $I = 12.5$ mag, and are limited at the faint end at $I = 20.5$ mag \citep{2001AcA....51..303Z}. 
 
-The \emph{OGLE-III} CVS is accessible through an online database\footnote{\url{http://ogledb.astrouw.edu.pl/~ogle/CVS/}}, with LPVs classified by object type, evolutionary status, and spectral type. Object type is based chiefly on variability and luminosity. \emph{OGLE} Small Amplitude Red Giants (hereon OSARGs) are weakly-variable ($0.005 < A_I < 0.13$ mag), with relatively short periods \citep[$10 < P < 100$ days;][]{2004AcA....54..129S}. Additionally, because these objects are multiperiodic, OSARGs are selected using their period ratios and their distances from established period-luminosity (log $_{10} P-L$) sequences from \cite{1999IAUS..191..151W}. For more detail in their selection, see \cite{2007AcA....57..201S}. Mira variables and Semi-Regular Variables (hereon SRVs) are identified using $I$-band amplitudes and $P-W_I$, where $W_I$ is the reddening-free Wesenheit index \citep{2005AcA....55..331S}:
+The OGLE-III CVS is accessible through an online database\footnote{\url{http://ogledb.astrouw.edu.pl/~ogle/CVS/}}, with LPVs classified by object type, evolutionary status, and spectral type. Object type is based chiefly on variability and luminosity. OGLE Small Amplitude Red Giants (hereon OSARGs) are weakly-variable ($0.005 < A_I < 0.13$ mag), with relatively short periods \citep[$10 < P < 100$ days;][]{2004AcA....54..129S}. Additionally, because these objects are multiperiodic, OSARGs are selected using their period ratios and their distances from established period-luminosity (log $_{10} P-L$) sequences from \cite{1999IAUS..191..151W}. For more detail in their selection, see \cite{2007AcA....57..201S}. Mira variables and Semi-Regular Variables (hereon SRVs) are identified using $I$-band amplitudes and $P-W_I$, where $W_I$ is the reddening-free Wesenheit index \citep{2005AcA....55..331S}:
 \begin{eqnarray}
 W_I &=& I - 1.55(V-I)
 \end{eqnarray}
@@ -50,7 +50,7 @@ As red giant branch stars (hereon RGBs) can contaminate the same log$_{10} P-L$ 
 
 For individual log$_{10} P-L$ sequences, spectral type (O-rich or C-rich) is easily seen as separations in log$_{10} P-L$ space as well as visible-NIR color-color space. The initial classifications are based on spectroscopically-observed stars and were extended more generally to log$_{10} P-L$ and visible-NIR color-color criteria \citep{2005AcA....55..331S, 2007AcA....57..201S}. This clear separation can be seen in Figure~\ref{fig:oglepmag}.
 
-From the initial \emph{OGLE-III} sample of 52,976 LPVs, we retain 49,547 after matching to ALLWISE within 3" and ensuring only 1 match to \emph{2MASS}. The $I$-band median of \emph{OGLE-III} LPVs is $\approx14.68$ mag with a standard deviation of 0.72 mag. Out of the entire sample only 13 objects (Miras) fall beyond the 20.5 mag faint limit, and 41 beyond the saturation limit. As such, we expect this to effectively represent the complete sample of oscillating AGB stars in the LMC.
+From the initial OGLE-III sample of 52,976 LPVs, we retain 43,209 after matching to ALLWISE within 3", and ensuring only 1 match to 2MASS as well as all objects needing to be in the LMC. The $I$-band median of OGLE-III LPVs is $\approx14.68$ mag with a standard deviation of 0.72 mag. Out of the entire sample only 13 objects (Miras) fall beyond the 20.5 mag faint limit, and 41 beyond the saturation limit. As such, we expect this to effectively represent the complete sample of oscillating AGB stars in the LMC.
 
 \begin{figure}[h]
 \includegraphics[width=3in]{figs/ogle_2mass_period_mag_threeplot.png}
@@ -64,13 +64,13 @@ SDSS is a multi-year survey of roughly 25\% of the sky collecting both photometr
 \subsubsection{The NYU Value-added Galaxy Catalog}
 In order to cull the full set of SDSS spectrophotometry and produce an easily-referenced extragalactic catalog for investigating galaxy formation and evolution, the NYU Value-added Galaxy Catalog \citep[NYU-VAGC;][]{2005AJ....129.2562B} was created as of SDSS data-release 7 (DR7). 
 
-The NYU-VAGC contains matches between SDSS spectrophotometry and the following catalogs: the FIRST radio survey, the 2MASS Point Source Catalog, the 2MASS Extended Source Catalog, the Two-degree Field Galaxy Redshift Survey, the IRAS Point Source Catalog Redshift Survey, and Reference Catalog 3 (RC3.9b). As a consequence, the NYU-VAGC retains SDSS optical photometry in addition to spectral classifications (QSO, galaxy, star) and subclassifications (AGN, starforming galaxy, M3 star, etc.) for 2,506,741 objects across 10,417 square degrees of the SDSS footprint. Main and secondary classifications are made by comparing measured optical spectra to the SDSS spectral library. See \cite{2005AJ....129.2562B} for the full set of reduction and inclusion criteria. This catalog is available via an online data repository\footnote{\url{http://sdss.physics.nyu.edu/vagc/}}, along with a full description of the data and other subsamples not used in this study.
+The NYU-VAGC contains matches between SDSS spectrophotometry and the following catalogs: the FIRST radio survey, the 2MASS Point Source Catalog, the 2MASS Extended Source Catalog, the Two-degree Field Galaxy Redshift Survey, the IRAS Point Source Catalog Redshift Survey, and Reference Catalog 3 (RC3.9b). As a consequence, the NYU-VAGC retains SDSS optical photometry in addition to spectral classifications (QSO, galaxy, star) and subclassifications (AGN, starforming galaxy, starburst galaxy, etc.) for 441,707 objects across 10,417 square degrees of the SDSS footprint. Main and secondary classifications are made by comparing measured optical spectra to the SDSS spectral library. See \cite{2005AJ....129.2562B} for the full set of reduction and inclusion criteria. This catalog is available via an online data repository\footnote{\url{http://sdss.physics.nyu.edu/vagc/}}, along with a full description of the data and other subsamples not used in this study. The populations for each species (QSO, AGN, starforming galaxy (SF), starburst galaxy (SB)) are found in Table~\ref{tab:reductions}.
 
 \subsubsection{The Unofficial Luminous Red Galaxy Sample}
 Subselected for the study of Baryon Acoustic Oscillations by \cite{2010ApJ...710.1444K}, the Luminous Red Galaxy sample \citep[LRGs;][]{2001AJ....122.2267E} is also sourced from SDSS DR7. LRGs contaminate the color-color space of AGB stars due to the severe redshift of their intrinsically-bright optical fluxes. We obtain the unofficial LRG sample from the data repository\footnote{\url{http://cosmo.nyu.edu/~eak306/SDSS-LRG.html}} of \cite{2010ApJ...710.1444K}. The initial sample is volume-limited, containing 105,631 objects spanning a redshift range of $0.16 < z < 0.47$.
 
 \subsection{WISE+2MASS Young Stellar Objects}
-Young Stellar Objects (YSOs) represent a unique contaminant in our search for dust-enshrouded AGB stars. Similar to AGBs, YSOs are luminous sources surrounded by warm, dusty environments. That warm dust can then glow brightly in the MIR, easily contaminating AGB color-color space. To characterize and later eliminate this potential contaminant we select as our base sample 290 YSOs from \cite{2011ApJS..196....4R}, a survey searching for YSOs in the Taurus Molecular Cloud using data from WISE and ancillary data from SDSS and 2MASS. As YSO tend to be embedded within high-extinction clouds of this sort, we expect that the dust-reddened NIR/MIR emission from these objects should match to similar objects in the LMC when we later calibrate our color-color criteria.
+Young Stellar Objects (YSOs) represent a unique contaminant in our search for dust-enshrouded AGB stars. Similar to AGBs, YSOs are luminous sources surrounded by warm, dusty environments. That warm dust can then glow brightly in the MIR, easily contaminating AGB color-color space. To characterize and later eliminate this potential contaminant we select as our base sample 290 YSOs from \cite{2011ApJS..196....4R}, a survey searching for YSOs in the Taurus Molecular Cloud using data from WISE, ancillary data from SDSS and 2MASS, and covering {\color{red} some number} deg$^2$. As YSO tend to be embedded within high-extinction clouds of this sort, we expect that the dust-reddened NIR/MIR emission from these objects should match to similar objects in the LMC when we later calibrate our color-color criteria.
 
 \subsection{WISE+2MASS Stellar Locus}
 We begin to extract the stellar locus from ALLWISE by centering on the LMC ($276.5^\circ < l < 284^\circ$, $-38.2^\circ < b < -28^\circ$) by necessitating that every object have 1 2MASS association, [$W1/W2/W3$] signal-to-noise $>$ 1, detections in 2MASS J, H, and K,  and confusion \& contamination flags set to 0 for [$W1/W2/W3$]. We then adapt the color-color criteria from \cite{2014MNRAS.440.3430D}. Their locus focuses on stars with effective temperatures $3540 < T_\text{eff} < 7200 K$. We fit their criteria for $J-K_s$ vs $W1 - W2$ within 3$\sigma$ of the locus with degree-3 polynomials. The resulting fit for the 3$\sigma$ stellar locus follows:
@@ -84,23 +84,70 @@ The resulting locus sample, as well as the original \cite{2014MNRAS.440.3430D} b
 
 \begin{figure}[h]
 \includegraphics[width=3in]{figs/lmc_locus_3sig.png}
-\caption{The WISE-2MASS stellar locus. \label{fig:locus}}
+\caption{The WISE-2MASS stellar locus. (\emph{black dots}) objects from the stellar locus in the direction of the LMC. (\emph{blue line}) WISE-2MASS color-color stellar locus derived from \cite{2014MNRAS.440.3430D}. (\emph{red line}) 3$\sigma$ boundaries for WISE-2MASS color-color locus. \label{fig:locus}}
 \end{figure}
 
 
-\subsection{Merged sample}
-Each AGB sample as well as the SDSS sources were matched separately to the ALLWISE data products via the {\tt GATOR} tool at the NASA/IPAC Infrared Science Archive\footnote{\url{http://irsa.ipac.caltech.edu/cgi-bin/Gator/nph-scan?mission=irsa&submit=Select&projshort=WISE}}. The accepted matching radius was 3". The matched sample was further reduced by enforcing the WISE 5$\sigma$ faint limits of [$W1/W2/W3/W4$] $<$ [$16.83/15.6/11.32/8.0$], saturation limits of [$W1/W2/W3/W4$] $>$ [2.0/1.5/-3.0/-4.0], signal-to-noise ratios greater than 3 in each WISE band. We constrain the possibility for a mismatched extragalactic IR source by asserting that the extended source flag $\le$ 1, corresponding either to a point source (flag = 0) or a source whose profile-fit photometry is goodness-of-fit is $>$ 3 in any WISE band but is not coincident with any extended sources from the 2MASS survey. We also require only one match to a 2MASS source within 3".
+\subsection{Merged Samples}
+The OGLE-III AGB sample, as well as the SDSS and YSO samples, were matched to the ALLWISE data products via the {\tt GATOR} tool at the NASA/IPAC Infrared Science Archive\footnote{\url{http://irsa.ipac.caltech.edu/cgi-bin/Gator/nph-scan?mission=irsa&submit=Select&projshort=WISE}}. The accepted matching radius was 3" execept in the case of YSOs, which were limited to 1". YSO objects were obtained from the VIZIER service already possessing WISE observations, so we were able to accept a smaller matching radius as we only sought the extra 2MASS information.
 
-{\color{red}{How was it merged, which further cuts and why...}}
+The final OGLE-2MASS-WISE AGB sample is produced from the obejct sample in section~\ref{sec:ogle}. We apply the point source saturation limits of [$W1/W2/W3/K_S$] $<$ [$2.0/1.5/-3.0/8.5$]. We also enforce, in order, the 5$\sigma$ faint limits for [$W1/W2/W3/K_S$]  $<$ [$16.83/15.6/11.32/15.5$]. The WISE point source saturation and 5$\sigma$ faint limits can be found in \cite{2012wise.rept....1C}. The 2MASS faint and saturation limits are found in \cite{2006AJ....131.1163S}. We also enforce [$W1/W2/W3$] SNR $> 3$, and contamination \& confusion flags ({\tt cc\_flag}) set to 0 in each of those bands. The VAGC, LRG, and YSO samples are filtered through the same criteria. Note that we deliberately neglect $W4$ because, after applying the 5$\sigma$ faint limits as well as {\tt cc\_flag}=0, our sample is too heavily reduced. The resulting populations from each reduction step can be found in Table~\ref{tab:reductions}.
+
+\begin{table}[h]
+	\begin{center}
+	
+	\scalebox{0.85}{
+%		\begin{tabular}{l r r r r r r r r r r}
+%		\hline\hline
+%		Population & Original & WISE match &  [$W1-3/K_S$] sat & [$W1-2$] fnt & [$W1-3$] fnt & [$W-3/K_S$] fnt & [$W-3$] SNR $> 3$ \\ 
+%		\hline
+%		OGLE-2MASS & 46,385 & 43,209& 43,201 & 43,200 & 19,358 & 19,358 & 18,995 \\
+%		VAGC-QSO & 122,550 & 6,902 & 6,900 & 6,891& 6,728 & 5,283 & 5,279\\
+%		VAGC-AGN & 19,184 & 3,098 & 3,098 & 3,098 & 3,005 & 2,878 & 2,876\\
+%		VAGC-SF & 232,845 & 36,539 & 36,538 & 36,537 & 35,678 & 34,299 & 34,285\\
+%		VAGC-SB & 67,128 & 10,359 & 10,358 & 10,358 & 10,105 & 9,676 & 9,673\\
+%		DR7-LRGs & 105,631& 75,543 & 75,527 & 75,527 & 1,184 & 1,167 & 1,079\\
+%		YSOs & 290 & 274 & 214 & 214 & 214 & 213 & 213\\
+%		WISE-2MASS Locus & - & 25,254 & 25,156 & 24,382 & 3,154 & 3,070 & 3,056\\
+		\begin{tabular}{l r r r r r r r r r r}
+		\hline\hline
+		Population & OGLE & QSO & AGN & SF & SB & LRGs & YSOs & Locus & \textbf{Total} \\ 
+		\hline
+		Original & 46,385 & 122,550 & 19,184 & 232,845 & 67,128 & 105,631 & 290 & 25,254 & $\mathbf{619,267}$ \\
+		WISE match & 43,209 & 6,902 & 3,098 & 36,539 & 10,359 & 75,543 & 274 & 25,254 & $\mathbf{201,178}$ \\
+		$W1$-3, $K_S$ saturation limit& 43,201 & 6,900 & 3,098 & 36,538 & 10,358 & 75,527 & 214 & 25,156 & $\mathbf{200,992}$ \\
+		 $W1$-2 faint limit & 43,200 & 6,891 & 3,098 & 36,537 & 10,358 & 75,527 & 214 & 24,382 & $\mathbf{200,207}$  \\
+		 $W1$-3 faint limit & 19,358 & 6,728 & 3,005 & 35,678 & 10,105 & 1,184 & 214 & 3,154 & $\mathbf{79,426}$  \\
+		 $W1$-3, $K_S$ faint limit & 19,358 & 5,283 & 2,878 & 34,299 & 9,676 & 1,167 & 213 & 3,070 & $\mathbf{75,944}$ \\
+		 $W1$-3 SNR $> 3$ & 18,995 & 5,279 & 2,876 & 34,285 & 9,673 & 1,079 & 213 & 3,056 & $\mathbf{75,456}$\\
+		\hline\hline
+		\end{tabular}}    
+	\caption{Sample populations with respect to each reduction step. \label{tab:reductions}}
+	\end{center}
+	
+\end{table}
 
 
-\subsection{Completeness and contamination of the initial \agb\ sample}
+\subsection{Completeness and Contamination of the Initial \agb\ Sample}
+Sample completeness $\eta$ is defined as
+\begin{eqnarray*}
+\eta &=& \frac{N - n_\text{missed}}{N}
+\end{eqnarray*}
+where $N$ is the total number of objects in the sample, and $n_\text{missed}$ is the number of objects outside of the applied boundaries. \cite{2013sdmm.book.....I} defines sample contamination as
+\begin{eqnarray*}
+\epsilon &=& \frac{n_\text{spurious}}{n_\text{selected}}.
+\end{eqnarray*}
+where $n_\text{spurious}$ is the number of spurious sources and $n_\text{selected} = N + n_\text{spurious}$. Our goal is to get the lowest AGB sample (~1\% contamination) while still retaining a large number of AGB stars.
 
-In the next section you are using the \agb\ sample from this section to 
+The difficulty with determining contamination is that none of the contaminant sample, save for the locus stars,  falls within the region of the LMC. However, knowing that there is essentially a uniform distribution of extragalactic sources on the sky, we take the number density of objects in the SDSS footprint and scale it up by the area centered on the LMC. This should provide a reasonable estimate for the number of sources that we would find within the region of the LMC, and by consequence estimate our final contamination levels.
+
+
+
+{\color{red} In the next section you are using the \agb\ sample from this section to 
 estimate completeness and contamination of color-selected samples. Here
 you need to summarize what do you believe completeness and contamination
 are for your initial sample constructed using SIMBAD and optical surveys.
-In particular, it is important to describe expected distance limits. 
+In particular, it is important to describe expected distance limits. }
 
 
 

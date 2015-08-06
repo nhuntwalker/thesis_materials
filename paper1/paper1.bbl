@@ -1,4 +1,4 @@
-\begin{thebibliography}{48}
+\begin{thebibliography}{49}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 
 \bibitem[{{Ahn} {et~al.}(2012){Ahn}, {Alexandroff}, {Allende Prieto},
@@ -26,6 +26,14 @@
   {Lazarian}, {Marston}, {Mathis}, {Meade}, {Seager}, {Stolovy}, {Watson},
   {Whitney}, {Wolff}, \& {Wolfire}}]{2003PASP..115..953B}
 {Benjamin}, R.~A., {et~al.} 2003, \pasp, 115, 953
+
+\bibitem[{{Berry} {et~al.}(2012){Berry}, {Ivezi{\'c}}, {Sesar}, {Juri{\'c}},
+  {Schlafly}, {Bellovary}, {Finkbeiner}, {Vrbanec}, {Beers}, {Brooks},
+  {Schneider}, {Gibson}, {Kimball}, {Jones}, {Yoachim}, {Krughoff}, {Connolly},
+  {Loebman}, {Bond}, {Schlegel}, {Dalcanton}, {Yanny}, {Majewski}, {Knapp},
+  {Gunn}, {Allyn Smith}, {Fukugita}, {Kent}, {Barentine}, {Krzesinski}, \&
+  {Long}}]{2012ApJ...757..166B}
+{Berry}, M., {et~al.} 2012, \apj, 757, 166
 
 \bibitem[{{Blanton} {et~al.}(2005){Blanton}, {Schlegel}, {Strauss},
   {Brinkmann}, {Finkbeiner}, {Fukugita}, {Gunn}, {Hogg}, {Ivezi{\'c}}, {Knapp},
