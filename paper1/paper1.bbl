@@ -1,4 +1,4 @@
-\begin{thebibliography}{49}
+\begin{thebibliography}{50}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 
 \bibitem[{{Ahn} {et~al.}(2012){Ahn}, {Alexandroff}, {Allende Prieto},
@@ -157,6 +157,10 @@
   {Berlind}, {Bahcall}, {Brinkmann}, {Czarapata}, {Frieman}, {Kent},
   {Schneider}, \& {Szalay}}]{2010ApJ...710.1444K}
 {Kazin}, E.~A., {et~al.} 2010, \apj, 710, 1444
+
+\bibitem[{{Knauer} {et~al.}(2001){Knauer}, {Ivezi{\'c}}, \&
+  {Knapp}}]{2001ApJ...552..787K}
+{Knauer}, T.~G., {Ivezi{\'c}}, {\v Z}., \& {Knapp}, G.~R. 2001, \apj, 552, 787
 
 \bibitem[{{Majewski}(1993)}]{1993ARA&A..31..575M}
 {Majewski}, S.~R. 1993, \araa, 31, 575
