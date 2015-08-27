@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  10 AUG 2015 15:01
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  27 AUG 2015 13:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -399,30 +399,30 @@ File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 {/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) (./pap
 er1_data.tex
 [2] [3]
-<figs/ogle_2mass_period_mag_threeplot.png, id=246, 433.62pt x 433.62pt>
+<figs/ogle_2mass_period_mag_threeplot.png, id=240, 433.62pt x 433.62pt>
 File: figs/ogle_2mass_period_mag_threeplot.png Graphic file (type png)
 
 <use figs/ogle_2mass_period_mag_threeplot.png>
 Package pdftex.def Info: figs/ogle_2mass_period_mag_threeplot.png used on input
- line 57.
+ line 47.
 (pdftex.def)             Requested size: 216.81pt x 216.80946pt.
 
-<figs/ogle_2mass_color_color_threeplot.png, id=248, 433.62pt x 433.62pt>
+<figs/ogle_2mass_color_color_threeplot.png, id=242, 433.62pt x 433.62pt>
 File: figs/ogle_2mass_color_color_threeplot.png Graphic file (type png)
 
 <use figs/ogle_2mass_color_color_threeplot.png>
 Package pdftex.def Info: figs/ogle_2mass_color_color_threeplot.png used on inpu
-t line 58.
+t line 48.
 (pdftex.def)             Requested size: 216.81pt x 216.80946pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figs/ogle_2mass_wise_miras.pdf, id=249, 433.62pt x 433.62pt>
+<figs/ogle_2mass_wise_miras.pdf, id=243, 433.62pt x 433.62pt>
 File: figs/ogle_2mass_wise_miras.pdf Graphic file (type pdf)
 
 <use figs/ogle_2mass_wise_miras.pdf>
-Package pdftex.def Info: figs/ogle_2mass_wise_miras.pdf used on input line 63.
+Package pdftex.def Info: figs/ogle_2mass_wise_miras.pdf used on input line 53.
 (pdftex.def)             Requested size: 216.81pt x 216.80946pt.
 
 
@@ -430,75 +430,101 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 [4] [5 <./figs/ogle_2mass_period_mag_threeplot.png> <./figs/ogle_2mass_color_co
 lor_threeplot.png>]
-<figs/contaminant_color_color_distr.pdf, id=286, 722.7pt x 289.08pt>
+<figs/contaminant_color_color_distr.pdf, id=280, 722.7pt x 289.08pt>
 File: figs/contaminant_color_color_distr.pdf Graphic file (type pdf)
 
 <use figs/contaminant_color_color_distr.pdf>
 Package pdftex.def Info: figs/contaminant_color_color_distr.pdf used on input l
-ine 79.
+ine 69.
 (pdftex.def)             Requested size: 433.62pt x 173.44933pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Overfull \hbox (2.28183pt too wide) in paragraph at lines 84--85
+Overfull \hbox (2.28183pt too wide) in paragraph at lines 74--75
 []\OT1/cmr/m/n/10.95 Young Stel-lar Ob-jects (YSOs) rep-re-sent a unique con-ta
 m-i-nant in our search for dust-enshrouded
  []
 
 [6 <./figs/ogle_2mass_wise_miras.pdf>]
-<figs/lmc_locus_3sig.png, id=327, 289.08pt x 289.08pt>
+<figs/lmc_locus_3sig.png, id=321, 289.08pt x 289.08pt>
 File: figs/lmc_locus_3sig.png Graphic file (type png)
 
 <use figs/lmc_locus_3sig.png>
-Package pdftex.def Info: figs/lmc_locus_3sig.png used on input line 97.
+Package pdftex.def Info: figs/lmc_locus_3sig.png used on input line 87.
 (pdftex.def)             Requested size: 216.81pt x 216.80946pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[7 <./figs/contaminant_color_color_distr.pdf>]
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-) (./paper1_criteria.tex [8 <./figs/lmc_locus_3sig.png>] [9]
-<figs/completeness_contamination_jkcut.pdf, id=397, 433.62pt x 433.62pt>
+[7 <./figs/contaminant_color_color_distr.pdf>] [8 <./figs/lmc_locus_3sig.png>])
+(./paper1_criteria.tex [9]
+<figs/completeness_contamination_jkcut.pdf, id=393, 433.62pt x 433.62pt>
 File: figs/completeness_contamination_jkcut.pdf Graphic file (type pdf)
 
 <use figs/completeness_contamination_jkcut.pdf>
 Package pdftex.def Info: figs/completeness_contamination_jkcut.pdf used on inpu
-t line 27.
+t line 26.
 (pdftex.def)             Requested size: 238.49121pt x 238.49173pt.
 
-<figs/completeness_contamination_w23cut.pdf, id=398, 433.62pt x 433.62pt>
-File: figs/completeness_contamination_w23cut.pdf Graphic file (type pdf)
+<figs/completeness_contamination_allcuts.pdf, id=394, 433.62pt x 433.62pt>
+File: figs/completeness_contamination_allcuts.pdf Graphic file (type pdf)
 
-<use figs/completeness_contamination_w23cut.pdf>
-Package pdftex.def Info: figs/completeness_contamination_w23cut.pdf used on inp
-ut line 27.
+<use figs/completeness_contamination_allcuts.pdf>
+Package pdftex.def Info: figs/completeness_contamination_allcuts.pdf used on in
+put line 26.
 (pdftex.def)             Requested size: 238.49121pt x 238.49173pt.
 
-Overfull \hbox (7.22743pt too wide) in paragraph at lines 27--28
+Overfull \hbox (7.22743pt too wide) in paragraph at lines 26--27
 [][][] 
  []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figs/ogle_completeness_map.png, id=401, 578.16pt x 578.16pt>
+<figs/ogle_completeness_map.png, id=397, 578.16pt x 578.16pt>
 File: figs/ogle_completeness_map.png Graphic file (type png)
 
 <use figs/ogle_completeness_map.png>
-Package pdftex.def Info: figs/ogle_completeness_map.png used on input line 65.
+Package pdftex.def Info: figs/ogle_completeness_map.png used on input line 51.
 (pdftex.def)             Requested size: 433.62pt x 433.61893pt.
- [10 <./figs/completeness_contamination_jkcut.pdf> <./figs/completeness_contami
-nation_w23cut.pdf
 
-pdfTeX warning: /usr/texbin/pdflatex (file ./figs/completeness_contamination_w2
-3cut.pdf): PDF inclusion: multiple pdfs with page group included in a single pa
-ge
->]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[10 <./figs/completeness_contamination_jkcut.pdf> <./figs/completeness_contamin
+ation_allcuts.pdf
+
+pdfTeX warning: /usr/texbin/pdflatex (file ./figs/completeness_contamination_al
+lcuts.pdf): PDF inclusion: multiple pdfs with page group included in a single p
+age
+>] <figs/taurus_field_YSOs.pdf, id=445, 289.08pt x 289.08pt>
+File: figs/taurus_field_YSOs.pdf Graphic file (type pdf)
+
+<use figs/taurus_field_YSOs.pdf>
+Package pdftex.def Info: figs/taurus_field_YSOs.pdf used on input line 59.
+(pdftex.def)             Requested size: 433.62pt x 433.64098pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<figs/ysos_taurus_color.pdf, id=448, 867.24pt x 289.08pt>
+File: figs/ysos_taurus_color.pdf Graphic file (type pdf)
+
+<use figs/ysos_taurus_color.pdf>
+Package pdftex.def Info: figs/ysos_taurus_color.pdf used on input line 63.
+(pdftex.def)             Requested size: 433.62pt x 144.53964pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<figs/remove_ysos.pdf, id=449, 578.16pt x 289.08pt>
+File: figs/remove_ysos.pdf Graphic file (type pdf)
+ <use figs/remove_ysos.pdf>
+Package pdftex.def Info: figs/remove_ysos.pdf used on input line 67.
+(pdftex.def)             Requested size: 433.62pt x 216.80946pt.
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -513,47 +539,53 @@ ination with the same identifier (name{Hfootnote.4}) has been already used, dup
 licate ignored
 <to be read again> 
                    \relax 
-l.329 \end{thebibliography}
+l.309 \end{thebibliography}
                            )
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 89.
- [13] [14 <./figs/ogle_completeness_map.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 89.
+ [13] [14] [15 <./figs/ogle_completeness_map.png>]
+[16 <./figs/taurus_field_YSOs.pdf>] [17 <./figs/ysos_taurus_color.pdf> <./figs/
+remove_ysos.pdf
 
-(./paper1.aux)
+pdfTeX warning: /usr/texbin/pdflatex (file ./figs/remove_ysos.pdf): PDF inclusi
+on: multiple pdfs with page group included in a single page
+>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 89.
+ (./paper1.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 89.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 89.
 Package rerunfilecheck Info: File `paper1.out' has not changed.
-(rerunfilecheck)             Checksum: 4D03EC909EB3F21EE890385C1527334C;1163.
+(rerunfilecheck)             Checksum: 9026278CCCC02DE2C8D9B757DAA07255;1105.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 89.
  ) 
 Here is how much of TeX's memory you used:
- 6970 strings out of 493488
- 99020 string characters out of 3141326
- 214890 words of memory out of 3000000
- 10064 multiletter control sequences out of 15000+200000
+ 6989 strings out of 493488
+ 99386 string characters out of 3141326
+ 218743 words of memory out of 3000000
+ 10077 multiletter control sequences out of 15000+200000
  13840 words of font info for 56 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 34i,12n,29p,1682b,484s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 34i,12n,29p,1682b,456s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
 /usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></
-usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></us
-r/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/
-local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/lo
-cal/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local
-/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/te
-xlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texli
-ve/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texliv
-e/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/
-2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2
-012/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/20
-12/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb></usr/local/texlive/2012
-/texmf-dist/fonts/type1/urw/ncntrsbk/uncr8a.pfb>
-Output written on paper1.pdf (14 pages, 1315809 bytes).
+usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></us
+r/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/
+local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/lo
+cal/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/loca
+l/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/t
+exlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texl
+ive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive
+/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/
+2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/20
+12/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/201
+2/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2012
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb></usr/local/texlive/2012/t
+exmf-dist/fonts/type1/urw/ncntrsbk/uncr8a.pfb>
+Output written on paper1.pdf (17 pages, 1712173 bytes).
 PDF statistics:
- 536 PDF objects out of 1000 (max. 8388607)
- 475 compressed objects within 5 object streams
- 98 named destinations out of 1000 (max. 500000)
- 169 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 626 PDF objects out of 1000 (max. 8388607)
+ 545 compressed objects within 6 object streams
+ 101 named destinations out of 1000 (max. 500000)
+ 176 words of extra memory for PDF output out of 10000 (max. 10000000)
 
