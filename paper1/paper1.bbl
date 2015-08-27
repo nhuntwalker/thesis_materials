@@ -1,16 +1,5 @@
-\begin{thebibliography}{50}
+\begin{thebibliography}{46}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
-
-\bibitem[{{Ahn} {et~al.}(2012){Ahn}, {Alexandroff}, {Allende Prieto},
-  {Anderson}, {Anderton}, {Andrews}, {Aubourg}, {Bailey}, {Balbinot}, {Barnes},
-  \& et~al.}]{2012ApJS..203...21A}
-{Ahn}, C.~P., {et~al.} 2012, \apjs, 203, 21
-
-\bibitem[{{Alcock} {et~al.}(1997){Alcock}, {Allsman}, {Alves}, {Axelrod},
-  {Becker}, {Bennett}, {Cook}, {Freeman}, {Griest}, {Guern}, {Lehner},
-  {Marshall}, {Minniti}, {Peterson}, {Pratt}, {Quinn}, {Rodgers}, {Sutherland},
-  \& {Welch}}]{1997ApJ...482...89A}
-{Alcock}, C., {et~al.} 1997, \apj, 482, 89
 
 \bibitem[{{Bahcall} \& {Soneira}(1980)}]{1980ApJS...44...73B}
 {Bahcall}, J.~N., \& {Soneira}, R.~M. 1980, \apjs, 44, 73
@@ -94,10 +83,6 @@
   {Tucker}, {Vanden Berk}, {Vogeley}, {Weinberg}, \&
   {Yanny}}]{2001AJ....122.2267E}
 {Eisenstein}, D.~J., {et~al.} 2001, \aj, 122, 2267
-
-\bibitem[{{Fraser} {et~al.}(2008){Fraser}, {Hawley}, \&
-  {Cook}}]{2008AJ....136.1242F}
-{Fraser}, O.~J., {Hawley}, S.~L., \& {Cook}, K.~H. 2008, \aj, 136, 1242
 
 \bibitem[{{Gilmore} {et~al.}(1989){Gilmore}, {Wyse}, \&
   {Kuijken}}]{1989ARA&A..27..555G}
@@ -269,11 +254,6 @@
   {Hernandez}, {Gebhard}, {Honeycutt}, {Mufson}, {Musser}, \&
   {Rengstorf}}]{2001ApJ...554L..33V}
 {Vivas}, A.~K., {et~al.} 2001, \apjl, 554, L33
-
-\bibitem[{{Wenger} {et~al.}(2000){Wenger}, {Ochsenbein}, {Egret}, {Dubois},
-  {Bonnarel}, {Borde}, {Genova}, {Jasniewicz}, {Lalo{\"e}}, {Lesteven}, \&
-  {Monier}}]{2000A&AS..143....9W}
-{Wenger}, M., {et~al.} 2000, \aaps, 143, 9
 
 \bibitem[{{Wood} {et~al.}(1999){Wood}, {Alcock}, {Allsman}, {Alves}, {Axelrod},
   {Becker}, {Bennett}, {Cook}, {Drake}, {Freeman}, {Griest}, {King}, {Lehner},

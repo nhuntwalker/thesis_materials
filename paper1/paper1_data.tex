@@ -2,25 +2,14 @@
 \label{sec:data}
 
 Our principal data source is the merged WISE-2MASS catalog. In order to derive
-WISE-2MASS color-based selection criteria, we use %several training samples
-%described below: a heterogeneous sample of bright \agb\ stars listed in 
-%SIMBAD database and more homogneous fainter samples selected using 
-%optical time-domain surveys OGLE-III and MACHO. The latter samples 
-%include \agb\ stars from the LMC and SMC and are also used to 
-%calibrate color-absolute magnitude relations that underlie our distance
-%estimates. In order to assess what infrared populations could contribute to
-%contamination of selected \agb\ candidates, we utilize a number of SDSS
-%catalogs, also described below. We conclude this section by describing
-%how these catalogs auxiliary catalogs were  positionally merged with the 
-%WISE-2MASS catalog and summarize the object counts before and after quality control in Table 1 
-a homogenous sample of AGB stars from the OGLE-III Catalog of Variable Stars supplying objects in the Magellanic Clouds. This sample serves to calibrate color-color and color-absolute magnitude
+WISE-2MASS color-based selection criteria, we use a homogenous sample of AGB stars from the OGLE-III Catalog of Variable Stars supplying objects in the Magellanic Clouds. This sample serves to calibrate color-color and color-absolute magnitude
 relations that underlie our distance estimates. In order to assess what infrared populations
 could contribute to contamination of selected \agb\ candidates, we utilize
 extragalactic sources from SDSS data release 7 pulled from the NYU Value-added Galaxy Catalog,
 the SDSS unofficial Luminous Red Galaxy sample,
 and young stellar objects identified in \wise\ data, also described below. 
 We conclude this section by describing how these auxiliary catalogs were positionally merged
-with the WISE-2MASS catalog, summarize the object counts before and after quality control (Table~\ref{tab:reductions}), and summarize the effects of WISE-2MASS color-color cuts (Tables~\ref{tab:criteria_completeness} \& ~\ref{tab:criteria_contamination}) on the AGB and contaminant samples. 
+with the WISE-2MASS catalog, summarize the object counts before and after quality control (Table~\ref{tab:reductions}), and summarize the effects of WISE-2MASS color-color cuts (Table~\ref{tab:criteria_completeness_contamination}) on the AGB and contaminant samples. 
 
 \subsection{WISE-2MASS catalog}
 In this study, we rely heavily on data from the \allwise\, extension of the \wise\, survey, combining data from the initial All-Sky Data Release, the 3-band cryogenic data release, and the NEOWISE post-cryogenic data release \citep{2013wise.rept....1C}. The initial \wise\,All-Sky Data Release observed the sky between January and August 2010, observing the sky 1.2 times on average with four detectors, operating at 3.4, 4.6, 12, and 22$\mu$m. Hereon we refer to \allwise\, photometric bands at [3.4$\mu$m/4.6$\mu$m/12$\mu$m/22$\mu$m] as [$W1/W2/W3/W4$]. The positions of objects in the \wise\, catalog were calibrated using the \twomass\, point source catalog. 
@@ -38,9 +27,10 @@ The 3-band cryogenic data release contains data from $W1$, 2, and 3, and surveye
 %Using Fourier decomposition, \cite{2008PhDT.........6F} identified and classified a population of 46,832 LPVs in the LMC, 3,943 in the SMC {\color{red}[check this]} , and {\color{red}[some other number]} in the Milky Way Bulge with matches to 2MASS. We note that due to high scatter and uncertainty of Galactic objects in period-magnitude space, we only take sequences 1 and 2 (Mira-type variables) for the Milky Way Bulge sample. Each object carries observations in Kron-Cousins $V$ \& $R$, and 2MASS photometry. AGB stars are separated from RGBs by identifying the tip of the RGB ($K_s < 12.3$ in the LMC and $K_s < 12.8$ in the SMC). {\color{red}[some small tidbit about the reduction procedure]}. 
 
 \subsection{AGB stars from the OGLE-III Catalog of Variable Stars}\label{sec:ogle}
-The OGLE-III Catalog of Variable Stars (CVS) \citep{2008AcA....58...69U,2009AcA....59..239S,2011AcA....61..217S} is a subset of the overall OGLE-III dataset, containing roughly 10 years of observations in the $V$- and $I$-bands of over 120,000 variable stars, with typically 700-900 data points per star in the $I$-band and about 50 data points per star in $V$-band. With high-precision photometry \citep[$~0.01$ mag][]{2007AcA....57..201S}, these observations saturate at $I = 12.5$ mag, and are limited at the faint end at $I = 20.5$ mag \citep{2001AcA....51..303Z}. The variability of these stars covers a wide range of periodicity ($4 < P < 2000$ days) and amplitudes ($0.005 < A_I < 5.7$ mag).
+The OGLE-III Catalog of Variable Stars (CVS) \citep{2008AcA....58...69U,2009AcA....59..239S,2011AcA....61..217S} is a subset of the overall OGLE-III dataset, containing roughly 10 years of observations in the $V$- and $I$-bands of over 120,000 variable stars, with typically 700-900 data points per star in the $I$-band and about 50 data points per star in $V$-band. With high-precision photometry \citep[$\sim0.01$ mag,][]{2007AcA....57..201S}, these observations saturate at $I = 12.5$ mag, and are limited at the faint end at $I = 20.5$ mag \citep{2001AcA....51..303Z}. The variability of these stars covers a wide range of periodicity ($4 < P < 2000$ days) and amplitudes ($0.005 < A_I < 5.7$ mag).
 
 The OGLE-III CVS is accessible through an online database\footnote{\url{http://ogledb.astrouw.edu.pl/~ogle/CVS/}}, with long-period variables (LPVs) classified by object type, evolutionary status, and spectral type. Object type is based chiefly on variability and luminosity. OGLE Small Amplitude Red Giants (hereon OSARGs) are weakly-variable ($0.005 < A_I < 0.13$ mag), with relatively short periods \citep[$10 < P < 100$ days;][]{2004AcA....54..129S}. Additionally, because these objects are multiperiodic, OSARGs are selected using their period ratios and their distances from established period-luminosity (log$P-L$) sequences from \cite{1999IAUS..191..151W}. For a more detailed description of their selection, see \cite{2007AcA....57..201S}. Mira variables and Semi-Regular Variables (hereon SRVs) are identified using $I$-band amplitudes and $P-W_I$, where $W_I$ is the reddening-free Wesenheit index \citep{2005AcA....55..331S}:
+
 \begin{eqnarray}
 W_I &=& I - 1.55(V-I)
 \end{eqnarray}
@@ -91,7 +81,7 @@ The color-color space occupied by AGB stars showing significant photospheric emi
 (J - K_s) & > & 40.19(W1-W2)^3 - 9.78(W1-W2)^2 + 0.54(W1-W2) + 0.64
 \end{eqnarray}
 
-The resulting locus sample, as well as the original \cite{2014MNRAS.440.3430D} bounds and locus are showin in Fig~\ref{fig:locus}. Note that our sample goes beyond the limits of the stated locus.
+The resulting locus sample, as well as the original \cite{2014MNRAS.440.3430D} bounds and locus are shown in in Fig~\ref{fig:locus}. Note that our sample goes beyond the limits of the stated locus.
 
 \begin{figure}[h]
 \includegraphics[width=3in]{figs/lmc_locus_3sig.png}
@@ -102,13 +92,12 @@ The resulting locus sample, as well as the original \cite{2014MNRAS.440.3430D} b
 \subsection{Merged Samples\label{sec:merged}}
 The OGLE-III AGB sample, as well as the SDSS and YSO samples, were matched to the ALLWISE data products via the {\tt GATOR} tool at the NASA/IPAC Infrared Science Archive\footnote{\url{http://irsa.ipac.caltech.edu/cgi-bin/Gator/nph-scan?mission=irsa&submit=Select&projshort=WISE}}. The accepted matching radius was 3" execept in the case of YSOs, which were limited to 1". YSO objects were obtained from the VIZIER service already possessing WISE observations, so we were able to accept a smaller matching radius as we only sought the extra 2MASS information.
 
-The final OGLE-2MASS-WISE AGB sample is produced from the obejct sample in section~\ref{sec:ogle}. We apply the point source saturation limits of [$W1/W2/W3/K_s$] $<$ [$2.0/1.5/-3.0/8.5$]. We also enforce, in order, the 5$\sigma$ faint limits for [$W1/W2/W3/K_s$]  $<$ [$16.83/15.6/11.32/15.5$]. The WISE point source saturation and 5$\sigma$ faint limits can be found in \cite{2012wise.rept....1C}. The 2MASS faint and saturation limits are found in \cite{2006AJ....131.1163S}. To ensure quality measurements in the desired bands, we also enforce [$W1/W2/W3$] SNR $> 3$, and contamination \& confusion flags ({\tt cc\_flag}) set to 0 in each of those bands. The VAGC, LRG, and YSO samples are filtered through the same criteria. Note that we deliberately neglect $W4$ because, after applying the 5$\sigma$ faint limits as well as {\tt cc\_flag}=0, our sample is too heavily reduced. The resulting populations from each reduction step can be found in Table~\ref{tab:reductions}.
+The final OGLE-2MASS-WISE AGB sample is produced from the obejct sample in section~\ref{sec:ogle}. We apply the point source saturation limits of [$W1/W2/W3/K_s$] $<$ [$2.0/1.5/-3.0/8.5$]. We also enforce, in order, the 5$\sigma$ faint limits for [$W1/W2/W3/K_s$]  $<$ [$16.83/15.6/11.32/15.5$]. The WISE point source saturation and 5$\sigma$ faint limits can be found in \cite{2012wise.rept....1C}. The 2MASS faint and saturation limits are found in \cite{2006AJ....131.1163S}. To ensure quality measurements in the desired bands, we also enforce [$W1/W2/W3$] SNR $> 3$, and contamination \& confusion flags ({\tt cc\_flag}) set to 0 in each of those bands. The VAGC, LRG, and YSO samples are filtered through the same criteria. Note that we deliberately neglect $W4$ because, after applying the 5$\sigma$ faint limits as well as {\tt cc\_flag}=0, our sample is too heavily reduced. For similar reasons, we only apply the {\tt cc\_flag} criteria to [$W1/W2$], noting that clean flags in these two bands should be sufficient for source detection considering the extended NEOWISE mission contains extra observations for these wavelengh regimes. The resulting populations from each reduction step can be found in Table~\ref{tab:reductions}.
 
 \begin{table}[h]
 	\begin{center}
 	
 	\scalebox{0.85}{
-
 		\begin{tabular}{l r r r r r r r r r r}
 		\hline\hline
 		Population & OGLE & QSO & AGN & SF & SB & LRGs & YSOs & Locus & \textbf{Total} \\ 
@@ -120,8 +109,9 @@ The final OGLE-2MASS-WISE AGB sample is produced from the obejct sample in secti
 		 $W1$-3 faint limit & 19,358 & 6,728 & 3,005 & 35,678 & 10,105 & 1,184 & 214 & 3,154 & $\mathbf{79,426}$  \\
 		 $W1$-3, $K_s$ faint limit & 19,358 & 5,283 & 2,878 & 34,299 & 9,676 & 1,167 & 213 & 3,070 & $\mathbf{75,944}$ \\
 		 $W1$-3 SNR $> 3$ & 18,995 & 5,279 & 2,876 & 34,285 & 9,673 & 1,079 & 213 & 3,056 & $\mathbf{75,456}$\\
+		 cc\_flag = 0 & 9,239 & 5,029 &  2,741 &  32,805 &  9,219 &  1,038 & 184 &  3,056 & $\mathbf{63,308}$\\
 		\hline\hline
-		\end{tabular}}    
+		\end{tabular}}
 	\caption{Sample populations with respect to each reduction step. Please see section~\ref{sec:merged} for the appropriate saturation limits, faint limits, and WISE matching radii.\label{tab:reductions}}
 	\end{center}
 	
