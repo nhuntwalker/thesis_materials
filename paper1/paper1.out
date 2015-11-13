@@ -1,15 +1,19 @@
 \BOOKMARK [1][-]{section.1}{Introduction}{}% 1
 \BOOKMARK [1][-]{section.2}{Input Catalogs and Data Preparation}{}% 2
 \BOOKMARK [2][-]{subsection.2.1}{WISE-2MASS catalog}{section.2}% 3
-\BOOKMARK [2][-]{subsection.2.2}{AGB stars from the OGLE-III Catalog of Variable Stars}{section.2}% 4
-\BOOKMARK [2][-]{subsection.2.3}{Extragalactic catalogs from SDSS}{section.2}% 5
-\BOOKMARK [3][-]{subsubsection.2.3.1}{The NYU Value-added Galaxy Catalog}{subsection.2.3}% 6
-\BOOKMARK [3][-]{subsubsection.2.3.2}{The Luminous Red Galaxy Sample}{subsection.2.3}% 7
-\BOOKMARK [2][-]{subsection.2.4}{WISE+2MASS Young Stellar Objects}{section.2}% 8
-\BOOKMARK [2][-]{subsection.2.5}{WISE+2MASS Stellar Locus}{section.2}% 9
-\BOOKMARK [2][-]{subsection.2.6}{Merged Samples}{section.2}% 10
-\BOOKMARK [1][-]{section.3}{Object Selection Criteria}{}% 11
-\BOOKMARK [2][-]{subsection.3.1}{Completeness and Contamination of Initial Samples}{section.3}% 12
-\BOOKMARK [2][-]{subsection.3.2}{Accounting for YSOs}{section.3}% 13
-\BOOKMARK [1][-]{section.4}{AGB Candidate Distribution}{}% 14
-\BOOKMARK [1][-]{section.5}{Conclusions}{}% 15
+\BOOKMARK [2][-]{subsection.2.2}{Variable Giants from the OGLE-III Catalog of Variable Stars}{section.2}% 4
+\BOOKMARK [3][-]{subsubsection.2.2.1}{AGB Stars}{subsection.2.2}% 5
+\BOOKMARK [3][-]{subsubsection.2.2.2}{Red Giant Branch Stars}{subsection.2.2}% 6
+\BOOKMARK [2][-]{subsection.2.3}{Extragalactic catalogs from SDSS}{section.2}% 7
+\BOOKMARK [3][-]{subsubsection.2.3.1}{The NYU Value-added Galaxy Catalog}{subsection.2.3}% 8
+\BOOKMARK [3][-]{subsubsection.2.3.2}{The Luminous Red Galaxy Sample}{subsection.2.3}% 9
+\BOOKMARK [2][-]{subsection.2.4}{WISE+2MASS Young Stellar Objects}{section.2}% 10
+\BOOKMARK [2][-]{subsection.2.5}{WISE+2MASS Stellar Locus}{section.2}% 11
+\BOOKMARK [2][-]{subsection.2.6}{Merged Samples}{section.2}% 12
+\BOOKMARK [1][-]{section.3}{Object Selection Criteria}{}% 13
+\BOOKMARK [2][-]{subsection.3.1}{Completeness and Contamination of Initial Samples}{section.3}% 14
+\BOOKMARK [2][-]{subsection.3.2}{Accounting for YSOs}{section.3}% 15
+\BOOKMARK [2][-]{subsection.3.3}{Removing RGBs from WISE Color-Color Space}{section.3}% 16
+\BOOKMARK [2][-]{subsection.3.4}{Post-processing Filter}{section.3}% 17
+\BOOKMARK [1][-]{section.4}{AGB Candidate Distribution}{}% 18
+\BOOKMARK [1][-]{section.5}{Conclusions}{}% 19

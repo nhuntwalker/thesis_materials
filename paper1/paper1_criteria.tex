@@ -1,6 +1,6 @@
 \section{Object Selection Criteria}
 \label{sec:criteria}
-In producing our candidate sample, we must consider our likely physical sources of contamination, and how removing those sources reduces the completeness of our criteria. In Section~\ref{sec:comp_cont} we consider sample completeness and contamination, and use the sample sets from Section~\ref{sec:merged} to draw simple criteria in WISE-2MASS color-color space. YSOs present a special case of IR contaminants, as they are fairly well embedded in the same regions as AGB stars. We consider the special case of YSOs in Section~\ref{sec:kill_ysos}, developing finer criteria to remove these objects while still preserving as much of the AGB sample as possible.
+In producing our candidate sample, we must consider our likely physical sources of contamination, and how removing those sources reduces the completeness of our criteria. Using the sample sets from Section~\ref{sec:merged}, we consider sample completeness and contamination in Section~\ref{sec:comp_cont} and devise simple criteria in WISE-2MASS color-color space. YSOs and RGBs present a special case of IR contaminants, as they are fairly well embedded in the same color-color regions as AGB stars. We consider the special case of YSOs in Section~\ref{sec:kill_ysos}, developing finer criteria to remove these objects while still preserving as much of the AGB sample as possible. We do the same with RGBs in Section~\ref{sec:kill_rgbs}.
 
 \subsection{Completeness and Contamination of Initial Samples}\label{sec:comp_cont}
 Sample completeness $\eta$ is defined as
@@ -11,20 +11,20 @@ where $N$ is the total number of objects in the sample, and $n_\text{missed}$ is
 \begin{eqnarray*}
 \epsilon &=& \frac{n_\text{spurious}}{n_\text{selected}}.
 \end{eqnarray*}
-where $n_\text{spurious}$ is the number of spurious sources and $n_\text{selected} = N + n_\text{spurious}$. Our goal is to get the lowest AGB sample ($\le$2\% contamination) while still retaining a large number of AGB stars.
+where $n_\text{spurious}$ is the number of spurious sources and $n_\text{selected} = N + n_\text{spurious}$. Our primary goal is to get an acceptably low contamination of the AGB sample ($\le$2\% contamination) while still retaining a large number of AGB stars.
 
 The difficulty with determining contamination is that none of the contaminant sample, save for the locus stars,  falls within the region occupied by our AGB sample: the LMC. However, knowing that there is essentially a uniform distribution of extragalactic sources on the sky {\color{red}[a citation would be great]}, we solve for the number density of objects in the 10,417 sq. deg. DR7 footprint. We then scale these number densities up by the $\sim76.5$ deg$^2$ area occupied by the LMC. This should provide a reasonable estimate for the number of sources that we would find within the region of the LMC, and by consequence estimate our final levels of extragalactic contamination in WISE-2MASS color-color space. 
 
 We employ the following color criteria to isolate AGB stars from their potential contaminants:
 \begin{eqnarray}
 &(J - K_s) &>\;\;1.1\label{eq:criteria1}\\
--0.1\;<&(W2 - W3) &<\;\; 2.5\label{eq:criteria2}
+0.2\;<&(W2 - W3) &<\;\; 2.5\label{eq:criteria2}
 \end{eqnarray}
-\noindent Figure~\ref{fig:colorcuts} shows completeness distributions for the OGLE-2MASS-WISE AGB sample, and corresponding contamination distributions for each contaminant sample. Table~\ref{tab:criteria_completeness_contamination} shows the completeness and contamination fractions for each color criterion. We include the lower limit in ($W2-W3$) because, although there's a higher penalty on completeness than reduction in contamination, we want to exclude the spike of locus stars with ($W2-W3$) $< -0.1$.
+\noindent Figure~\ref{fig:colorcuts} shows completeness distributions for the OGLE-2MASS-WISE AGB sample, and corresponding contamination distributions for the contaminant samples. YSOs are omitted as they were not objects that could be projected to the LMC. Table~\ref{tab:criteria_completeness_contamination} shows the completeness and contamination fractions for each color criterion. We include the lower limit in ($W2-W3$) because, although there's a higher penalty on completeness and a slight increase in contamination, we want to exclude the spike of locus stars with ($W2-W3$) $< 0.2$.
 
 \begin{figure}[h]
 \includegraphics[width=3.3in]{figs/completeness_contamination_jkcut.pdf}\includegraphics[width=3.3in]{figs/completeness_contamination_allcuts.pdf}
-\caption{\emph{Left:} Cumulative completeness and contamination distributions before $(J-K_s)$ color cut. \emph{Right:} Cumulative completeness and contamination after $(J-K_s)$ cut and before $(W2-W3)$ cuts. Colors are the same as Figure~\ref{fig:wisecontaminants}. Thick black line in top panels is OGLE-2MASS-WISE AGB completeness as a function of color. Bin width for both panels is 0.1 dex. \label{fig:colorcuts}}
+\caption{\emph{Left:} Cumulative completeness and contamination distributions before $(J-K_s)$ color cut. \emph{Right:} Cumulative completeness and contamination after $(J-K_s)$ and $(W2-W3)$ cuts. Thick black line in top panels is OGLE-2MASS-WISE AGB completeness as a function of color. The bottom panels show the contamination distributions with respect to color for stellar locus stars (\emph{orange, dashed}), RGB stars (\emph{red, dotted}), LRGs (\emph{purple, dashed}), QSOs (\emph{red, dashed}), AGN (\emph{green, dashed}), starforming galaxies (\emph{black, dashed}), and starburst galaxies (\emph{blue, dashed}). Bin width for both panels is 0.1 dex.  Shaded regions represent the color-color space affected by equations~\ref{eq:criteria1} \& \ref{eq:criteria2}. \label{fig:colorcuts}}
 \end{figure}
 
 \begin{table}[h]
@@ -32,11 +32,11 @@ We employ the following color criteria to isolate AGB stars from their potential
 	\scalebox{0.85}{		
 		\begin{tabular}{l r r r r r r r r}
 		\hline\hline
-		Critiera & QSO & AGN & LRG & SF & SB & Locus & \textbf{AGB Completeness}\\
+		Critiera & QSO & AGN & LRG & SF & SB & Locus & RGB & \textbf{AGB Completeness}\\
 		\hline
-		$(J-K_s) > 1.1$ & 0.34\% & 0.18 \%& 0.09\% & 0.34\% & 0.60\% & 4.48\% &90.97\%\\
-		$(W2-W3) < 2.2$ & 0.03\% & 0\%& 0.04\% & 0.03\% & 0.02\% & 1.60\% &89.43\% \\
-		$(W2-W3) > -0.1$ & 0.03\% & 0\%& 0.04\% & 0.03\% & 0.02\% & 1.59\% &88.83\% \\
+		$(J-K_s) > 1.1$ & 0.25\% & 0.13 \%& 0.08\% & 0.56\% & 0.33\% & 4.86\% & 9.65\% &91.29\%\\
+		$(W2-W3) < 2.5$ & 0.03\% & $<0.01$\%& 0.04\% & 0.05\% & 0.01\% & 1.73\% & 7.41\% &90.03\% \\
+		$(W2-W3) > 0.2$ & 0.03\% & $<0.01$\%& 0.05\% & 0.06\% & 0.02\% & 1.83\% & 7.94\% &83.13\% \\
 
 		\hline\hline
 		\end{tabular}
@@ -45,38 +45,72 @@ We employ the following color criteria to isolate AGB stars from their potential
 	\end{center}
 \end{table}
 
-Figure~\ref{fig:lmc_completeness} shows the distribution of recovered AGB stars on the sky as well as in color-color space. We reserve an accounting of YSOs for the next section, as there is significant overlap between YSOs and AGBs, and they are not evenly distributed across the sky.
+Figure~\ref{fig:lmc_completeness} shows the distribution of recovered AGB stars on the sky as well as in color-color space. We reserve a full accounting of YSOs and RGBs for the next subsections, as there is significant overlap between YSOs, RGBs, and AGBs, and they are not evenly distributed across the sky.
 
 \begin{figure}[h]
 \includegraphics[width=6in]{figs/ogle_completeness_map.png}
-\caption{Map of completeness fractions for AGB stars in the LMC \label{fig:lmc_completeness}}
+\caption{Completeness fraction distributions for AGB stars in the LMC. \emph{Top:} OGLE-III AGB completeness fractions with position. Bin size is 0.2 deg on each axis. \emph{Bottom:} completeness  fractions in color-color space. Dashed lines represent the primary AGB candidate criteria in equations~\ref{eq:criteria1} \& \ref{eq:criteria2}. Bin size is 0.1 dex on each axis. \label{fig:lmc_completeness}}
 \end{figure}
 
 \subsection{Accounting for YSOs}\label{sec:kill_ysos}
 YSOs often directly overlap with AGB stars in WISE color-color space, so we treat these objects separately from our  extragalactic contaminants. \cite{2011ApJS..196....4R} produced a catalog of YSOs in the Taurus Molecular Cloud to bring the total number of YSOs in that region up to 290. We use these and the AGB candidate criteria from Section~\ref{sec:comp_cont} to further refine our criteria and increase the purity of our sample.
 
 \begin{figure}[h]
-\includegraphics[width=6in]{figs/taurus_field_YSOs.pdf}
-\caption{YSOs (\emph{red x}) in the Taurus Molecular Cloud \citep{2011ApJS..196....4R}.\label{fig:yso_field}}
+\includegraphics[width=4in]{figs/taurus_field_YSOs.pdf}
+\caption{YSOs (\emph{red x}) in the Taurus Molecular Cloud (\emph{background}), sampled from \citep{2011ApJS..196....4R}.\label{fig:yso_field}}
 \end{figure}
 \begin{figure}[h]
-\includegraphics[width=6in]{figs/ysos_taurus_color.pdf}
-\caption{YSOs (\emph{red x}) and AGB candidates (\emph{black o}) in the Taurus Molecular Cloud.\label{fig:ysos_agbs_taurus}}
-\end{figure}
-\begin{figure}[h]
-\includegraphics[width=6in]{figs/remove_ysos.pdf}
-\caption{YSOs (\emph{red x}) and AGB candidates (\emph{black o}) in the Taurus Molecular Cloud.\label{fig:ysos_lmc}}
+\includegraphics[width=6.5in]{figs/ysos_taurus_color.pdf}
+\caption{YSOs (\emph{red x}) and AGB candidates (\emph{black o}) in the Taurus Molecular Cloud. \label{fig:ysos_agbs_taurus}}
 \end{figure}
 
-Figure~\ref{fig:yso_field} shows these 290 YSOs in the field of the Taurus Molecular Cloud, overplotted on WISE objects in that field. As shown in Table~\ref{tab:reductions}, after photometric and quality cuts we are left with 184 YSOs, and only 74 after applying equations~\ref{eq:criteria1} \& \ref{eq:criteria2}. In contrast, applying equations~\ref{eq:criteria1} \& \ref{eq:criteria2} as well as photometric criteria from Section~\ref{sec:merged} to the WISE field in the Taurus Molecular Cloud yields 6,995 AGB candidates. Figure~\ref{fig:ysos_agbs_taurus} shows the degree of entanglement in color-color space for YSOs and AGB candidates. We note, however, that because these are galactic AGB candidates, and the Milky Way is deficient in C-rich AGB stars, Figure~\ref{fig:ysos_agbs_taurus} misses the degree to which YSOs contaminate the C-rich sequence of AGB stars. To clarify this, we compare Taurus YSOs to AGB stars from the LMC (Figure~\ref{fig:ysos_lmc}). Based on their positions in color-color space, we add three more constraints to remove YSOs from our AGB candidate sample:
+Figure~\ref{fig:yso_field} shows these 290 YSOs in the field of the Taurus Molecular Cloud, overplotted on WISE objects in that field. As shown in Table~\ref{tab:reductions}, after photometric and quality cuts we are left with 174 YSOs, and only 68 after applying equations~\ref{eq:criteria1} \& \ref{eq:criteria2}. In contrast, applying equations~\ref{eq:criteria1} \& \ref{eq:criteria2} as well as photometric criteria from Section~\ref{sec:merged} to the WISE field in the Taurus Molecular Cloud yields 2,195 AGB candidates in that field. Figure~\ref{fig:ysos_agbs_taurus} shows the degree of entanglement in color-color space for YSOs and AGB candidates. However, we note that because these are galactic AGB candidates, and the Milky Way is deficient in C-rich AGB stars [XXX CITATION HERE XXX], Figure~\ref{fig:ysos_agbs_taurus} misses the degree to which YSOs contaminate the C-rich sequence of AGB stars. To clarify, we compare Taurus YSOs to AGB stars from the LMC (Figure~\ref{fig:ysos_lmc}). Based on their positions in color-color space, we add three more constraints to remove YSOs from our AGB candidate sample:
 
 \begin{align}
-(W1-W2) &< 0.75(W2-W3) - 0.33 & \text{for } (W2-W3) > 1.075\\
-(W1-W2) &> -(W2-W3) + 1.5 & \text{for }(W2-W3) > 1.075\\
-(W1-W2) &> 0.2 & \text{for }(W2-W3) > 1.3
+(W1-W2) &< 0.75(W2-W3) - 0.33 & \text{for } (W2-W3) > 1.075\label{eq:yso_criteria1}\\
+(W1-W2) &> -(W2-W3) + 1.5 & \text{for }(W2-W3) > 1.075\label{eq:yso_criteria2}\\
+(W1-W2) &> 0.2 & \text{for }(W2-W3) > 1.3\label{eq:yso_criteria3}
 \end{align}
 
-Collectively, these criteria preserve the C-rich AGB sequence, retain a relatively high completeness fraction for the LMC objects (82.72\%), and reduce the contamination in the Taurus Molecular Cloud due to YSOs from 1.91\% to 0.4\%.
+Collectively, these criteria preserve the C-rich AGB sequence, retain a relatively high completeness fraction for the LMC objects (82.34\%), and reduce the sample contamination in the Taurus Molecular Cloud due to YSOs from 1.91\% to 0.63\%.
+
+\begin{figure}[h]
+\includegraphics[width=6.5in]{figs/remove_ysos.pdf}
+\caption{YSOs (\emph{red x}) and OGLE-III AGBs (\emph{black o}) in the LMC before (\emph{left}) and after (\emph{right}) the application of YSO exclusion criteria in equations \ref{eq:yso_criteria1}-\ref{eq:yso_criteria3}. Dashed green lines outline the bounds for the YSO exclusion criteria, whose area is shaded in black.\label{fig:ysos_lmc}}
+\end{figure}
+
+\subsection{Removing RGBs from WISE Color-Color Space}\label{sec:kill_rgbs}
+From [cite that Sosynski paper] we see that in the LMC RGB stars overlap with AGBs in color-color and period-luminosity space, and are very difficult to disentangle from AGB stars. However, they are differentiated by the color-corrected magnitudes of TRGB stars and confidence in a narrow-enough distance distribution that these magnitudes can serve a similar purpose as an absolute magnitude--reference magnitudes where the TRGB can be identified and cut. Since we don't have the luxury of known absolute magnitudes or distances for AGB candidates in the Milky Way, we instead use the OGLE-III RGB sample to estimate where they would be in color-color space.
+
+We begin by convolving the color-color criteria of equations~\ref{eq:criteria1} \& \ref{eq:criteria2} with the YSO exclusion critieria in \ref{eq:yso_criteria1}-\ref{eq:yso_criteria3}, yielding 603 LMC RGB stars. 
+Even with this grand reduction in the population of RGB stars in our sample, we're still left with 7.97\% contamination after excluding YSO stars. This calls for a specific removal of RGB stars from the sample, so we sought to find where they are most concentrated and easiest removed without adversely affecting sample completeness.
+
+Figure~\ref{fig:rgbs_lmc} shows the distribution of the resulting RGB star sample with respect to the AGB star sample in the LMC in four colors. 
+We find that RGB stars overlap with AGB stars in a narrow sequence with the overwhelming majority falling under $J-K_s < 1.35$. In order to reduce the contamination from these objects in our candidate sample, we impose the following cut:
+
+\begin{figure}[h]
+\includegraphics[width=6.5in]{figs/agbs_rgbs_color.pdf}
+\caption{OGLE-III RGBs (\emph{red x}) and OGLE-III AGBs (\emph{black dot}) in the LMC. 
+\label{fig:rgbs_lmc}}
+\end{figure}
+
+\begin{align}
+(J-K_s) > 1.35 \text{ for } (W2-W3) > 0.8.\label{eq:rgb_criteria}
+\end{align}
+
+\noindent This new criterion results in an LMC AGB star completeness of 71.14\%, while reducing the RGB star contamination down to 1.05\%. The resulting distribution is seen in Figure~\ref{fig:rgbs_after_cut}.
+
+
+\begin{figure}[h]
+\includegraphics[width=6.5in]{figs/remove_rgbs.pdf}
+\caption{OGLE-III RGBs (\emph{red x}) and OGLE-III AGBs (\emph{black dot}) in the LMC before (\emph{left}) and after (\emph{right}) the application of equation~\ref{eq:rgb_criteria}. 
+\label{fig:rgbs_after_cut}}
+\end{figure}
+
+\subsection{Post-processing Filter}
+Using the criteria in equations~\ref{eq:criteria1}-\ref{eq:rgb_criteria}, we selected AGB candidates from the ALLWISE-2MASS database. We recovered 1,383,366 candidates, an almost full order of magnitude over the number estimated by [XXX CITE JACKSON, IVEZIC, AND KNAPP 2002XXX] for the entire Milky Way. Suspecting that we hadn't fully accounted for the contribution to the candidate sample from naked stars, we reconcile this discrepancy by adding one final cut motivated by Figure 4 [XXX CITE NIKUTTA ET AL 2014 XXX]. In that figure, stars from SDSS with $W1 < 15.8$ are plotted in $W1$ vs $(W1-W2)$, showing a median $(W1-W2)$ of -0.04 dex. With that in mind, we remove objects with $(W1-W2) < -0.04$, retaining a final  population of 306,793 candidate AGB stars.
+
+
 
 
 
